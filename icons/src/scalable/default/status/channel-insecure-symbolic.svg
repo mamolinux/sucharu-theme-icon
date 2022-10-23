@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="channel-insecure-symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="47.5625"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1904"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" />
+  <filter
+     color-interpolation-filters="sRGB"
+     id="filter4">
+    <feBlend
+       in2="BackgroundImage"
+       mode="darken"
+       id="feBlend2" />
+  </filter>
+  <g
+     transform="matrix(.74543 0 0 .74543 -.20584 -768.22)"
+     id="g10">
+    <path
+       id="path8"
+       style="stroke-width:0.74543;fill:#d33636"
+       d="M 8 2.0332031 C 5.9783193 2.0332031 4.3339844 3.677538 4.3339844 5.6992188 L 4.3339844 7.1894531 C 4.0450483 7.249833 3.8261719 7.5077832 3.8261719 7.8144531 L 3.8261719 13.396484 C 3.8261719 13.748104 4.1131797 14.033203 4.4648438 14.033203 L 11.535156 14.033203 C 11.88682 14.033203 12.173828 13.748104 12.173828 13.396484 L 12.173828 7.8144531 C 12.173828 7.5077832 11.954959 7.2501311 11.666016 7.1894531 L 11.666016 5.6992188 C 11.666016 3.677538 10.021681 2.0332031 8 2.0332031 z M 8 3.3085938 C 9.3183675 3.3085938 10.390625 4.3828789 10.390625 5.7011719 L 10.390625 7.1757812 L 5.609375 7.1757812 L 5.609375 5.7011719 C 5.609375 4.3828044 6.681558 3.3085938 8 3.3085938 z M 8 9.1015625 C 8.4941083 9.1015625 8.8945313 9.5020227 8.8945312 9.9960938 C 8.8945312 10.250882 8.7881407 10.481506 8.6171875 10.644531 L 8.8574219 11.914062 C 8.8704296 11.983387 8.8221063 12.039062 8.7519531 12.039062 L 7.2636719 12.039062 C 7.1935187 12.039062 7.1471457 11.982791 7.1601562 11.914062 L 7.3964844 10.658203 C 7.2170806 10.494581 7.1054687 10.257963 7.1054688 9.9960938 C 7.1054688 9.5020227 7.505891 9.1015625 8 9.1015625 z "
+       transform="matrix(1.3415076,0,0,1.3415076,0.27613592,1030.573)" />
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="network-cellular-signal-ok-rtl-symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="47.5625"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1904"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     fill="#bebebe"
+     transform="matrix(-1.0714286,0,0,1.0714286,339.07145,349.78571)"
+     id="g12">
+    <path
+       d="m 302,-312 14,-14 v 14 z"
+       opacity="0.35"
+       id="path8" />
+    <path
+       d="m 310,-320 -8,8 h 8 z"
+       id="path10" />
+  </g>
+</svg>
