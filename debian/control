@@ -1,0 +1,30 @@
+Source: sucharu-theme-icon
+Section: misc
+Priority: optional
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Build-Depends: debhelper-compat (= 13),
+               dh-migrations,
+Build-Depends-Indep: meson (>= 0.60),
+Standards-Version: 4.6.0
+Homepage: https://hsbasu.github.io/sucharu-theme-icon
+Vcs-Browser: https://github.com/hsbasu/sucharu-theme-icon
+Vcs-Git: https://github.com/hsbasu/sucharu-theme-icon.git
+
+Package: sucharu-theme-icon
+Architecture: all
+Depends: ${misc:Depends},
+Description: Sucharu Icon theme
+ This is the Icon theme for MamoLinux
+ .
+ This package contains the icon theme
+ .
+ If you want to follow development, more information here:
+ https://github.com/hsbasu/sucharu-theme-icon/icons.
+
+Package: mamolinux-icons
+Architecture: all
+Section: oldlibs
+Depends: sucharu-theme-icon,
+         ${misc:Depends}
+Description: transitional package for Settings for MamoLinux
+ This is a transitional package. It can safely be removed.
