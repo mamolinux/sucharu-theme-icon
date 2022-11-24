@@ -10,5 +10,15 @@ option('ubuntu-unity', type: 'boolean', value: false, description:'build Sucharu
 option('accent-colors',
     type: 'array',
     choices: [
+        # 'aqua',
+        # 'blue',
+        # 'brown',
+        # 'grey',
+        # 'orange',
+        # 'pink',
+        # 'purple',
+        # 'red',
+        # 'sand',
+        # 'teal',
     ],
 )
