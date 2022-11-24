@@ -1,36 +1,32 @@
-# [Repository name](https://github.com/hsbasu/template-repo)
+# [Sucharu Icons](https://hsbasu.github.io/sucharu-theme-icon)
 
 <p align="center">
 	<img src="#?sanitize=true" height="128" alt="Logo">
 </p>
 
+# Work In Progress
+
 <p align="center">
-	<a href="https://github.com/hsbasu/template-repo/blob/master/LICENSE">
-		<img src="https://img.shields.io/github/license/hsbasu/template-repo?label=License" alt="License">
+	<a href="https://github.com/hsbasu/sucharu-theme-icon/blob/master/LICENSE">
+		<img src="https://img.shields.io/github/license/hsbasu/sucharu-theme-icon?label=License" alt="License">
 	</a>
 	<a href="#">
-		<img src="https://img.shields.io/github/repo-size/hsbasu/template-repo?label=Repo%20size" alt="GitHub repo size">
+		<img src="https://img.shields.io/github/repo-size/hsbasu/sucharu-theme-icon?label=Repo%20size" alt="GitHub repo size">
 	</a>
-	<a href="https://github.com/hsbasu/template-repo/releases/latest">
-		<img src="https://img.shields.io/github/v/release/hsbasu/template-repo?label=Latest%20Stable%20Release" alt="GitHub release (latest by date)">
+	<a href="https://github.com/hsbasu/sucharu-theme-icon/releases/latest">
+		<img src="https://img.shields.io/github/v/release/hsbasu/sucharu-theme-icon?label=Latest%20Stable%20Release" alt="GitHub release (latest by date)">
 	</a>
-	<a href="https://github.com/hsbasu/template-repo/issues" target="_blank">
-		<img src="https://img.shields.io/github/issues/hsbasu/template-repo?label=Issues" alt="Open Issues">
+	<a href="https://github.com/hsbasu/sucharu-theme-icon/issues" target="_blank">
+		<img src="https://img.shields.io/github/issues/hsbasu/sucharu-theme-icon?label=Issues" alt="Open Issues">
 	</a>
-	<a href="https://github.com/hsbasu/template-repo/pulls" target="_blank">
-		<img src="https://img.shields.io/github/issues-pr/hsbasu/template-repo?label=PR" alt="Open PRs">
-	</a>
-	<a href="#">
-		<img src="https://img.shields.io/badge/Example%20Badge-example%20text-blue" alt="Example badge alt text">
+	<a href="https://github.com/hsbasu/sucharu-theme-icon/pulls" target="_blank">
+		<img src="https://img.shields.io/github/issues-pr/hsbasu/sucharu-theme-icon?label=PR" alt="Open PRs">
 	</a>
 	<a href="#download-latest-version">
-		<img src="https://img.shields.io/github/downloads/hsbasu/template-repo/total?label=Downloads" alt="Downloads">
+		<img src="https://img.shields.io/github/downloads/hsbasu/sucharu-theme-icon/total?label=Downloads" alt="Downloads">
 	</a>
 	<a href="#">
 		<img src="https://img.shields.io/badge/Example%20Badge-example%20text-blue?label=Downloads%40Latest%20Binary" alt="GitHub release (latest by date and asset)">
-	</a>
-	<a href="#">
-		<img src="https://img.shields.io/badge/Example%20Badge-example%20text-blue" alt="Example badge alt text">
 	</a>
 </p>
 
@@ -39,9 +35,9 @@ Repository description
 ## Download Latest Version
 
 <p align="center">
-  <a href="https://github.com/hsbasu/template-repo" target="_blank"><i class="fa fa-github"></i> View On GitHub</a></br>
-  <a href="https://github.com/hsbasu/template-repo/zipball/master"><i class="fa fa-file-zip-o"></i> Download .zip</a></br>
-  <a href="https://github.com/hsbasu/template-repo/tarball/master"><i class="fa fa-file-zip-o"></i> Download .tar.gz</a>
+  <a href="https://github.com/hsbasu/sucharu-theme-icon" target="_blank"><i class="fa fa-github"></i> View On GitHub</a></br>
+  <a href="https://github.com/hsbasu/sucharu-theme-icon/zipball/master"><i class="fa fa-file-zip-o"></i> Download .zip</a></br>
+  <a href="https://github.com/hsbasu/sucharu-theme-icon/tarball/master"><i class="fa fa-file-zip-o"></i> Download .tar.gz</a>
 </p>
 
 ## Features and Screenshots
@@ -49,7 +45,7 @@ Coming soon or create a Pull Request.
 
 ### Sample Screenshot
 <p align="center">
-	<img src="https://github.com/hsbasu/template-repo/raw/gh-pages/screenshots/sample-screenshot.png" alt="Sample Screenshot">
+	<img src="https://github.com/hsbasu/sucharu-theme-icon/raw/gh-pages/screenshots/sample-screenshot.png" alt="Sample Screenshot">
 </p>
 
 ## Contents
