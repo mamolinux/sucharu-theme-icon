@@ -228,10 +228,12 @@ def main(args, SRC, DEST):
     else:
         svg = args.svg + ".svg"
         file = os.path.join(SRC, svg)
+        total = 1
+        count = 1
 
         if os.path.exists(file):
             print('Rendering SVG "%s" in %s' % (svg, SRC))
-            handler = ContentHandler(file, True, filter=args.filter)
+            handler = ContentHandler(file, str(count), str(total), True, filter=args.filter)
             xml.sax.parse(open(file), handler)
             rendered_icons += 1
         else:
