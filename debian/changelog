@@ -1,3 +1,49 @@
+sucharu-theme-icon (0.0.2) stable; urgency=medium
+
+  * Add symbolic icons for categories
+  * Add symbolic icons for devices
+  * Add symbolic icons for emblems
+  * Add symbolic icons for camera
+  * Add symbolic icons for emotes
+  * Add symbolic icons for generic-symbols
+  * Add symbolic icons for legacy panels
+  * Add symbolic icons for mimetypes
+  * Add symbolic icons for multimedia
+  * Add symbolic icons for phosh
+  * Add symbolic icons for places
+  * Use meson build system to generate themes
+    - Generates the default and dark flavours
+    - All files are copied from Yaru
+  * Add symbolic icons for status
+  * Add symbolic icons for time
+  * Add symbolic icons for ui
+  * Add and optimize scalable camera icons
+  * Add and optimize scalable categories icons
+  * Add and optimize scalable emblem icons
+  * Add and optimize generic-symbols
+  * Add and optimize scalable legacy icons
+  * Add and optimize scalable devices icons
+  * Add and optimize scalable emoticons
+  * Add and optimize scalable icons
+    - Add and optimize categories
+    - Add and optimize mimetypes
+    - Add and optimize multimedia
+    - Add and optimize phosh
+    - Add and optimize time
+    - Add and optimize ui
+  * Add and optimize scalable places icons
+  * Add and optimize scalable status icons
+  * Add and optimize scalable actions and apps icons
+  * Add scalable hicolor app icons
+  * Add symlinks list and scalable hicolor icons
+    - Update README
+    - Add symlinks for hicolor icons
+  * Add fullcolor icons
+    - Copy fullcolor icons from yaru
+    - remove duplicate hicolor icons
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Fri, 25 Nov 2022 18:46:17 +0530
+
 sucharu-theme-icon (0.0.1) stable; urgency=medium
 
   * Initial release.
