@@ -1,3 +1,26 @@
+sucharu-theme-icon (0.0.3) stable; urgency=medium
+
+  * Add color icons for folders and trash
+    - Add folder open icon
+    - Add folder icon
+    - Add folder documents icon
+    - Add folder home icon
+    - Add folder downloads icon
+    - Add folder music icon
+    - Add folder pictures icon
+    - Add folder public icon
+    - Add folder network icon
+    - Add folder videos icon
+    - Add folder templates icon
+    - Add folder dropbox icon
+    - Add folder insync icon
+  * Add color icons for places
+    - Add desktop icon
+    - Add network-server icon
+    - Add network workgroup icon
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Sat, 04 Mar 2023 01:12:28 +0530
+
 sucharu-theme-icon (0.0.2) stable; urgency=medium
 
   * Add symbolic icons for categories
