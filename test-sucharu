@@ -1,0 +1,26 @@
+#!/bin/bash
+
+rm -rf builddir
+meson -Dprefix=$HOME/.local builddir
+
+echo "[b]uild or [t]est?"
+read ANS
+if [[ $ANS == "b" ]]; then
+	ninja -C builddir render-accented-icons
+elif [[ $ANS == "t" ]]; then
+	rm -rf ~/.local/share/icons/Sucharu*
+	meson compile -C builddir
+	meson install -C builddir
+elif
+	echo "Choice could not be accepted. Re-run the script and enter correct choice."
+fi
+
+# mv $HOME/.local/share/icons/Sucharu $HOME/.local/share/icons/Tucharu
+# mv $HOME/.local/share/icons/Sucharu-* $HOME/.local/share/icons/Tucharu-*
+
+# gsettings set org.cinnamon.desktop.interface icon-theme 'Sucharu'
+# gsettings set org.gnome.desktop.interface icon-theme 'Sucharu'
+# sleep 10
+
+# gsettings set org.cinnamon.desktop.interface icon-theme 'Sucharu-dark'
+# gsettings set org.gnome.desktop.interface icon-theme 'Sucharu-dark'
