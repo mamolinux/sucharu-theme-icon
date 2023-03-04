@@ -8,10 +8,12 @@ fs = import('fs')
 gnome = import('gnome')
 
 python = find_program('python3')
+sassc = find_program('sassc')
 
 subdir('common')
 
 components = [
+  'gtk',
   'icons',
   # 'cursors'
 ]
