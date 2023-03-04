@@ -9,7 +9,7 @@ gnome = import('gnome')
 
 python = find_program('python3')
 
-# subdir('common')
+subdir('common')
 
 components = [
   'icons',
