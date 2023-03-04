@@ -1,3 +1,29 @@
+sucharu-theme-icon (0.0.4) stable; urgency=medium
+
+  * Update fullcolor actions icons
+    - Update address-book-new
+    - Update folder-new
+  * Update fullcolor apps icons
+    - Update filemanager-app
+    - Update org.gnome.Software
+  * Update fullcolor categories icons and cleanup
+    - Update preferences-system-sound
+    - Clean-up unused Template
+  * Add test script and prepare accents
+    - Add common subdirectory in build script
+    - Add color aqua
+    - Add color blue
+    - Add color brown
+    - Add color grey
+    - Add color orange
+    - Add color pink
+    - Add color purple
+    - Add color red
+    - Add color sand
+    - Add color teal
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Sat, 04 Mar 2023 12:28:31 +0530
+
 sucharu-theme-icon (0.0.3) stable; urgency=medium
 
   * Add color icons for folders and trash
