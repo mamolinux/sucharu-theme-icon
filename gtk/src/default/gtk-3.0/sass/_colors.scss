@@ -137,3 +137,8 @@ $terminal_fg: if($variant == 'light', #2e3436, #d3d3d3);
 
 //special cased widget colors
 $progress_bg_color: if($variant== 'light', lighten($accent_bg_color, 10%), lighten($accent_bg_color, 5%));
+
+// // Optimize accent-color definition for default background colors
+// @import '../_sass-utils';
+// $link_color: optimize-contrast($bg_color, $accent_bg_color);
+// $link_visited_color: if($variant =='light', darken($link_color, 10%), lighten($link_color, 10%));
