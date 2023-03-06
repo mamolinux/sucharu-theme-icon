@@ -1,3 +1,29 @@
+sucharu-theme-icon (0.0.5) stable; urgency=medium
+
+  * Add gtk sass files to build accents
+    - Add common colorizing scripts for all variants
+    - Add gtk sass source files
+    - Add gtk as component to meson script
+    - Add sassc as dependency to meson build script
+  * Add accent icons for places
+    - Add folder-open
+    - Add folder
+    - Add user-home
+    - folder-documents.png
+    - folder-download.png
+    - folder-dropbox.png
+    - folder-music.png
+    - folder-pictures.png
+    - folder-publicshare.png
+    - folder-remote.png
+    - folder-templates.png
+    - folder-videos.png
+    - insync-folder.png
+    - user-desktop.png
+  * Update symbolic-link emblem
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Mon, 06 Mar 2023 20:56:28 +0530
+
 sucharu-theme-icon (0.0.4) stable; urgency=medium
 
   * Update fullcolor actions icons
