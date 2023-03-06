@@ -10,8 +10,8 @@ $tint: 'no-tint';
 $sucharu_colors: (
     bg-color: $bg_color,
     accent-bg-color: $sucharu_accent_bg_color,
-    accent-active-color: $progress_bg_color,
-    accent-focused-color: if($variant == 'dark', darken($accent_bg_color, 7%), darken($accent_bg_color, 3%)),
+    accent-active-color: if($variant == 'light' and $darker == 'false', darken($accent_bg_color, 15%), darken($accent_bg_color, 20%)),
+    accent-focused-color: if($variant == 'dark', lighten($accent_bg_color, 7%), lighten($accent_bg_color, 10%)),
     border-color: $borders_color,
     disabled-bg-color: mix($bg_color, $fg_color, 80%),
     switch-bg-color: if($variant == 'dark', lighten($inkstone, 5%), lighten($ash, 20%)),
@@ -19,7 +19,7 @@ $sucharu_colors: (
 );
 
 $sucharu_colors: map-merge($sucharu_colors, (
-    accent-border-color: lighten(map-get($sucharu_colors, accent-active-color), 17%),
+    accent-border-color: lighten(map-get($sucharu_colors, accent-active-color), 35%),
 ));
 
 @function opaque-color($color, $background: $bg_color) {
