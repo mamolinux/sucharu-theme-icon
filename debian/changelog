@@ -1,3 +1,39 @@
+sucharu-theme-icon (0.0.6) stable; urgency=medium
+
+  * Modify gtk accent colors
+    - Rebase colors from Yaru
+  * Fix icon preferences-system-power
+  * Update icon folders
+    - Add folder-open
+    - Add folder
+    - Add user-home
+    - folder-documents
+    - folder-download
+    - folder-dropbox
+    - folder-music
+    - folder-pictures
+    - folder-publicshare
+    - folder-remote
+    - folder-templates
+    - folder-videos
+    - insync-folder
+    - user-desktop
+  * Add accented emblem symbolic-link
+  * Add icon tweaks-app
+  * Add accented devices icons
+    - audio-speaker-center-back-testing
+    - audio-speaker-center-testing
+    - audio-speaker-left-back-testing
+    - audio-speaker-left-side-testing
+    - audio-speaker-left-testing
+    - audio-speaker-mono-testing
+    - audio-speaker-right-back-testing
+    - audio-speaker-right-side-testing
+    - audio-speaker-right-testing
+    - audio-subwoofer-testing
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Tue, 07 Mar 2023 11:49:58 +0530
+
 sucharu-theme-icon (0.0.5) stable; urgency=medium
 
   * Add gtk sass files to build accents
