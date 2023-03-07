@@ -301,8 +301,15 @@ for source in SOURCES:
     SRC = os.path.join(source_path, args.variant, source)
     DEST = os.path.abspath(os.path.join(dest_path, "Sucharu" if args.variant ==
                                         'default' else "Sucharu-" + args.variant))
+    if not os.path.exists(DEST):
+        os.mkdir(DEST)
+    
     if os.path.exists(SRC):
-        rendered_icons += main(args, SRC, DEST)
+        try:
+            rendered_icons += main(args, SRC, DEST)
+        except Exception as e:
+            print(SRC+" is a directory.")
+            print(e)
 
 if rendered_icons == 0:
     print('No SVG found to render')

@@ -73,7 +73,7 @@ foreach flavour: icon_flavors
     endif
 
     if is_accent
-      colors_definitions = gtk_yaru_colors_defs['@0@-gtk-@1@'.format(
+      colors_definitions = gtk_sucharu_colors_defs['@0@-gtk-@1@'.format(
         icon_dir, accent_color_gtk_version_reference)]
 
       foreach accent_svg: source_svgs
@@ -163,6 +163,18 @@ foreach flavour: icon_flavors
       alias_target('cleanup-rendered-icons-' + flavour, cleanup_rendered_flavour)
     endif
 
+    if is_accent
+      render_accented_targets += render_flavour_targets
+      render_and_symlink_accented_targets += render_and_symlink_flavour
+      cleanup_rendered_icons_accented_targets += cleanup_rendered_flavour
+
+      if not fs.is_dir(icon_dir)
+        warning('@0@ does not exists, ensure you generated it with `ninja -C @1@ render-icons-@2@,`'.format(
+          icon_dir, meson.project_build_root(), flavour))
+        continue
+      endif
+    endif
+
     # The part above this line is meant to only contain "target definition"
     # not to install or generate things. Put them below!
 
@@ -185,7 +197,7 @@ foreach flavour: icon_flavors
         '-type', 'd',
         included_names.length() > 0 ? ['('] + included_names + [')'] : [],
         '-printf', '%P\\n',
-        check: true
+        check: false
       ).stdout().strip().split('\n')
 
       if excluded_folders.length() == 1 and excluded_folders[0] == ''
@@ -319,6 +331,14 @@ foreach flavour: icon_flavors
       endforeach
     endif
 
+    # # install cursor thumbnail (cinnamon only)
+    # if get_option('cinnamon-shell') and flavour == 'default'
+    #   install_data(
+    #     join_paths('src', 'cursors', 'thumbnail.png'),
+    #     install_dir: join_paths(theme_install_dir, 'cursors')
+    #   )
+    # endif
+
     generate_index_theme_args = []
     foreach ef: excluded_folders
       generate_index_theme_args += ['--exclude-directory', ef]
@@ -359,6 +379,21 @@ foreach flavour: icon_flavors
       rename: index_theme,
     )
 
+    # if fs.is_file(icon_dir / cursor_theme)
+    #   install_data(
+    #     configure_file(
+    #       input: icon_dir / cursor_theme,
+    #       output: flavour + '-@0@'.format(cursor_theme),
+    #       configuration: {
+    #         'ProjectName': meson.project_name(),
+    #         'ThemeName': theme_name,
+    #       },
+    #     ),
+    #     install_dir: theme_install_dir,
+    #     rename: cursor_theme,
+    #   )
+    # endif
+
     # Cleanup empty directories, as per excluded files
     meson.add_install_script('bash', '-c',
       'find "${DESTDIR}/@0@" -type d -empty -print -delete'.format(theme_install_dir))
@@ -374,4 +409,20 @@ foreach flavour: icon_flavors
       suite: ['tools', 'generate-symlinks'],
       workdir: fs.parent(generate_symlinks.full_path()))
   endif
+endforeach
+
+alias_target('render-icons', render_targets)
+alias_target('render+symlink-icons', render_and_symlink_targets)
+alias_target('symlink-icons', symlink_targets)
+alias_target('cleanup-rendered-icons', cleanup_rendered_icons_targets)
+
+if render_accented_targets.length() > 0
+  alias_target('render-accented-icons', render_and_symlink_accented_targets)
+  alias_target('render-icons-accented', render_accented_targets)
+  alias_target('render+symlink-icons-accented', render_and_symlink_accented_targets)
+  alias_target('cleanup-rendered-icons-accented', cleanup_rendered_icons_accented_targets)
+endif
+
+foreach icon, targets: render_by_icon_targets
+  alias_target('icon-render-' + icon, targets)
 endforeach
