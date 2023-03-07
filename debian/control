@@ -5,6 +5,8 @@ Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
 Build-Depends: debhelper-compat (= 13),
                dh-migrations,
 Build-Depends-Indep: meson (>= 0.60),
+                     sassc,
+                     python3
 Standards-Version: 4.6.0
 Homepage: https://hsbasu.github.io/sucharu-theme-icon
 Vcs-Browser: https://github.com/hsbasu/sucharu-theme-icon
