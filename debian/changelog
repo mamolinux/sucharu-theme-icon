@@ -1,3 +1,28 @@
+sucharu-theme-icon (0.0.7) stable; urgency=medium
+
+  * Update and add helper scripts
+    - Update meson build script to generate accents
+      and rebase with Yaru
+    - Update fullcolor render script to create directory
+      for new variants
+    - Add script to find duplicates in scalable icons from Yaru
+  * remove duplicate jabref icon (#17)
+  * Add accented actions icons (#18)
+    - Add edit-select-all
+    - Add folder-new
+  * Update fullcolor folder-new icon (#19)
+  * Update debian packaging (#20)
+    - d/control: add build dependencies
+    - d/rules: remove override for auto_configure
+    - d/install: install icon files to usr/share/icons
+    - create not-installed for gtk theme files
+  * Update build and test scripts (#21)
+    - Update minimum meson version to 0.60
+    - Update test script to build all or
+      specific colour variant
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Wed, 08 Mar 2023 14:05:25 +0530
+
 sucharu-theme-icon (0.0.6) stable; urgency=medium
 
   * Modify gtk accent colors
