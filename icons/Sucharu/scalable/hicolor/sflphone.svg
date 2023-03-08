@@ -1,0 +1,24 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a">
+  <stop stop-color="#1edf19" offset="0"/>
+  <stop stop-color="#7af36f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#3889e9" offset="0"/>
+  <stop stop-color="#5ea5fb" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x1="400.51" x2="400.7" y1="546.07" y2="517.77" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient x1="41.165" x2="54.039" y1="89.364" y2="20.836" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#e3e3e3" offset="0"/>
+  <stop stop-color="#fffcff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d" x1="394.82" x2="396.73" y1="546.73" y2="518.37" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <g transform="matrix(1.4289 0 0 1.4289 -548.45 -735.93)">
+  <circle cx="400.57" cy="531.8" r="0" fill="url(#b)"/>
+  <g transform="matrix(1.1175 0 0 1.1175 -47.015 -62.46)">
+   <circle cx="400.57" cy="531.8" r="14" fill="url(#c)" stroke="url(#d)" stroke-width=".80769"/>
+   <circle cx="400.57" cy="531.8" r="14" fill="none"/>
+  </g>
+ </g>
+ <path transform="matrix(.076023 .0067919 -.0067919 .076023 12.904 9.4584)" d="m309.91 276.39-47.106-47.111c-9.3826-9.345-24.92-9.061-34.63 0.65197l-23.732 23.727c-1.4994-0.82636-3.0513-1.6895-4.683-2.6053-14.987-8.3039-35.498-19.685-57.083-41.286-21.648-21.646-33.04-42.189-41.37-57.185-0.87894-1.5888-1.7211-3.1205-2.5527-4.5752l15.928-15.904 7.8307-7.8403c9.7244-9.727 9.9925-25.26 0.63182-34.633l-47.106-47.116c-9.3607-9.359-24.906-9.075-34.63 0.65197l-13.276 13.352 0.36279 0.36016c-4.4516 5.6802-8.1716 12.232-10.94 19.296-2.5518 6.7248-4.1406 13.142-4.867 19.572-6.22 51.565 17.344 98.692 81.293 162.64 88.398 88.391 159.63 81.714 162.71 81.388 6.6932-0.80007 13.108-2.3993 19.627-4.931 7.0034-2.7358 13.55-6.4505 19.227-10.893l0.29005 0.25764 13.45-13.17c9.7042-9.7253 9.9838-25.264 0.62744-34.651z" fill-opacity=".65306"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path d="m38.996 2.562c3.61 0 6.541 2.931 6.541 6.541v32.711c0 3.61-2.931 6.541-6.541 6.541h-27.896c-3.611 0-6.542-2.931-6.542-6.541v-32.711c0-3.61 2.931-6.541 6.542-6.541h27.896z" fill="#ec6c9c"/>
+ <path d="m45.537 9.103c3.611 0 6.542 2.931 6.542 6.542v32.71c0 3.611-2.931 6.542-6.542 6.542h-27.896c-3.61 0-6.541-2.931-6.541-6.542v-32.71c0-3.611 2.931-6.542 6.541-6.542h27.896z" fill="#67d228"/>
+ <path d="m52.9 15.645c3.611 0 6.542 2.931 6.542 6.541v32.711c0 3.61-2.931 6.541-6.542 6.541h-27.896c-3.61 0-6.541-2.931-6.541-6.541v-32.711c0-3.61 2.931-6.541 6.541-6.541h27.896z" fill="url(#a)"/>
+ <text x="21.654px" y="43.863px" fill="#fff" font-family="'CeraPRO-Bold', sans-serif" font-size="19.621px">PDF</text>
+ <defs>
+  <linearGradient id="a" x2="1" gradientTransform="matrix(-2.9479e-16 -45.793 -40.979 -2.9479e-16 38.952 61.438)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0058ff" offset="0"/>
+   <stop stop-color="#009dc5" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

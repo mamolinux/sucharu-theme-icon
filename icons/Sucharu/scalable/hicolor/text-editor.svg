@@ -1,0 +1,23 @@
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 270.93 270.93" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="132.29" x2="132.29" y1="101.21" y2="270.54" gradientTransform="translate(-46.424 29.557)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fdfdfd" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.011553" y="-.012483" width="1.0231" height="1.025" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.1196871"/>
+  </filter>
+  <linearGradient id="b" x1="132.29" x2="132.29" y1="48.292" y2="132.96" gradientTransform="rotate(-15 135.47 161.53)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f3f2f3" offset="0"/>
+   <stop stop-color="#dcdadc" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -26.067)">
+  <g transform="matrix(.24118 .90008 .90008 -.24118 -42.598 78.56)">
+   <rect transform="rotate(-15)" x="-30.02" y="80.892" width="238.12" height="220.4" rx="11.4" fill="url(#a)" fill-rule="evenodd" style="paint-order:stroke markers fill"/>
+   <path d="m2.9509 82.954c-6.1004 1.6346-9.6955 7.8615-8.0609 13.962l11.327 42.275 230.01-61.631-11.327-42.275c-1.6346-6.1004-7.8615-9.6955-13.962-8.0609z" fill="url(#b)" fill-rule="evenodd" style="paint-order:stroke markers fill"/>
+   <rect transform="rotate(-15 135.47 161.53)" x="19.169" y="53.894" width="232.6" height="215.28" rx="11.135" fill="none" filter="url(#c)" opacity=".2" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.4047" style="paint-order:markers fill stroke"/>
+   <circle transform="matrix(.25882 .96593 .96593 -.25882 0 0)" cx="273.31" cy="-4.5359" r="11.805" fill="#0f0" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+</svg>

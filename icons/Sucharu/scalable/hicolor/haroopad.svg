@@ -1,0 +1,14 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x1="400.57" x2="400.57" y1="545.8" y2="517.8" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#dbdada" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x1="421.9" x2="422.52" y1="540.44" y2="522.5" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1584d8" offset="0"/>
+  <stop stop-color="#1cb2ff" offset="1"/>
+ </linearGradient>
+ <g transform="translate(-486.76 -502.73)" stroke-width="1.3174">
+  <rect transform="matrix(1.6347 0 0 1.6347 -144.07 -342.62)" x="386.57" y="517.8" width="28" height="28" ry="14" fill="url(#a)"/>
+  <path transform="matrix(1.3375 0 0 1.3375 -54.714 -185.56)" d="m423.44 523.59-1.1719 4.6997h3.2227l1.1841-4.6997h2.6978l-1.1841 4.6997h3.3814v2.6001h-4.0283l-0.84228 3.3447h3.4668v2.6245h-4.1016l-1.1719 4.6753h-2.6978l1.1719-4.6753h-3.2227l-1.1719 4.6753h-2.7222l1.1719-4.6753h-3.4058v-2.6245h4.0039l0.85449-3.3447h-3.4546v-2.6001h4.126l1.1719-4.6997zm1.3794 7.2998h-3.2226l-0.8545 3.3447h3.2227z" fill="url(#b)"/>
+ </g>
+</svg>

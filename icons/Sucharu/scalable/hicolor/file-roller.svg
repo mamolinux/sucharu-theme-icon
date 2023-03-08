@@ -1,0 +1,24 @@
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 270.93 270.93" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="137.58" x2="137.58" y1="-62.833" y2="344.62" gradientTransform="translate(2.1862e-5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5e1a3" offset="0"/>
+   <stop stop-color="#955e15" offset="1"/>
+  </linearGradient>
+  <radialGradient id="a" cx="135.47" cy="161.53" r="119.06" gradientTransform="matrix(1 0 0 .26667 0 118.46)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e9dfb9" offset="1"/>
+  </radialGradient>
+  <linearGradient id="c" x1="137.58" x2="137.58" y1="154.12" y2="170" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#060000" offset="0"/>
+   <stop stop-color="#060000" stop-opacity=".89401" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -26.067)">
+  <g fill-rule="evenodd">
+   <rect x="16.404" y="51.334" width="238.12" height="220.4" rx="11.4" fill="url(#b)" style="paint-order:stroke markers fill"/>
+   <rect x="16.404" y="129.78" width="238.12" height="63.5" ry="0" fill="url(#a)" style="paint-order:markers fill stroke"/>
+   <rect x="16.404" y="158.89" width="238.12" height="5.2917" ry="0" fill="url(#c)" opacity=".68" style="paint-order:markers fill stroke"/>
+  </g>
+  <rect x="16.985" y="51.873" width="236.96" height="219.32" rx="11.344" fill="none" opacity=".2" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0376" style="paint-order:markers fill stroke"/>
+ </g>
+</svg>

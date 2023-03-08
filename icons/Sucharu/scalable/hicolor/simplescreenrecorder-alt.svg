@@ -1,0 +1,32 @@
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 270.93 270.93" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="363.81" x2="363.81" y1="587.81" y2="-112.19" gradientTransform="matrix(.26458 0 0 .26458 67.782 93.849)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2f5fdd" offset="0"/>
+   <stop stop-color="#c3c" offset="1"/>
+  </linearGradient>
+  <linearGradient x1="363.81" x2="363.81" y1="587.81" y2="-112.19" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2f5fdd" offset="0"/>
+   <stop stop-color="#c3c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="132.29" x2="132.29" y1="50.937" y2="270.54" gradientTransform="translate(3.2811e-5 -1.8221e-6)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1a1a1a" offset="0"/>
+   <stop stop-color="#1a1a1a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="126.04" x2="107.92" y1="146.78" y2="178.17" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f6f7f7" offset="0"/>
+   <stop stop-color="#dce7f0" offset="1"/>
+  </linearGradient>
+  <filter id="d" x="-.011553" y="-.012483" width="1.0231" height="1.025" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.1196871"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -26.067)">
+  <rect x="16.404" y="51.334" width="238.12" height="220.4" rx="11.4" fill="url(#a)" fill-rule="evenodd" style="paint-order:stroke markers fill"/>
+  <rect x="19.169" y="53.894" width="232.6" height="215.28" rx="11.135" fill="none" filter="url(#d)" opacity=".1" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:markers fill stroke"/>
+  <g transform="matrix(1.2013 -.69355 .69355 1.2013 -123.56 99.607)">
+   <path d="m200.2 115.98c-0.65458-0.25136-1.284-0.37756-1.8889-0.37756-1.36 0-2.4918 0.47942-3.3991 1.4356l-30.443 30.368v-12.464c0-5.9936-2.1278-11.117-6.3833-15.373-4.2558-4.2553-9.3787-6.3831-15.373-6.3831h-53.179c-5.9923 0-11.117 2.1278-15.373 6.3831-4.2545 4.2558-6.3823 9.3792-6.3823 15.373v53.18c0 5.9931 2.1278 11.116 6.3825 15.372 4.2561 4.2556 9.3805 6.3833 15.373 6.3833h53.18c5.9939 0 11.117-2.1278 15.373-6.3833 4.2556-4.2556 6.3833-9.3784 6.3833-15.372v-12.54l30.443 30.443c0.90726 0.95594 2.0392 1.4351 3.3991 1.4351 0.60483 0 1.2343-0.12594 1.8889-0.37677 1.9651-0.85646 2.9464-2.3416 2.9464-4.4566v-82.189c-8e-4 -2.1161-0.98214-3.6015-2.9469-4.458z" fill="url(#b)" stroke-width=".26458"/>
+   <circle cx="114.6" cy="161.53" r="30" fill="#333" opacity=".75" stroke-width="2"/>
+   <circle cx="114.45" cy="161.53" r="18.049" fill="url(#c)" stroke-width="1.2033"/>
+  </g>
+ </g>
+</svg>

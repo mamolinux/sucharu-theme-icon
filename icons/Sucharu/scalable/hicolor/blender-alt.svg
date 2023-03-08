@@ -1,0 +1,63 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="f" x1="102.3" x2="102.3" y1="-.42687" y2="199.17" gradientTransform="matrix(4.5 0 0 4.5 62 90.362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fb8c21" offset="0"/>
+   <stop stop-color="#f15f19" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="101.81" x2="101.81" y1="-16.578" y2="242.72" gradientTransform="matrix(4.705 0 0 4.705 41 70.362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fbb521" offset="0"/>
+   <stop stop-color="#f15f19" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x1="520" x2="520" y1="32.362" y2="1052.4" gradientTransform="matrix(1.276 0 0 1.276 -134.41 -156.16)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b" x1="505.32" x2="505.32" y1="401.74" y2="681.74" gradientTransform="translate(-5.3168 -9.3735)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#333" offset="0"/>
+   <stop stop-color="#4d4d4d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a">
+   <stop stop-color="#e8ebec" offset="0"/>
+   <stop stop-color="#fdfeff" offset="1"/>
+  </linearGradient>
+  <filter id="k" x="-.036324" y="-.035682" width="1.0726" height="1.0714" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="11.623637"/>
+  </filter>
+  <radialGradient id="c" cx="100" cy="82.381" r="100" gradientTransform="matrix(4.705 0 0 3.5336 41 146.78)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="g" x1="140" x2="300" y1="372.36" y2="532.36" gradientTransform="matrix(3.125 0 0 3.125 -175.5 -873.27)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="140" x2="300" y1="372.36" y2="532.36" gradientTransform="matrix(3.125 0 0 3.125 721.21 -917.11)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <filter id="j" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <filter id="i" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="offset" in2="SourceGraphic" operator="in" result="composite2"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <circle cx="511.5" cy="540.86" r="470.5" color="#000000" fill="url(#e)"/>
+  <g>
+   <g transform="translate(0,10)" fill="#141414" filter="url(#k)" opacity=".2">
+    <ellipse transform="rotate(-30)" cx="168.58" cy="460.25" rx="183.31" ry="160.19" opacity="1" style="paint-order:stroke markers fill"/>
+    <circle cx="512.01" cy="545.85" r="384" opacity="1" style="paint-order:stroke markers fill"/>
+    <circle cx="401.32" cy="346.75" r="128" opacity="1" stroke="#f0f0f0" stroke-linecap="square" stroke-width="1.109" style="paint-order:stroke markers fill"/>
+   </g>
+   <circle cx="511.5" cy="540.86" r="470.5" color="#000000" fill="url(#c)" opacity=".2"/>
+   <circle cx="512" cy="540.36" r="490" fill="url(#h)" style="paint-order:stroke markers fill"/>
+   <circle cx="512" cy="540.36" r="450" color="#000000" fill="url(#f)"/>
+   <circle cx="512" cy="540.36" r="250" fill="url(#g)" fill-rule="evenodd" filter="url(#j)" opacity=".8" style="paint-order:stroke markers fill"/>
+   <circle cx="512" cy="540.36" r="128" fill="url(#b)" opacity=".82" style="paint-order:stroke markers fill"/>
+  </g>
+  <path d="m55 272.36" fill="none" stroke="#000" stroke-width="1px"/>
+  <path d="m50 267.36" fill="none" stroke="#000" stroke-width="1px"/>
+  <circle cx="1408.7" cy="496.52" r="250" fill="url(#d)" fill-rule="evenodd" opacity=".8" style="paint-order:stroke markers fill"/>
+  <circle cx="512" cy="540.36" r="128" fill="url(#b)" filter="url(#i)" opacity=".82" style="paint-order:stroke markers fill"/>
+ </g>
+</svg>

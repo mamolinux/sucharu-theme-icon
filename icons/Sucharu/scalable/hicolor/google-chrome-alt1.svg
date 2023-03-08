@@ -1,0 +1,69 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop stop-color="#ff663b" offset="0"/>
+   <stop stop-color="#ff503b" offset="1"/>
+  </linearGradient>
+  <filter id="h" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="13.928347"/>
+  </filter>
+  <linearGradient id="d" x1="520" x2="520" y1="24" y2="1004" gradientTransform="translate(-21.047 49.409)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f6f7f7" offset="0"/>
+   <stop stop-color="#dce7f0" offset="1"/>
+  </linearGradient>
+  <filter id="k" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="offset" in2="SourceGraphic" operator="in" result="composite2"/>
+  </filter>
+  <linearGradient id="f" x1="398.95" x2="398.95" y1="113.41" y2="913.41" gradientTransform="matrix(1.0588 0 0 1.0588 -32.409 -30.671)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="b" cx="550.95" cy="521.41" r="425" gradientTransform="matrix(1.0588 0 0 1.0588 -32.409 -30.671)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff663b" stop-opacity=".18504" offset="0"/>
+   <stop stop-color="#ff503b" stop-opacity=".96262" offset="1"/>
+  </radialGradient>
+  <linearGradient id="g" x1="538.95" x2="538.95" y1="373.41" y2="673.41" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffd600" offset="0"/>
+   <stop stop-color="#ffbc00" offset="1"/>
+  </linearGradient>
+  <filter id="j" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="6"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="offset" in2="SourceGraphic" operator="out" result="composite2"/>
+  </filter>
+  <filter id="i" x="-.36" y="-.36" width="1.72" height="1.72" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="30"/>
+  </filter>
+  <linearGradient id="e" x1="558.95" x2="558.95" y1="213.41" y2="813.41" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="538.95" x2="538.95" y1="373.41" y2="673.41" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <g>
+   <g transform="translate(21.047 -21.047)">
+    <circle cx="490.95" cy="561.41" r="490" fill="url(#d)" fill-rule="evenodd" style="paint-order:stroke markers fill"/>
+    <circle cx="490.95" cy="561.41" r="464.28" fill="none" filter="url(#h)" opacity=".15" stroke="#2faff1" stroke-linecap="round" stroke-linejoin="round" stroke-width="21.444" style="paint-order:stroke markers fill"/>
+    <g transform="matrix(1.0222 0 0 1.0222 -72.243 28.413)">
+     <circle cx="550.95" cy="521.41" r="423.53" fill="url(#f)" fill-rule="evenodd" stroke="url(#b)" stroke-linejoin="round" stroke-width="52.941" style="paint-order:stroke fill markers"/>
+     <g transform="translate(156.94 -136.58)" fill="none">
+      <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>
+      <circle cx="226.03" cy="825.61" r="125" style="paint-order:stroke markers fill"/>
+      <path d="m360 452.36-235 300 180 170 315-245z"/>
+     </g>
+     <g fill-rule="evenodd">
+      <circle cx="550.95" cy="521.41" r="250" fill="url(#e)" opacity=".2" style="paint-order:stroke fill markers"/>
+      <circle cx="550.95" cy="521.41" r="250" filter="url(#k)" opacity=".2" style="paint-order:stroke fill markers"/>
+      <circle cx="550.95" cy="521.41" r="150" fill="url(#g)" filter="url(#j)" style="paint-order:stroke fill markers"/>
+      <circle transform="matrix(1.1628 0 0 1.1628 -89.69 -147.53)" cx="550.95" cy="611.41" r="100" filter="url(#i)" opacity=".4" style="paint-order:stroke fill markers"/>
+      <circle cx="550.95" cy="521.41" r="150" fill="url(#c)" style="paint-order:stroke fill markers"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

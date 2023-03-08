@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#bebebe">
+  <path d="m7 13v1h7v-1z"/>
+  <path d="m7 8v1h7v-1z"/>
+  <path d="m7 3v1h7v-1z"/>
+ </g>
+ <g fill="none" stroke="#bebebe" stroke-linecap="round" stroke-width="1px">
+  <path d="m1.5 3.5 1.5 1.5 3.5-3.5"/>
+  <path d="m1.5 8.5 1.5 1.5 3.5-3.5"/>
+  <path d="m1.5 13.5 1.5 1.5 3.5-3.5"/>
+ </g>
+</svg>
