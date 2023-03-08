@@ -1,3 +1,15 @@
+sucharu-theme-icon (0.0.8) stable; urgency=medium
+
+  * Update fullcolor apps icons (#22)
+    - Update settings-app
+    - Update terminal-app
+  * Add built icons for the default variant (#23)
+    - Add fullcolor png files
+    - Add scalable svg files
+    - Add hicolor scalable files
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Wed, 08 Mar 2023 20:30:35 +0530
+
 sucharu-theme-icon (0.0.7) stable; urgency=medium
 
   * Update and add helper scripts
