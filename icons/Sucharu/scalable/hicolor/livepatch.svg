@@ -1,0 +1,34 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath>
+   <g transform="translate(0 -1004.4)">
+    <path transform="matrix(15.333 0 0 11.5 415 878.86)" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" fill="#1890d0"/>
+   </g>
+  </clipPath>
+  <linearGradient id="a" x1="102.3" x2="102.3" y1="-.42687" y2="199.17" gradientTransform="matrix(4.9 0 0 4.9 22 50.362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffa13e" offset="0"/>
+   <stop stop-color="#fe793d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="480" x2="480" y1="192.36" y2="852.36" gradientTransform="translate(0,10)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#552000" offset="0"/>
+   <stop stop-color="#431900" offset="1"/>
+  </linearGradient>
+  <filter id="d" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".19608" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <linearGradient id="b" x1="540.14" x2="540.14" y1="29.77" y2="1055" gradientTransform="matrix(.99492 0 0 .99492 2.599 2.7429)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".58824" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#a)"/>
+  <g transform="matrix(5.0293 0 0 5.0293 -18.685 815.99)"></g>
+  <path d="m800 682.36c3-6.2505 0.375-13.75-5.7495-16.75-6.2505-3-13.75-0.375-16.75 5.8755-49.749 103-155.87 169.62-270.25 169.62-165.37 0-300-134.62-300-300 0-165.37 134.62-300 300-300 111.75 0 215.37 63.625 266.5 162.5h-104c-4.7505 0-9 2.625-11.125 6.8745-0.87451 1.7505-1.3755 3.75-1.3755 5.625 0 2.625 0.87451 5.25 2.5005 7.5l112.62 151.62 26.625 35.875c2.5005 3.375 6.4995 5.25 10.624 4.9995 4.2495-0.25048 7.9995-2.5005 10.125-6.1245l110.75-187.5c2.25-3.8745 2.3745-8.625 0.12451-12.625-2.25-3.8745-6.375-6.2505-10.875-6.2505h-118.75c-0.12451-1.2495-0.375-2.625-1.0005-3.75-54-111.63-168.87-183.75-292.75-183.75-179.25 0-325 145.75-325 325 0 179.25 145.75 325 325 325 123.88 1e-3 238.88-72.123 292.75-183.75zm97.875-253.75-90 152.37-21.499-28.873-91.75-123.5z" fill="url(#c)" filter="url(#d)" stroke-width="1.4648"/>
+  <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#b)" stroke-width="4.975"/>
+ </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c" x1="102.3" x2="102.3" y1="-.42687" y2="199.17" gradientTransform="matrix(4.9 0 0 4.9 22 50.362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#096fd2" offset="0"/>
+   <stop stop-color="#0e8ee9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="97.556" x2="97.556" y1="21.679" y2="242.72" gradientTransform="matrix(4.705 0 0 4.705 41.5 69.862)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#003dc0" offset="0"/>
+   <stop stop-color="#2867df" offset=".3229"/>
+   <stop stop-color="#246ced" stop-opacity="0" offset=".72603"/>
+   <stop stop-color="#5191ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="494.68" x2="494.68" y1="65.526" y2="1015.1" gradientTransform="matrix(1.0742 0 0 1.0742 -25.153 -44.216)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#c7d7e7" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.024225" y="-.070047" width="1.0485" height="1.1401" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="5.5515993"/>
+  </filter>
+  <linearGradient id="e" x1="520" x2="520" y1="152.36" y2="932.36" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#111" offset="0"/>
+   <stop stop-color="#3b3b3b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="520" x2="520" y1="152.36" y2="932.36" gradientTransform="matrix(1.1094 0 0 1.1094 -51.973 -67.15)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#111" offset="0"/>
+   <stop stop-color="#333" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#c)"/>
+  <g>
+   <g>
+    <circle cx="512" cy="540.36" r="470.5" color="#000000" fill="url(#b)"/>
+    <circle cx="508.37" cy="547.62" r="384" color="#000000" fill="url(#e)"/>
+    <circle cx="512" cy="540.36" r="426" color="#000000" fill="url(#d)" opacity=".5"/>
+   </g>
+   <path class="cls-1" d="m787 556.52-205.63-95.072 16.52 60.917h-171.79l16.52-60.917-205.63 95.142 205.77 95.072-16.52-60.917h171.79l-16.52 60.917 205.49-95.072" filter="url(#f)" opacity=".2" stroke-width=".7006"/>
+   <path class="cls-1" d="m787 540.33-205.63-95.072 16.52 60.917h-171.79l16.52-60.917-205.63 95.142 205.77 95.072-16.52-60.917h171.79l-16.52 60.917 205.49-95.072" fill="url(#a)" stroke-width=".7006"/>
+  </g>
+ </g>
+</svg>

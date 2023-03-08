@@ -1,0 +1,26 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="589.66" x2="589.66" y1="180.47" y2="1023" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00b8ff" offset="0"/>
+   <stop stop-color="#007bff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <g transform="matrix(1.1632 0 0 1.1632 -185.91 -157.57)" fill="url(#a)">
+   <polygon points="599.98 1021.9 234.61 810.93 234.61 389.07 599.98 178.12 965.34 389.07 965.34 810.93" fill="url(#a)"/>
+  </g>
+  <g transform="matrix(.83977 0 0 .83977 8.1371 36.499)" fill="#fff" fill-opacity=".58824">
+   <polygon points="824.08 470.63 824.08 729.37 599.99 858.75 375.91 729.37 375.91 470.63 599.99 341.25" opacity=".95"/>
+   <polygon points="234.61 810.93 234.61 389.07 599.98 178.12 965.34 389.07 965.34 810.93 599.98 1021.9"/>
+  </g>
+  <g fill="none">
+   <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>
+   <circle cx="226.03" cy="825.61" r="125" style="paint-order:stroke markers fill"/>
+   <path d="m360 452.36-235 300 180 170 315-245z"/>
+  </g>
+  <path d="m1220 152.36c-46.249 0-83.743 37.493-83.743 83.742 0 46.251 37.494 83.741 83.743 83.741 46.254 0 83.744-37.49 83.744-83.741 0-46.246-37.49-83.738-83.745-83.738z" fill="#fff" fill-opacity=".58824"/>
+  <g transform="matrix(.31491 0 0 .31491 323.05 351.41)" fill="#fff" fill-opacity=".58824">
+   <polygon points="600 50 1076.3 325 1076.3 875 600 1150 123.68 875 123.68 325" fill="#fff" fill-opacity=".58824" opacity=".95"/>
+  </g>
+ </g>
+</svg>

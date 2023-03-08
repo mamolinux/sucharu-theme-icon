@@ -1,0 +1,29 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="101.81" x2="99.742" y1="-71.838" y2="538.47" gradientTransform="matrix(4.705 0 0 4.705 41 70.362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff7896" offset="0"/>
+   <stop stop-color="#f52869" offset=".5"/>
+   <stop stop-color="#e41249" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="520" x2="520" y1="32.362" y2="1052.4" gradientTransform="matrix(.96078 0 0 .96078 20.078 21.191)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fd648b" offset="0"/>
+   <stop stop-color="#f6336e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="179.46" x2="729.46" y1="587.1" y2="587.1" gradientTransform="translate(57.536 -46.743)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f6f7f7" offset="0"/>
+   <stop stop-color="#dce7f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="540.14" x2="540.14" y1="29.77" y2="1055" gradientTransform="matrix(.99492 0 0 .99492 2.599 2.7429)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".58824" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <g>
+   <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#a)"/>
+   <circle cx="511.5" cy="540.86" r="470.5" color="#000000" fill="url(#b)" style="paint-order:stroke markers fill"/>
+   <path d="m672.25 505.12c-63.281 0-114.75 51.482-114.75 114.75 0 63.269 51.47 114.74 114.75 114.74s114.75-51.47 114.75-114.74c0-19.752-5.0212-38.365-13.853-54.627v-269.82c0-8.1668-3.4186-15.93-9.3657-21.26-5.9352-5.3535-14.019-7.8938-22.174-7.0272l-285.01 31.053c-15.526 1.6856-27.693 15.23-27.693 30.863v285.27c-20.405-18.589-47.434-30.044-77.157-30.044-63.281-0.0119-114.75 51.458-114.75 114.73 0 63.269 51.47 114.76 114.75 114.76 63.281 0 114.75-51.494 114.75-114.76 0-8.8553-1.1039-17.438-3.0151-25.711h1.0327v-340.13l273.02-29.747v222.21c-18.553-12.879-41.036-20.5-65.287-20.5zm-320.5 273.03c-43.635 0-79.14-35.516-79.14-79.151 0-43.635 35.504-79.128 79.14-79.128 43.635 0 79.14 35.492 79.14 79.128 0 43.635-35.492 79.151-79.14 79.151zm320.5-79.151c-43.635 0-79.14-35.492-79.14-79.128 0-43.635 35.504-79.151 79.14-79.151 43.635 0 79.14 35.516 79.14 79.151 0 43.635-35.492 79.128-79.14 79.128z" fill="url(#d)" stroke-width="11.87"/>
+  </g>
+  <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#c)" stroke-width="4.975"/>
+ </g>
+</svg>

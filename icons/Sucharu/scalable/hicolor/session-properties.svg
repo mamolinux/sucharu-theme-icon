@@ -1,0 +1,35 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="d" x1="102.3" x2="102.3" y1="-.42687" y2="199.17" gradientTransform="matrix(4.9 0 0 4.9 22 50.362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffe100" offset="0"/>
+   <stop stop-color="#ffb155" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="540.14" x2="540.14" y1="29.77" y2="1055" gradientTransform="matrix(.99492 0 0 .99492 2.599 2.7429)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".58824" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a">
+   <stop stop-color="#f6f7f7" offset="0"/>
+   <stop stop-color="#dce7f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="243.43" x2="243.43" y1="2.0451" y2="513.45" gradientTransform="matrix(1.202 0 0 1.202 204.47 233.3)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient x1="243.43" x2="243.43" y1="2.0451" y2="513.45" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <filter id="f" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="offset" in2="SourceGraphic" operator="out" result="composite2"/>
+  </filter>
+  <linearGradient id="b" x1="243.43" x2="243.43" y1="2.0451" y2="513.45" gradientTransform="matrix(1.202 0 0 1.202 204.47 233.3)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#333" offset="0"/>
+   <stop stop-color="#4d4d4d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#d)"/>
+  <path d="m762 559.59c0 137.85-112.16 250.01-249.99 250.01-137.85 0-250.01-112.16-250.01-250.01 0-71.292 30.576-139.43 83.894-186.83 7.9258-7.0616 20.114-6.3861 27.157 1.5782 7.0616 7.963 6.3476 20.058-1.5782 27.12-45.13 40.191-71.01 97.81-71.01 158.13 0 116.67 94.899 211.55 211.55 211.55 116.65 0 211.53-94.881 211.53-211.55 0-60.324-25.842-117.94-70.916-158.06-7.963-7.0616-8.7143-19.232-1.6527-27.12 7.1373-8.0388 19.307-8.7143 27.195-1.6527 53.262 47.402 83.837 115.54 83.837 186.83zm-249.99-57.695c10.63 0 19.232-8.564 19.232-19.232v-192.32c0-10.593-8.6013-19.232-19.232-19.232-10.63 0-19.232 8.6398-19.232 19.232v192.32c0 10.667 8.6025 19.232 19.232 19.232z" fill="url(#c)" filter="url(#f)" stroke-width="1.202"/>
+  <path d="m762 559.59c0 137.85-112.16 250.01-249.99 250.01-137.85 0-250.01-112.16-250.01-250.01 0-71.292 30.576-139.43 83.894-186.83 7.9258-7.0616 20.114-6.3861 27.157 1.5782 7.0616 7.963 6.3476 20.058-1.5782 27.12-45.13 40.191-71.01 97.81-71.01 158.13 0 116.67 94.899 211.55 211.55 211.55 116.65 0 211.53-94.881 211.53-211.55 0-60.324-25.842-117.94-70.916-158.06-7.963-7.0616-8.7143-19.232-1.6527-27.12 7.1373-8.0388 19.307-8.7143 27.195-1.6527 53.262 47.402 83.837 115.54 83.837 186.83zm-249.99-57.695c10.63 0 19.232-8.564 19.232-19.232v-192.32c0-10.593-8.6013-19.232-19.232-19.232-10.63 0-19.232 8.6398-19.232 19.232v192.32c0 10.667 8.6025 19.232 19.232 19.232z" fill="url(#b)" stroke-width="1.202"/>
+  <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#e)" stroke-width="4.975"/>
+ </g>
+</svg>

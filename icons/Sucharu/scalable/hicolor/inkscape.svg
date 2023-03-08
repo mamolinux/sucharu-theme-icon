@@ -1,0 +1,19 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="translate(0 -28.362)">
+  <g transform="matrix(2.4796 0 0 2.4796 24.5 99.21)" fill="none">
+   <g>
+    <polygon points="393.21 126.88 196.6 355.82 0 126.88 85.79 11.715 196.6 0 307.42 11.715" fill="#fdb300"/>
+    <g transform="translate(0 126.88)">
+     <polygon points="79.634 0 196.6 228.94 0 0" fill="#ea6c00"/>
+     <polygon transform="matrix(-1 0 0 1 589.81 0)" points="276.24 0 393.21 228.94 196.6 0" fill="#ea6c00"/>
+     <polygon points="79.634 0 313.57 0 196.6 228.94" fill="#fdad00"/>
+    </g>
+    <polygon points="196.6 0 85.79 11.715 79.634 126.88" fill="#fdd231"/>
+    <polygon transform="matrix(-1 0 0 1 510.17 0)" points="313.57 0 202.76 11.715 196.6 126.88" fill="#fdd231"/>
+    <polygon transform="matrix(-1 0 0 1 700.62 0)" points="307.41 126.88 393.21 11.715 387.05 126.88" fill="#fdad00"/>
+    <polygon points="0 126.88 85.79 11.715 79.634 126.88" fill="#fdad00"/>
+    <polygon points="196.6 0 79.634 126.88 313.57 126.88" fill="#feeeb7"/>
+   </g>
+  </g>
+ </g>
+</svg>

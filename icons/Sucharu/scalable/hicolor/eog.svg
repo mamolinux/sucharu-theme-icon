@@ -1,0 +1,50 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop stop-color="#f6f7f7" offset="0"/>
+   <stop stop-color="#dce7f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="97.551" x2="97.551" y1="-3.6735" y2="204.49" gradientTransform="matrix(4.9 0 0 4.9 22 50.362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#007bff" offset="0"/>
+   <stop stop-color="#00b8ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f" x1="540.14" x2="540.14" y1="29.77" y2="1055" gradientTransform="matrix(.99492 0 0 .99492 2.599 2.7429)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".39216" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".0045662" offset="1"/>
+  </linearGradient>
+  <filter id="b" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <linearGradient id="h" x1="298.95" x2="699.47" y1="489.62" y2="489.62" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="g" x1="307.27" x2="706.89" y1="480.5" y2="463.04" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f6f7f7" offset="0"/>
+   <stop stop-color="#dce7f0" stop-opacity=".75" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="690.23" x2="690.23" y1="262.13" y2="402.13" gradientTransform="translate(38.134 84.067)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="c" x1="307.27" x2="706.89" y1="480.5" y2="463.04" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#e)"/>
+  <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#f)" stroke-width="4.975"/>
+  <g fill="none">
+   <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>
+   <circle cx="226.03" cy="825.61" r="125" style="paint-order:stroke markers fill"/>
+   <path d="m360 452.36-235 300 180 170 315-245z"/>
+  </g>
+  <g>
+   <path transform="rotate(92.503 1077.3 901.65)" d="m699.47 715.24c-18.154 8.0253-208.64-92.69-226.24-101.86-14.506-7.5566-176.04-90.634-174.28-106.9 2.1271-19.735 184.59-134.34 201.33-145 13.797-8.7844 166.51-107.14 179.72-97.486 16.027 11.71 24.047 227.03 24.907 246.86 0.70882 16.341 9.527 197.77-5.4329 204.38z" fill="url(#g)" filter="url(#b)"/>
+   <path transform="matrix(-.035283 .8071 -.8071 -.035283 1817.1 112.85)" d="m699.47 715.24-400.53-208.76 381.05-242.49 9.7372 225.62z" fill="url(#h)" filter="url(#b)"/>
+   <path transform="matrix(-.038581 .88255 -.88255 -.038581 1838.2 -157.36)" d="m699.47 715.24c-18.154 8.0253-208.64-92.69-226.24-101.86-14.506-7.5566-176.04-90.634-174.28-106.9 2.1271-19.735 184.59-134.34 201.33-145 13.797-8.7844 166.51-107.14 179.72-97.486 16.027 11.71 24.047 227.03 24.907 246.86 0.70882 16.341 9.527 197.77-5.4329 204.38z" fill="url(#c)" filter="url(#b)"/>
+   <path transform="translate(0 28.362)" d="m512 328.47a390 390 0 0 0-390 390 390 390 0 0 0 15.787 109.06 490 490 0 0 0 374.21 174.46 490 490 0 0 0 373.89-173.38 390 390 0 0 0 16.113-110.14 390 390 0 0 0-390-390z" color="#000000" fill="#1ce3ff" opacity=".2"/>
+   <g fill-rule="evenodd">
+    <circle cx="740" cy="412.36" r="70" fill="url(#d)" style="paint-order:stroke fill markers"/>
+    <path transform="translate(0 28.362)" d="m363.33 466c-29.641 0-161.85 212.33-176.67 238-6.4619 11.192-32.499 59.459-58.582 112.46a490 490 0 0 0 383.92 185.54 490 490 0 0 0 20.484-0.7246c25.052-2.1622 49.17-4.78 69.516-7.9121a490 490 0 0 0 47.594-11.387c4.1373-1.8793 6.9684-3.8684 8.1856-5.9766 14.82-25.669-102.96-246.33-117.78-272s-147.03-238-176.67-238z" fill="#fff" opacity=".7" style="paint-order:normal"/>
+    <path transform="translate(0 28.362)" d="m563.33 526c-29.641 0-161.85 212.33-176.67 238-9.4608 16.387-60.843 112.2-92.939 186.05a490 490 0 0 0 218.28 51.945 490 490 0 0 0 298.2-101.6c-29.493-61.717-62.771-123.54-70.197-136.4-14.82-25.669-147.03-238-176.67-238z" fill="#fff" style="paint-order:normal"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,114 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b">
+   <stop stop-color="#ff663b" offset="0"/>
+   <stop stop-color="#ff503b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="k" x1="103.67" x2="103.67" y1="-4.6623" y2="206.5" gradientTransform="matrix(2.2315 0 0 2.2315 1446.3 332.86)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#dce7f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x1="477.73" x2="477.73" y1="250.18" y2="730.18" gradientTransform="translate(1181.7 -2.1757)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="i" x1="477.73" x2="477.73" y1="250.18" y2="1050.2" gradientTransform="matrix(2.7433 0 0 2.7433 327.98 -975.25)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#F6F0EE" offset="0"/>
+   <stop stop-color="#ddd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a">
+   <stop stop-color="#f6f7f7" offset="0"/>
+   <stop stop-color="#dce7f0" offset="1"/>
+  </linearGradient>
+  <filter id="o" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <linearGradient id="g" x1="480.3" x2="480.3" y1="379.03" y2="740.48" gradientTransform="matrix(1.2727 0 0 1.2727 1046.2 -154.37)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <filter id="n" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(255,255,255)" flood-opacity=".49804" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="offset" in2="SourceGraphic" operator="in" result="fbSourceGraphic"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feFlood flood-color="rgb(255,255,255)" flood-opacity=".49804" in="fbSourceGraphic" result="flood"/>
+   <feComposite in="flood" in2="fbSourceGraphic" operator="out" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="offset" in2="fbSourceGraphic" operator="in" result="composite2"/>
+  </filter>
+  <linearGradient id="f" x1="478.95" x2="478.95" y1="73.409" y2="373.41" gradientTransform="translate(1180.5 -5.4002)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="e" x1="1.9569" x2="418.95" y1="668.17" y2="673.41" gradientTransform="translate(1180.5 -5.4002)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#35ea30" offset="0"/>
+   <stop stop-color="#35d630" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="978.95" x2="558.95" y1="593.41" y2="593.41" gradientTransform="translate(1180.5 -5.4002)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffbc00" offset="0"/>
+   <stop stop-color="#ffd600" offset="1"/>
+  </linearGradient>
+  <linearGradient id="l" x1="540.14" x2="540.14" y1="29.77" y2="1055" gradientTransform="matrix(.99492 0 0 .99492 1162.1 18.389)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".58824" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="p" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="13.928347"/>
+  </filter>
+  <linearGradient id="j" x1="520" x2="520" y1="24" y2="1004" gradientTransform="translate(-21.047 49.409)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <filter id="q" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="offset" in2="SourceGraphic" operator="in" result="composite2"/>
+  </filter>
+  <filter id="r" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="offset" in2="SourceGraphic" operator="in" result="composite2"/>
+  </filter>
+  <linearGradient id="m" x1="398.95" x2="398.95" y1="113.41" y2="913.41" gradientTransform="matrix(1.0353 0 0 1.0353 -19.445 -18.403)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <radialGradient id="c" cx="550.95" cy="521.41" r="425" gradientTransform="matrix(1.0353 0 0 1.0353 -19.445 -18.403)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff663b" stop-opacity=".18504" offset="0"/>
+   <stop stop-color="#ff503b" stop-opacity=".96262" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <g>
+   <g transform="translate(21.047 -21.047)">
+    <g>
+     <circle cx="1671.5" cy="556.01" r="485" color="#000000" fill="url(#i)"/>
+     <path d="m2110.4 338.83a490.28 490.28 0 0 0-844.86-56.908l196.99 341.45a218.88 218.88 0 0 1 205.74-284.54" fill="url(#f)" fill-rule="evenodd"/>
+     <path d="m1265.5 281.92a490.28 490.28 0 0 0 367.71 761.69l205.74-350.2a218.88 218.88 0 0 1-376.47-70.04" fill="url(#e)" fill-rule="evenodd"/>
+     <g>
+      <path d="m1633.2 1043.6a490.28 490.28 0 0 0 477.15-704.78h-442.13a218.88 218.88 0 0 1 170.72 354.58" fill="url(#d)"/>
+      <g>
+       <circle cx="1669.5" cy="556.01" r="223.15" color="#000000" fill="url(#k)" filter="url(#o)"/>
+       <circle cx="1671.5" cy="556.01" r="176.8" color="#000000" fill="url(#h)"/>
+       <circle cx="1669.5" cy="556.01" r="225" color="#000000" fill="url(#g)" filter="url(#n)" opacity=".69"/>
+      </g>
+     </g>
+    </g>
+    <circle cx="1671.5" cy="556.01" r="487.51" color="#000000" fill="none" stroke="url(#l)" stroke-width="4.975"/>
+    <circle cx="490.95" cy="561.41" r="490" fill="url(#j)" fill-rule="evenodd" style="paint-order:stroke markers fill"/>
+    <circle cx="490.95" cy="561.41" r="464.28" fill="none" filter="url(#p)" opacity=".15" stroke="#2faff1" stroke-linecap="round" stroke-linejoin="round" stroke-width="21.444" style="paint-order:stroke markers fill"/>
+    <g transform="translate(-60,40)">
+     <circle cx="550.95" cy="521.41" r="414.12" fill="url(#m)" fill-rule="evenodd" stroke="url(#c)" stroke-linejoin="round" stroke-width="51.765" style="paint-order:stroke fill markers"/>
+     <g transform="translate(156.94 -136.58)" fill="none">
+      <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>
+      <circle cx="226.03" cy="825.61" r="125" style="paint-order:stroke markers fill"/>
+      <path d="m360 452.36-235 300 180 170 315-245z"/>
+     </g>
+     <g fill-rule="evenodd">
+      <circle cx="550.95" cy="521.41" r="250" opacity=".2" style="paint-order:stroke fill markers"/>
+      <circle cx="550.95" cy="521.41" r="250" filter="url(#r)" opacity=".2" style="paint-order:stroke fill markers"/>
+      <circle cx="550.95" cy="521.41" r="150" opacity=".2" style="paint-order:stroke fill markers"/>
+      <circle cx="550.95" cy="521.41" r="150" filter="url(#q)" opacity=".2" style="paint-order:stroke fill markers"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

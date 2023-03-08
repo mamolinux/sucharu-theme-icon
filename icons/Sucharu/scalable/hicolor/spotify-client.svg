@@ -1,0 +1,78 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c">
+   <stop stop-color="#4df183" offset="0"/>
+   <stop stop-color="#31d044" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f">
+   <stop stop-color="#f6f7f7" offset="0"/>
+   <stop stop-color="#dce7f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x1="97.551" x2="97.551" y1="-3.6735" y2="204.49" gradientTransform="matrix(4.9 0 0 4.9 22 50.362)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="g" x1="520" x2="520" y1="52.362" y2="1052.4" gradientTransform="translate(-1078.4 -51.619)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="n" x1="723.15" x2="723.15" y1="223.33" y2="310.05" gradientTransform="matrix(4.6129 0 0 4.6129 -2835.8 -697.81)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+  <linearGradient id="m" x1="753.5" x2="753.5" y1="223.33" y2="336.05" gradientTransform="matrix(4.6129 0 0 4.6129 -2835.8 -697.81)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="l" x1="753.5" x2="753.5" y1="245" y2="336.05" gradientTransform="matrix(4.6129 0 0 4.6129 -2835.8 -697.81)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="k" x1="753.5" x2="753.5" y1="262.35" y2="336.05" gradientTransform="matrix(4.6129 0 0 4.6129 -2835.8 -697.81)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <filter id="p" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <linearGradient id="e" x1="540" x2="180" y1="292.36" y2="1012.4" gradientTransform="matrix(1.632 0 0 1.632 143.12 -807.04)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="j" x1="480" x2="480" y1="312.36" y2="772.36" gradientTransform="translate(-3.8147e-6 -9.4319e-6)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".098039" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="q" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".19608" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="offset" in2="SourceGraphic" operator="atop" result="composite2"/>
+  </filter>
+  <linearGradient id="a" x1="480" x2="480" y1="232.36" y2="832.36" gradientTransform="translate(-2e-5 -3.5617e-5)" gradientUnits="userSpaceOnUse" xlink:href="#i"/>
+  <linearGradient id="i">
+   <stop stop-color="#fff" stop-opacity=".99608" offset="0"/>
+   <stop stop-color="#e0ffff" offset="1"/>
+  </linearGradient>
+  <filter id="d" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <linearGradient id="o" x1="540.14" x2="540.14" y1="29.77" y2="1055" gradientTransform="matrix(.99492 0 0 .99492 2.599 2.7429)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".58824" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <g>
+   <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#h)"/>
+   <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#o)" stroke-width="4.975"/>
+   <circle cx="-566.91" cy="489.24" r="468.66" color="#000000" fill="url(#g)"/>
+  </g>
+  <circle transform="matrix(1.2778 0 0 1.2778 -142.22 -150.1)" cx="512" cy="540.36" r="300" fill="url(#a)" filter="url(#d)" opacity=".4" style="paint-order:stroke markers fill"/>
+  <g fill="none">
+   <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>
+   <circle cx="226.03" cy="825.61" r="125" style="paint-order:stroke markers fill"/>
+   <path d="m360 452.36-235 300 180 170 315-245z"/>
+  </g>
+  <g transform="translate(-872.43 16.031)" fill="url(#n)" filter="url(#p)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+   <path d="m732.41 496.33c-124.5-73.949-329.91-80.749-448.78-44.671-19.088 5.7892-39.274-4.9866-45.059-24.075-5.7846-19.097 4.9819-39.27 24.084-45.073 136.45-41.424 363.29-33.42 506.64 51.674 17.206 10.19 22.834 32.364 12.639 49.51-10.148 17.169-32.383 22.829-49.496 12.635z" stroke="url(#m)" style="paint-order:stroke markers fill"/>
+   <path d="m728.35 605.86c-8.7184 14.185-27.262 18.659-41.424 9.9408-103.84-63.838-262.12-82.322-384.94-45.04-15.928 4.8112-32.752-4.1654-37.586-20.066-4.7974-15.928 4.1839-32.719 20.085-37.563 140.29-42.568 314.7-21.948 433.94 51.328 14.162 8.7184 18.636 27.262 9.9177 41.405z" stroke="url(#l)" style="paint-order:stroke markers fill"/>
+   <path d="m681.07 711.06c-6.9194 11.348-21.773 14.946-33.121 7.9803-90.699-55.401-204.88-67.948-339.34-37.226-12.958 2.9522-25.874-5.1664-28.826-18.129-2.9661-12.962 5.1203-25.878 18.11-28.831 147.15-33.633 273.37-19.144 375.2 43.085 11.348 6.9655 14.946 21.773 7.9803 33.121z" stroke="url(#k)" style="paint-order:stroke markers fill"/>
+  </g>
+  <circle transform="matrix(1.1389 0 0 1.1389 -71.111 -75.05)" cx="512" cy="540.36" r="300" fill="url(#a)" filter="url(#d)" opacity=".4" style="paint-order:stroke markers fill"/>
+  <circle cx="512" cy="540.36" r="300" fill="url(#a)" filter="url(#d)" opacity=".35" style="paint-order:stroke markers fill"/>
+  <circle cx="512" cy="540.36" r="204" fill="url(#e)" filter="url(#q)" stroke="url(#j)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" style="paint-order:stroke markers fill"/>
+ </g>
+</svg>

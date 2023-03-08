@@ -1,0 +1,46 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="d" x1="102.3" x2="102.3" y1="-.42687" y2="199.17" gradientTransform="matrix(4.9 0 0 4.9 22 50.362)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <clipPath>
+   <g transform="translate(0 -1004.4)">
+    <path transform="matrix(15.333 0 0 11.5 415 878.86)" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" fill="#1890d0"/>
+   </g>
+  </clipPath>
+  <linearGradient id="a" x1="516.81" x2="516.81" y1="274.86" y2="814.86" gradientTransform="translate(3.188,-2.5)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="f" x1="396.33" x2="396.33" y1="137.89" y2="463.07" gradientTransform="matrix(3.1367 0 0 3.1367 -742.67 -400.64)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="b" x1="400" x2="398.84" y1="136.13" y2="463.07" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8e5fff" offset="0"/>
+   <stop stop-color="#6644e3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c">
+   <stop stop-color="#f6f7f7" offset="0"/>
+   <stop stop-color="#dce7f0" offset="1"/>
+  </linearGradient>
+  <filter id="h" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <linearGradient id="e" x1="540.14" x2="540.14" y1="29.77" y2="1055" gradientTransform="matrix(.99492 0 0 .99492 2.599 2.7429)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".58824" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="g" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#d)"/>
+  <path class="shp1" d="m512 1010.9c259.84 0 470.5-210.66 470.5-470.5s-210.66-470.5-470.5-470.5-470.5 210.66-470.5 470.5 210.66 470.5 470.5 470.5z" fill="url(#f)" stroke-width="3.1367"/>
+  <path transform="matrix(1.4648 0 0 1.4648 -238 -251.18)" d="m512 284.36c-141.38 0-256 114.62-256 256s114.62 256 256 256 256-114.62 256-256-114.62-256-256-256zm0 480c-123.5 0-224-100.5-224-224s100.5-224 224-224 224 100.5 224 224-100.5 224-224 224zm79.188-314.5-113.12 113.12-45.252-45.248c-12.5-12.5-32.78-12.5-45.252 0-12.5 12.5-12.5 32.78 0 45.252l67.876 67.876c12.468 12.5 32.752 12.5 45.252 0l135.75-135.75c12.5-12.5 12.5-32.78 0-45.252-12.472-12.5-32.752-12.5-45.252 0z" fill="url(#a)" filter="url(#g)" opacity=".07" stroke-width="4"/>
+  <g transform="matrix(5.0293 0 0 5.0293 -18.685 815.99)"></g>
+  <path d="m512 284.36c-141.38 0-256 114.62-256 256s114.62 256 256 256 256-114.62 256-256-114.62-256-256-256zm0 480c-123.5 0-224-100.5-224-224s100.5-224 224-224 224 100.5 224 224-100.5 224-224 224zm79.188-314.5-113.12 113.12-45.252-45.248c-12.5-12.5-32.78-12.5-45.252 0-12.5 12.5-12.5 32.78 0 45.252l67.876 67.876c12.468 12.5 32.752 12.5 45.252 0l135.75-135.75c12.5-12.5 12.5-32.78 0-45.252-12.472-12.5-32.752-12.5-45.252 0z" fill="url(#a)" filter="url(#h)" stroke-width="4"/>
+  <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#e)" stroke-width="4.975"/>
+ </g>
+</svg>

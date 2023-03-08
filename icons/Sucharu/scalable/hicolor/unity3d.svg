@@ -1,0 +1,9 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x1="17.414" x2="22.044" y1="45.472" y2="4.874" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#ccc" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <rect transform="matrix(.99321 -.11631 .11631 .99321 0 0)" x="1.4309" y="7.4402" width="39.23" height="39.23" rx="1.7056" fill-opacity=".66667"/>
+ <rect transform="matrix(.99321 -.11631 .11631 .99321 0 0)" x="1.4309" y="6.5874" width="39.23" height="39.23" rx="1.7056" fill="url(#a)"/>
+ <path d="m31.146 30.072-4.3-7.2 4.3-7.2 2.1 7.2zm-9.5-0.7-5.4-5.3h8.6l4.3 7.2zm0-13.1 7.5-1.9-4.3 7.2h-8.7c0 0.1 5.5-5.3 5.5-5.3zm11-5.4-9.8 2.5-1.5 2.5h-2.9l-7.2 7 7.2 7h2.9l1.4 2.5 9.8 2.5 2.6-9.5-1.4-2.5 1.5-2.5z" opacity=".64566"/>
+</svg>

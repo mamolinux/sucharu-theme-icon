@@ -1,0 +1,141 @@
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <pattern id="e" patternTransform="matrix(6.1164 0 0 6.1164 31.865 -116.3)" xlink:href="#f"/>
+  <pattern id="i" patternTransform="translate(0 -28.362)" xlink:href="#j"/>
+  <linearGradient id="b">
+   <stop stop-color="#00b8ff" offset="0"/>
+   <stop stop-color="#007bff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c">
+   <stop stop-color="#f6f7f7" offset="0"/>
+   <stop stop-color="#dce7f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="m" x1="97.551" x2="97.551" y1="-3.6735" y2="204.49" gradientTransform="matrix(4.9 0 0 4.9 -1173.9 44.634)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="a" x1="50%" x2="50%" y2="100%">
+   <stop stop-color="#1387B8" offset="0"/>
+   <stop stop-color="#136497" offset=".12721"/>
+   <stop stop-color="#144B7E" offset=".2624"/>
+   <stop stop-color="#132E62" offset=".4189"/>
+   <stop stop-color="#0A1B48" offset=".59305"/>
+   <stop stop-color="#051839" offset=".78752"/>
+   <stop stop-color="#111D2E" offset="1"/>
+  </linearGradient>
+  <linearGradient id="l" x1="520" x2="520" y1="52.362" y2="1052.4" gradientTransform="translate(-1155.8 -34.372)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="s" x1="540.14" x2="540.14" y1="29.77" y2="1055" gradientTransform="matrix(.99492 0 0 .99492 -1141.7 -33.061)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".58824" offset="0"/>
+   <stop stop-color="#007dff" offset="1"/>
+  </linearGradient>
+  <linearGradient gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="q" x1="520" x2="520" y1="232.36" y2="852.36" gradientTransform="translate(-1100.4 -76.717)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <filter id="t" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="3" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <linearGradient id="d" x1=".53605" x2=".29268" y1=".74607" y2=".02863" gradientTransform="matrix(6.1164 0 0 6.1164 31.865 -116.3)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0359DE" offset="0"/>
+   <stop stop-color="#0045A7" offset="1"/>
+  </linearGradient>
+  <pattern id="f" x="-512" y="-512" width="512" height="512" patternUnits="userSpaceOnUse">
+   <use xlink:href="#a"/>
+  </pattern>
+  <filter id="g" x="-.165" y="-.165" width="1.33" height="1.33">
+   <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="7"/>
+   <feOffset dx="6" dy="7" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+   <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+   <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.15 0"/>
+   <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation="10"/>
+   <feOffset dy="11" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+   <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+   <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0"/>
+   <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner3"/>
+   <feComposite in="shadowOffsetInner3" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner3"/>
+   <feColorMatrix in="shadowInnerInner3" result="shadowMatrixInner3" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+   <feMerge>
+    <feMergeNode in="shadowMatrixInner1"/>
+    <feMergeNode in="shadowMatrixInner2"/>
+    <feMergeNode in="shadowMatrixInner3"/>
+   </feMerge>
+  </filter>
+  <linearGradient id="h" x1="1.0117" x2=".1225" y1="1" y2=".06349" gradientTransform="translate(0 -28.362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#006AF3" offset="0"/>
+   <stop stop-color="#025FAD" offset="1"/>
+  </linearGradient>
+  <pattern id="j" x="-449" y="-448" width="512" height="512" patternUnits="userSpaceOnUse">
+   <use xlink:href="#b"/>
+  </pattern>
+  <filter id="k" x="-.165" y="-.165" width="1.33" height="1.33">
+   <feOffset dx="-1" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+   <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+   <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.05 0"/>
+   <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation="10"/>
+   <feOffset dy="11" in="shadowBlurInner2" result="shadowOffsetInner2"/>
+   <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+   <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0"/>
+   <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner3"/>
+   <feComposite in="shadowOffsetInner3" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner3"/>
+   <feColorMatrix in="shadowInnerInner3" result="shadowMatrixInner3" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+   <feMerge>
+    <feMergeNode in="shadowMatrixInner1"/>
+    <feMergeNode in="shadowMatrixInner2"/>
+    <feMergeNode in="shadowMatrixInner3"/>
+   </feMerge>
+  </filter>
+  <filter id="o" x="-.003" y="-.003" width="1.007" height="1.007">
+   <feOffset dx="-1" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+   <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+   <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.05 0"/>
+  </filter>
+  <filter id="p" x="-.164" y="-.102" width="1.328" height="1.229">
+   <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+   <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+   <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+   <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter2"/>
+   <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+   <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+   <feMerge>
+    <feMergeNode in="shadowMatrixOuter1"/>
+    <feMergeNode in="shadowMatrixOuter2"/>
+   </feMerge>
+  </filter>
+  <linearGradient id="r" x1=".29468" x2=".97963" y1=".5" y2=".5" gradientTransform="translate(0 -28.362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#F0F0F0" offset="0"/>
+   <stop stop-color="#FFF" offset="1"/>
+  </linearGradient>
+  <linearGradient id="n" x1="79.808" x2="79.808" y1="5.754" y2="152.9" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ </defs>
+ <g transform="translate(0 -28.362)">
+  <g>
+   <circle cx="-683.86" cy="534.63" r="490" color="#000000" fill="url(#m)"/>
+   <circle cx="-644.26" cy="506.49" r="468.66" color="#000000" fill="url(#l)"/>
+   <circle cx="-632.3" cy="504.56" r="487.51" color="#000000" fill="none" stroke="url(#s)" stroke-width="4.975"/>
+  </g>
+  <g fill="none">
+   <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>
+   <circle cx="226.03" cy="825.61" r="125" style="paint-order:stroke markers fill"/>
+   <path d="m360 452.36-235 300 180 170 315-245z"/>
+  </g>
+  <path d="m-295.17 502.45c9.0733 12.836 15.985 26.766 20.815 42.031 4.8035 15.211 7.2319 30.956 7.2319 47.261 0 23.35-4.7234 45.286-14.064 65.834-9.3668 20.495-22.256 38.561-38.695 54.253-16.439 15.531-35.572 27.727-57.562 36.587-21.989 8.8598-45.126 13.21-69.731 13.21-35.039 0-66.475-8.2727-94.362-24.791-7.739 1.0674-15.531 1.8413-23.404 2.4284-7.8991 0.53372-15.718 0.74721-23.537 0.74721-40.936 0-79.364-7.3387-115.31-21.963-35.866-14.704-67.276-34.665-94.335-60.097-26.98-25.325-48.248-55.187-63.566-89.372-15.451-34.185-23.163-70.718-23.163-109.55 0-7.5255 0.3736-14.677 1.1742-21.295 0.72052-6.6181 1.7079-13.37 2.722-20.121-19.214-26.659-28.768-55.293-28.768-86.009 0-22.843 4.7234-44.432 14.09-64.74 9.3401-20.281 22.149-37.921 38.588-52.892 16.439-14.998 35.679-26.793 57.535-35.439 21.909-8.6463 45.153-12.863 69.757-12.863 17.72 0 34.345 2.0815 50.143 6.3246 15.798 4.2964 30.582 10.274 44.219 18.093 7.7123-1.0941 15.611-1.868 23.404-2.4818 7.8991-0.48056 15.798-0.7739 23.51-0.7739 41.07 0 79.631 7.1519 115.68 21.376 35.973 14.117 67.462 33.678 94.522 58.496 27.06 24.925 48.382 53.772 63.86 86.596 15.425 32.877 23.137 68.156 23.137 105.73 0.0261 13.85-1.2542 28.341-3.8962 43.418zm-152 85.449c12.649-16.652 18.894-36.213 18.894-58.683 0-17.693-3.5226-32.557-10.461-44.619-7.2319-12.009-17.426-22.069-30.582-30.102-12.089-7.7923-27.807-14.704-47.048-20.895-19.347-4.8569-39.869-9.607-61.565-14.464l-23.777-5.4173c-6.378-1.361-11.448-2.5085-15.264-3.5492-4.2431-1.0408-8.1659-2.1882-11.902-3.5492-3.5226-1.2542-7.2586-2.722-10.995-4.3231-7.2586-3.0422-13.343-7.1786-18.173-12.035-3.736-4.1897-5.6041-9.8205-5.6041-16.812 0-10.221 6.0844-19.347 18.173-27.433 13.69-7.5522 30.422-11.181 50.303-10.941 22.977 0 39.122 3.3891 48.222 10.194 10.995 8.0592 19.614 17.986 25.779 29.702 5.3639 8.5929 10.808 14.998 16.439 19.214 5.3639 4.1096 12.809 6.3246 22.176 6.6181 10.541 0 19.267-3.4959 26.606-10.541 7.1785-6.5648 10.621-13.957 10.434-22.283 0-9.6337-2.722-19.107-8.0592-28.234-5.2838-8.5662-14.17-17.693-26.419-27.38-6.1912-4.163-12.996-7.9791-20.335-11.475-7.3654-3.5226-15.638-6.6181-24.631-9.2334-9.4202-2.5619-19.321-4.5366-29.755-5.871-10.461-1.3076-21.883-1.9214-34.532-1.9214-31.863 0-58.736 3.8962-80.619 11.689-23.51 8.1126-41.31 19.267-53.372 33.731-12.062 13.77-18.093 30.315-18.093 49.636 0 20.335 5.8442 36.88 17.373 49.636 11.608 13.797 27.327 24.231 47.208 31.303 18.894 7.5522 43.045 14.17 72.666 19.881 11.075 2.6152 20.762 4.8302 29.328 6.5114 8.4328 1.6545 16.092 3.5492 22.79 5.6041 12.623 3.4425 22.87 9.2067 30.689 17.399 8.3527 7.0985 12.542 16.225 12.542 27.487 0 15.558-7.6322 28.154-22.71 37.761-14.25 9.8472-33.518 14.704-57.775 14.357-19.427 0-33.491-2.2416-42.404-6.7783-11.075-5.0437-19.241-11.448-24.605-19.081-6.8049-8.6996-12.249-18.36-16.625-28.794-3.8161-9.9005-8.9665-17.373-15.691-22.416-6.2712-5.097-13.61-7.6322-22.229-7.6322-10.995 0-20.068 3.0689-27.246 9.0999-7.1785 6.8583-10.621 14.891-10.461 23.911 0 15.718 5.8176 31.436 17.346 47.181 11.448 16.198 26.152 28.848 44.059 37.948 26.232 13.557 59.19 20.415 98.792 20.682 32.317 0 61.111-4.8035 86.169-14.384 24.605-10.915 42.965-24.444 54.947-40.696z" fill="url(#q)" filter="url(#t)" stroke-width="26.686"/>
+  <g fill-rule="evenodd">
+   <circle cx="319.33" cy="344.64" r="287.47" fill="url(#d)" stroke-width="6.1164"/>
+   <circle cx="319.33" cy="344.64" r="287.47" fill="url(#e)" fill-opacity=".012" stroke-width="6.1164"/>
+   <circle transform="matrix(6.1164 0 0 6.1164 31.865 57.169)" cx="47" cy="47" r="47" filter="url(#g)"/>
+   <g transform="matrix(6.1164 0 0 6.1164 31.865 57.169)">
+    <circle cx="110" cy="111" r="47" fill="url(#h)"/>
+    <circle cx="110" cy="111" r="47" fill="url(#i)" fill-opacity=".012"/>
+    <circle cx="110" cy="111" r="47" filter="url(#k)"/>
+   </g>
+   <g transform="matrix(6.2576 0 0 6.2576 17.195 35.483)" fill="url(#n)">
+    <circle cx="79" cy="80" r="73"/>
+    <circle cx="79" cy="80" r="73"/>
+    <circle cx="79" cy="80" r="73" filter="url(#o)"/>
+   </g>
+   <g transform="matrix(6.1164 0 0 6.1164 34.923 41.649)">
+    <path d="m76.372 122c-6.9568-0.15668-13.871-0.845-20.372-3.6729-1.3304-0.57892-2.6052-1.3552-3.7661-2.2214-2.7169-2.0271-3.3848-4.8456-2.7468-7.994 0.50965-2.5133 2.8653-4.2728 5.6659-4.4418 2.3138-0.13956 4.4434 0.44423 6.5113 1.4293 3.5046 1.6688 6.968 3.4631 10.889 4.0568 3.8532 0.58352 7.6879 0.64614 11.418-0.64794 4.6804-1.6241 7.0909-5.6888 6.1446-10.214-0.46417-2.2193-1.8821-3.7951-3.618-5.1395-3.5106-2.7193-7.6226-4.3446-11.623-6.1829-4.8589-2.2324-9.766-4.3863-14.492-6.8694-4.0335-2.1196-7.3407-5.1666-9.3197-9.3328-3.4703-7.306-3.2071-18.19 5.8283-24.957 4.7638-3.5676 10.209-5.3624 16.012-6.2235 7.5023-1.1134 14.948-0.65535 22.229 1.4485 1.9606 0.5664 3.8802 1.4991 5.5989 2.5969 2.8856 1.8434 3.8794 5.2896 2.7575 8.4758-1.1269 3.2003-4.697 4.6961-8.2344 3.424-2.4796-0.89203-4.9099-1.9326-7.4254-2.7096-4.6606-1.4395-9.4117-1.8574-14.204-0.61803-0.9551 0.24691-1.8938 0.61624-2.7808 1.0474-6.3577 3.0919-7.067 10.317-1.241 14.298 2.6052 1.78 5.5653 3.1027 8.4727 4.398 5.7137 2.545 11.665 4.5816 17.038 7.8465 4.4387 2.6968 8.3238 5.9825 10.229 10.874 4.0164 10.31 1.144 23.964-13.211 28.936-5.0923 1.7636-10.359 2.3103-15.761 2.3952" filter="url(#p)"/>
+    <path d="m76.372 122c-6.9568-0.15668-13.871-0.845-20.372-3.6729-1.3304-0.57892-2.6052-1.3552-3.7661-2.2214-2.7169-2.0271-3.3848-4.8456-2.7468-7.994 0.50965-2.5133 2.8653-4.2728 5.6659-4.4418 2.3138-0.13956 4.4434 0.44423 6.5113 1.4293 3.5046 1.6688 6.968 3.4631 10.889 4.0568 3.8532 0.58352 7.6879 0.64614 11.418-0.64794 4.6804-1.6241 7.0909-5.6888 6.1446-10.214-0.46417-2.2193-1.8821-3.7951-3.618-5.1395-3.5106-2.7193-7.6226-4.3446-11.623-6.1829-4.8589-2.2324-9.766-4.3863-14.492-6.8694-4.0335-2.1196-7.3407-5.1666-9.3197-9.3328-3.4703-7.306-3.2071-18.19 5.8283-24.957 4.7638-3.5676 10.209-5.3624 16.012-6.2235 7.5023-1.1134 14.948-0.65535 22.229 1.4485 1.9606 0.5664 3.8802 1.4991 5.5989 2.5969 2.8856 1.8434 3.8794 5.2896 2.7575 8.4758-1.1269 3.2003-4.697 4.6961-8.2344 3.424-2.4796-0.89203-4.9099-1.9326-7.4254-2.7096-4.6606-1.4395-9.4117-1.8574-14.204-0.61803-0.9551 0.24691-1.8938 0.61624-2.7808 1.0474-6.3577 3.0919-7.067 10.317-1.241 14.298 2.6052 1.78 5.5653 3.1027 8.4727 4.398 5.7137 2.545 11.665 4.5816 17.038 7.8465 4.4387 2.6968 8.3238 5.9825 10.229 10.874 4.0164 10.31 1.144 23.964-13.211 28.936-5.0923 1.7636-10.359 2.3103-15.761 2.3952" fill="url(#r)"/>
+   </g>
+  </g>
+ </g>
+</svg>
