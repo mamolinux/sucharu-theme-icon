@@ -3,15 +3,24 @@
 rm -rf builddir
 meson -Dprefix=$HOME/.local builddir
 
-echo "[b]uild or [t]est?"
+echo "This script should be run only if you are developing or testing the theme."
+echo "[b]uild accented icons or [t]est?"
 read ANS
 if [[ $ANS == "b" ]]; then
-	ninja -C builddir render-accented-icons
+	echo "build [a]ll accents?"
+	read ANS
+	if [[ $ANS == "a" ]]; then
+		ninja -C builddir render-accented-icons
+	else
+		echo "enter accent colour: "
+		read ANS
+		ninja -C builddir render-icons-$ANS
+	fi
 elif [[ $ANS == "t" ]]; then
 	rm -rf ~/.local/share/icons/Sucharu*
 	meson compile -C builddir
 	meson install -C builddir
-elif
+else
 	echo "Choice could not be accepted. Re-run the script and enter correct choice."
 fi
 
