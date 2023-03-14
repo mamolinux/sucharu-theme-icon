@@ -9,27 +9,19 @@ Build-Depends-Indep: meson (>= 0.60),
                      python3
 Standards-Version: 4.6.0
 Homepage: https://hsbasu.github.io/sucharu-theme-icon
-Vcs-Browser: https://github.com/hsbasu/sucharu-theme-icon
-Vcs-Git: https://github.com/hsbasu/sucharu-theme-icon.git
+Vcs-Browser: https://github.com/mamolinux/sucharu-theme-icon
+Vcs-Git: https://github.com/mamolinux/sucharu-theme-icon.git
 
 Package: sucharu-theme-icon
 Architecture: all
 Depends: ${misc:Depends},
-Replaces: mamolinux-icons ( << 1.0.3 )
-Breaks: mamolinux-icons ( << 1.0.3 )
-Conflicts: mamolinux-icons ( << 1.0.3 )
+Replaces: mamolinux-icons ( <= 1.0.2 )
+Breaks: mamolinux-icons ( <= 1.0.2 )
+Conflicts: mamolinux-icons ( <= 1.0.2 )
 Description: Sucharu Icon theme
  This is the Icon theme for MamoLinux
  .
  This package contains the icon theme
  .
  If you want to follow development, more information here:
- https://github.com/hsbasu/sucharu-theme-icon/icons.
-
-Package: mamolinux-icons
-Architecture: all
-Section: oldlibs
-Depends: sucharu-theme-icon,
-         ${misc:Depends}
-Description: transitional package for Icons for MamoLinux
- This is a transitional package. It can be safely removed.
+ https://github.com/mamolinux/sucharu-theme-icon/icons.
