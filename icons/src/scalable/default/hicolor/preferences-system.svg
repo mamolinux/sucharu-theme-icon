@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1024"
-   height="1024"
-   viewBox="0 0 270.93333 270.93334"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866667"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="preferences-system.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="preferences-system.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <linearGradient
@@ -207,7 +207,7 @@
        x2="132.29166"
        y2="296.99997"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(5.3678385e-6)" />
+       gradientTransform="matrix(0.12444444,0,0,0.12444418,0.075259,22.898102)" />
     <linearGradient
        id="linearGradient868">
       <stop
@@ -228,7 +228,7 @@
        y1="42.999985"
        x2="132.29167"
        y2="275.83331"
-       gradientTransform="matrix(0.97427824,0,0,0.97427824,3.4844477,4.1549215)" />
+       gradientTransform="matrix(0.12124351,0,0,0.12124326,0.508879,23.415158)" />
     <linearGradient
        id="grd67"
        gradientUnits="userSpaceOnUse"
@@ -546,9 +546,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter982"
-       x="-0.048"
+       x="-0.047999998"
        width="1.096"
-       y="-0.048"
+       y="-0.047999998"
        height="1.096">
       <feGaussianBlur
          inkscape:collect="always"
@@ -645,7 +645,7 @@
        x2="132.29167"
        y2="286.41666"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1468615,0,0,1.1468615,-19.894826,-23.722976)" />
+       gradientTransform="matrix(0.14272054,0,0,0.14272025,-2.400542,19.945915)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -655,23 +655,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.86914765"
-     inkscape:cx="512"
-     inkscape:cy="509.12362"
+     inkscape:cx="287.63812"
+     inkscape:cy="222.05663"
      inkscape:document-units="mm"
      inkscape:current-layer="g844"
      showgrid="true"
-     showguides="true"
-     inkscape:pagecheckerboard="true"
+     showguides="false"
+     inkscape:pagecheckerboard="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="961"
+     inkscape:window-width="1904"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid815" />
-  </sodipodi:namedview>
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -680,7 +676,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -692,90 +687,86 @@
     <g
        id="g844">
       <rect
-         rx="11.4"
-         y="51.334358"
-         x="16.404167"
-         height="220.39792"
-         width="238.125"
+         rx="1.4186666"
+         y="29.286366"
+         x="2.1166666"
+         height="27.427237"
+         width="29.633333"
          id="rect1383"
-         style="opacity:1;fill:url(#linearGradient894);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20.83175087;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke markers fill" />
+         style="opacity:1;fill:url(#linearGradient894);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.5924;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke markers fill" />
       <rect
-         style="opacity:1;fill:url(#linearGradient1131);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20.29592133;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke markers fill"
+         style="opacity:1;fill:url(#linearGradient1131);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.52571;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke markers fill"
          id="rect1129"
-         width="232"
-         height="214.72888"
-         x="19.466667"
-         y="54.168877"
-         rx="11.106771" />
+         width="28.871113"
+         height="26.721762"
+         x="2.4977777"
+         y="29.639107"
+         rx="1.382176" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="52.916664"
-         y="95.916649"
-         id="text1170"><tspan
-           sodipodi:role="line"
-           id="tspan1168"
-           x="52.916664"
-           y="105.28042"
-           style="stroke-width:0.26458332" /></text>
+         style="font-style:normal;font-weight:normal;font-size:1.31703px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0329258"
+         x="6.6604371"
+         y="34.834431"
+         id="text1170" />
       <g
          id="Capa_1_86_"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1182"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1184"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1186"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1188"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1190"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1192"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1194"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1196"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1198"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1200"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1202"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1204"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1206"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1208"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
       <g
          id="g1210"
-         transform="matrix(4.0959123,0,0,4.0959123,76.498409,90.70205)" />
-      <circle
-         cy="161.53331"
-         cx="135.46666"
-         style="color:#000000;fill:url(#linearGradient1001);fill-opacity:1;stroke-width:0.52884614;enable-background:accumulate"
-         r="110"
-         id="path4238" />
+         transform="matrix(0.50971352,0,0,0.50971247,9.5950615,34.185445)" />
+      <ellipse
+         cy="42.999981"
+         cx="16.933334"
+         style="color:#000000;fill:url(#linearGradient1001);fill-opacity:1;stroke-width:0.0658118;enable-background:accumulate"
+         id="path4238"
+         rx="13.68889"
+         ry="13.688863" />
       <g
-         style="opacity:0.51000001;enable-background:new"
+         style="opacity:0.51;enable-background:new"
          id="layer2"
-         transform="matrix(0.5216525,0,0,0.5216525,-14.769253,11.297397)">
+         transform="matrix(0.06491676,0,0,0.06491663,-1.7626925,24.303997)">
         <g
            id="g5219"
            style="opacity:0.6;stroke:url(#linearGradient5232);filter:url(#filter5264)"
@@ -783,7 +774,7 @@
            clip-path="url(#clipPath5222)" />
       </g>
       <g
-         transform="matrix(0.65024274,0,0,0.65024274,-1378.2954,-4.3916438)"
+         transform="matrix(0.0809191,0,0,0.08091893,-171.44595,22.351587)"
          id="Mask by oval"
          clip-path="url(#cp12-5)">
         <g
