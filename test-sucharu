@@ -24,9 +24,6 @@ else
 	echo "Choice could not be accepted. Re-run the script and enter correct choice."
 fi
 
-# mv $HOME/.local/share/icons/Sucharu $HOME/.local/share/icons/Tucharu
-# mv $HOME/.local/share/icons/Sucharu-* $HOME/.local/share/icons/Tucharu-*
-
 # gsettings set org.cinnamon.desktop.interface icon-theme 'Sucharu'
 # gsettings set org.gnome.desktop.interface icon-theme 'Sucharu'
 # sleep 10
