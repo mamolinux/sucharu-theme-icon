@@ -1,3 +1,59 @@
+sucharu-theme-icon (0.0.9) stable; urgency=medium
+
+  * fix settings-app (#24)
+    - fix fullcolor settings-app.svg
+    - update png icons
+  * Add rendered icons for variants (#25)
+    - Add blue variant
+    - Add red variant
+    - Add yaru orange variant
+  * Add more colour variants (#26)
+    - Add aqua variant
+    - Add brown variant
+    - Add grey variant
+    - Add pink variant
+    - Add purple variant
+    - Add sand variant
+    - Add teal variant
+  * Remove mamolinux-icons from debian source (#27)
+    - Remove binary package mamolinux-icons
+    - Update Vcs links
+    - Update mamolinux-icons conflict version
+      as the conflict has been fixed upstream
+    - d/install: Remove install location
+  * Update fullcolor apps and hicolor source icons (#28)
+    - accessories-character-map
+    - accessories-dictionary
+    - accessories-text-editor
+    - address-book-app
+    - amazon-store
+    - backups-app
+    - bluetooth
+    - calculator-app
+    - camera-app
+    - filemanager-app
+    - livepatch
+    - mail-app
+    - packages-app
+    - passwords-app
+    - settings-app
+    - software-updater
+    - terminal-app
+    - webbrowser-app
+  * Update and add new fullcolor status icons (#29)
+    - Update bluetooth-active
+    - Update bluetooth-disabled
+    - Add new icons redshift-status-off
+      and redshift-status-on
+  * fix build failure on launchpad (#30)
+    - fix meson build script
+    - Update test script
+  * Add workflows and FUNDING (#31)
+    - Add workflow to update stable branch
+    - Add FUNDING
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Wed, 15 Mar 2023 15:59:23 +0530
+
 sucharu-theme-icon (0.0.8) stable; urgency=medium
 
   * Update fullcolor apps icons (#22)
