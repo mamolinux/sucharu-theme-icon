@@ -38,8 +38,8 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-width="1904"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="32"
      width="400px"
@@ -306,7 +306,7 @@
      inkscape:label="Icon"
      id="layer1">
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Baseplate"
        id="layer7"
        inkscape:groupmode="layer"
