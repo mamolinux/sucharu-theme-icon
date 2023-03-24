@@ -7,8 +7,8 @@ preferences-desktop-font.png org.gnome.font-viewer.png
 preferences-desktop-locale.png system-component-language.png
 preferences-desktop-online-accounts.png credentials-preferences.png
 preferences-desktop-online-accounts.png goa-panel.png
-preferences-system-brightness-lock.png system-lock-screen.png
 preferences-desktop-wallpaper.png preferences-desktop-theme.png
+preferences-system-brightness-lock.png system-lock-screen.png
 preferences-system-brightness-lock.png unity-screen-panel.png
 preferences-system-network.png applications-internet.png
 preferences-system-power.png gnome-power-manager.png
@@ -20,8 +20,8 @@ preferences-system-time.png time-admin.png
 preferences-system-users.png system-users.png
 preferences-system-users.png preferences-desktop-personal.png
 preferences-system-users.png config-users.png
+system-component-addon.png application-x-addon.png
 system-component-application.png system-component-runtime.png
 system-component-application.png preferences-desktop-default-applications.png
 system-component-driver.png system-component-firmware.png
-system-component-addon.png application-x-addon.png
 system-component-input-sources.png preferences-desktop-peripherals.png
