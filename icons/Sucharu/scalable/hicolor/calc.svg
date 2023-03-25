@@ -1,6 +1,6 @@
 <svg enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="b" x1="520" x2="520.03" y1="4" y2="1026" gradientTransform="matrix(.10937 0 0 .10937 8 8)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="b" x1="520" x2="520.03" y1="4" y2="1026" gradientTransform="matrix(.10937 0 0 .10937 8.0042 8.0003)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#fb8c21" offset="0"/>
    <stop stop-color="#f15f19" offset="1"/>
   </linearGradient>
@@ -18,19 +18,19 @@
    <feOffset dx="0" dy="3" result="offset"/>
    <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
   </filter>
-  <linearGradient id="a" x1="102.3" x2="102.3" y1="-.42687" y2="199.17" gradientTransform="matrix(2 0 0 2 483.69 484.09)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="a" x1="102.3" x2="102.3" y1="-.42687" y2="199.17" gradientTransform="matrix(2,0,0,2,483.69,484.09)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#fff" offset="0"/>
    <stop stop-color="#ccc" offset="1"/>
   </linearGradient>
-  <linearGradient id="c" x1="540.14" x2="540.14" y1="29.77" y2="1055" gradientTransform="matrix(.11371 0 0 .11371 5.7828 2.5578)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="c" x1="540.14" x2="540.14" y1="29.77" y2="1055" gradientTransform="matrix(.11371 0 0 .11371 5.7871 2.5581)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#fff" stop-opacity=".58824" offset="0"/>
    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <path d="m115.92 42.561q-1.0203-2.4737-2.3017-4.8466c-0.4805-0.89576-0.99067-1.7856-1.5305-2.6576-2.3195-3.761-5.1492-7.3144-8.489-10.654-10.933-10.933-24.138-16.403-39.603-16.403s-28.664 5.4695-39.597 16.403-16.403 24.132-16.403 39.597 5.4695 28.67 16.403 39.603c10.933 10.933 24.132 16.397 39.597 16.397s28.67-5.4636 39.603-16.397c6.0212-6.0271 10.387-12.742 13.092-20.14 2.2009-6.033 3.3042-12.517 3.3042-19.464 0-5.3271-0.64661-10.387-1.9458-15.181-0.14831-0.53983-0.30254-1.0797-0.46271-1.6136-0.48644-1.578-1.0441-3.1263-1.667-4.6449z" fill="url(#b)" stroke-width=".11864"/>
- <circle cx="64" cy="64" r="55.716" color="#000000" enable-background="accumulate" fill="none" stroke="url(#c)" stroke-width=".56857"/>
- <circle transform="matrix(.11429 0 0 .11429 5.4857 5.4857)" cx="683.69" cy="684.09" r="200" color="#000000" enable-background="accumulate" fill="url(#a)" filter="url(#e)"/>
- <g transform="matrix(.11429 0 0 .11429 5.4857 5.4857)" filter="url(#d)">
+ <path d="m115.92 42.561q-1.0203-2.4737-2.3016-4.8466c-0.48048-0.89576-0.99063-1.7856-1.5304-2.6576-2.3194-3.761-5.149-7.3144-8.4887-10.654-10.933-10.933-24.137-16.403-39.601-16.403s-28.663 5.4695-39.595 16.403c-10.933 10.933-16.402 24.132-16.402 39.597s5.4693 28.67 16.402 39.603c10.933 10.933 24.131 16.397 39.595 16.397s28.669-5.4636 39.601-16.397c6.021-6.0271 10.387-12.742 13.091-20.14 2.2008-6.033 3.3041-12.517 3.3041-19.464 0-5.3271-0.64658-10.387-1.9457-15.181-0.1483-0.53983-0.30253-1.0797-0.46269-1.6136-0.48642-1.578-1.0441-3.1263-1.6669-4.6449z" fill="url(#b)" stroke-width=".11864"/>
+ <ellipse cx="64.002" cy="64" rx="55.714" ry="55.716" color="#000000" enable-background="accumulate" fill="none" stroke="url(#c)" stroke-width=".56856"/>
+ <circle transform="matrix(.11429 0 0 .11429 5.49 5.486)" cx="683.69" cy="684.09" r="200" color="#000000" enable-background="accumulate" fill="url(#a)" filter="url(#e)"/>
+ <g transform="matrix(.11429 0 0 .11429 5.49 5.486)" filter="url(#d)">
   <path d="m740 724h-123.43c-5.6777 0-10.286-4.5977-10.286-10.286s4.608-10.286 10.286-10.286h123.43c5.6777 0 10.286 4.5977 10.286 10.286s-4.608 10.286-10.286 10.286z" stroke-width="10.286"/>
   <path d="m740 662.29h-123.43c-5.6777 0-10.286-4.5977-10.286-10.286s4.608-10.286 10.286-10.286h123.43c5.6777 0 10.286 4.5977 10.286 10.286s-4.608 10.286-10.286 10.286z" stroke-width="10.286"/>
   <g fill="#fff" stroke-width="9.9162">
