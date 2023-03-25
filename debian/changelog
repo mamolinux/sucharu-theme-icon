@@ -1,3 +1,57 @@
+sucharu-theme-icon (0.1.0) stable; urgency=medium
+
+  * Fix scalable symbolic icon (#32)
+    - fix bookmark-missing-symbolic
+    - fix nemo-bookmark-missing-symbolic
+  * Update hicolor scalable icons (#33)
+    - bluetooth
+    - calc
+    - livepatch
+    - mail_generic
+    - preferences-system
+    - software-properties
+    - system-software-install
+    - system-software-update
+    - text-editor
+    - web-browser
+  * Update readme with assets from latest version (#34)
+  * Update fullcolor icons (#35)
+    - Update scalable hicolor icon:
+      calc, calendar, web-browser
+    - remove unused fullcolor actions icons
+  * Add and update fullcolor legacy icons and README (#36)
+    - Add fullcolor legacy blank Template
+    - Update icons list-add, list-remove
+    - Add symlinks list for fullcolor legacy icons
+    - Add new icons: align-horizontal-baseline.svg
+      align-horizontal-center.svg
+      align-horizontal-left-to-anchor.svg
+      align-horizontal-left.svg
+      align-horizontal-right-to-anchor.svg
+      align-horizontal-right.svg
+      align-vertical-baseline.svg
+      align-vertical-bottom-to-anchor.svg
+      align-vertical-bottom.svg
+      align-vertical-center.svg
+      align-vertical-top-to-anchor.svg
+      align-vertical-top.svg
+      document-edit.svg
+  * Update symlinks list for all icons (#37)
+    - Sort symlinks alphabetically
+    - fix fullcolor legacy symlinks list
+  * fix icon address-book-new (#38)
+  * Update fullcolor rendered png icons (#39)
+  * Update icon for disk-usage-analyzer (#40)
+    - update symbolic links
+    - add rendered scalable icons
+  * Update fullcolor and scalable hicolor icons (#41)
+    - Update legacy icon align-horizontal-center
+    - Update rendered scalable hicolor icons
+  * Update scalable actions icons (#42)
+  * Update scalable icons (#43)
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Sat, 25 Mar 2023 12:46:09 +0530
+
 sucharu-theme-icon (0.0.9) stable; urgency=medium
 
   * fix settings-app (#24)
