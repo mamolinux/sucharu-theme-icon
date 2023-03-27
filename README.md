@@ -23,8 +23,8 @@
 	<a href="#download-latest-version">
 		<img src="https://img.shields.io/github/downloads/mamolinux/sucharu-theme-icon/total?label=Downloads" alt="Downloads">
 	</a>
-	<a href="https://github.com/mamolinux/sucharu-theme-icon/releases/download/0.0.9/sucharu-theme-icon_0.0.9_all.deb">
-		<img src="https://img.shields.io/github/downloads/mamolinux/sucharu-theme-icon/0.0.9/sucharu-theme-icon_0.0.9_all.deb?color=blue&label=Downloads%40Latest%20Binary" alt="GitHub release (latest by date and asset)">
+	<a href="https://github.com/mamolinux/sucharu-theme-icon/releases/download/0.1.0/sucharu-theme-icon_0.1.0_all.deb">
+		<img src="https://img.shields.io/github/downloads/mamolinux/sucharu-theme-icon/0.1.0/sucharu-theme-icon_0.1.0_all.deb?color=blue&label=Downloads%40Latest%20Binary" alt="GitHub release (latest by date and asset)">
 	</a>
 </p>
 
@@ -35,7 +35,7 @@ Sucharu Icons is a [Material Design](https://material.io) theme for GNOME/GTK ba
 <p align="center">
 	<a href="https://github.com/mamolinux/sucharu-theme-icon/zipball/master">Download Source (.zip)</a></br>
 	<a href="https://github.com/mamolinux/sucharu-theme-icon/tarball/master">Download Source (.tar.gz)</a></br>
-	<a href="https://github.com/mamolinux/sucharu/releases/download/0.0.9/sucharu-theme-icon_0.0.9_all.deb">Download Sucharu Icons Binary (.deb)</a>
+	<a href="https://github.com/mamolinux/sucharu/releases/download/0.1.0/sucharu-theme-icon_0.1.0_all.deb">Download Sucharu Icons Binary (.deb)</a>
 </p>
 
 ## Features and Screenshots
