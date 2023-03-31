@@ -1,3 +1,87 @@
+sucharu-theme-icon (0.1.1) stable; urgency=medium
+
+  * Update readme from version 0.0.9 to 0.1.0 (#44)
+  * Update fullcolor and hicolor icons (#45)
+    - org.gnome.Software
+    - software-properties
+    - search
+    - Update rendered png and svg icons
+  * Add fullcolor legacy source icons (#46)
+    - add-folder-to-archive
+    - align-horizontal-baseline
+    - align-horizontal-center
+    - align-horizontal-left
+    - align-horizontal-left-to-anchor
+    - align-horizontal-right
+    - align-horizontal-right-to-anchor
+    - align-vertical-baseline
+    - align-vertical-bottom
+    - align-vertical-bottom-to-anchor
+    - align-vertical-center
+    - align-vertical-top
+    - align-vertical-top-to-anchor
+    - color-fill
+    - color-gradient
+    - dialog-align-and-distribute
+    - distribute-graph
+    - distribute-horizontal-baseline
+    - distribute-horizontal-center
+    - distribute-horizontal-gaps
+    - distribute-horizontal-left
+    - distribute-horizontal-right
+    - distribute-randomize
+    - distribute-remove-overlaps
+    - distribute-unclump
+    - distribute-vertical-baseline
+    - distribute-vertical-bottom
+    - distribute-vertical-center
+    - distribute-vertical-gaps
+    - distribute-vertical-top
+    - draw-calligraphic
+    - draw-connector
+    - draw-cuboid
+    - draw-ellipse
+    - draw-eraser
+    - draw-freehand
+    - draw-path
+    - draw-polygon
+    - draw-polygon-star
+    - draw-rectangle
+    - draw-spiral
+    - draw-star
+    - draw-text
+    - edit-select-all-layers
+    - edit-select-none
+    - exchange-positions
+    - exchange-positions-clockwise
+    - exchange-positions-zorder
+    - mesh-gradient
+    - object-flip-horizontal
+    - object-flip-vertical
+    - object-group
+    - object-locked
+    - object-rotate-left
+    - object-rotate-right
+    - search
+    - tool-measure
+    - tool-node-editor
+    - tool-pointer
+    - zoom-fit
+  * Update scalable hicolor icons (#47)
+    - rename to softwarecenter-ubuntu
+    - rename snap to shutter
+  * Update scalable hicolor source and rendered icons (#48)
+    - Reduce source svg icons using scour
+    - Update rendered icons
+  * Update symlinks and rendered icons (#49)
+    - Update scalable hicolor and fullcolor
+      legacy symlinks
+    - Update rendered fullcolor png icons
+  * Update scalable hicolor icons (#50)
+    - Reduce source icon size of shutter
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Fri, 31 Mar 2023 15:10:17 +0530
+
 sucharu-theme-icon (0.1.0) stable; urgency=medium
 
   * Fix scalable symbolic icon (#32)
