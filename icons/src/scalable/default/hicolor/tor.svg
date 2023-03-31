@@ -3,8 +3,8 @@
   <stop stop-color="#4f0078" offset="0"/>
   <stop stop-color="#7307aa" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(-6e-7 -45.4877 45.4877 -6e-7 205.951 46.7237)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
- <linearGradient id="c" x2="1" gradientTransform="matrix(-2.8e-7 -43.2133 21.6066 -5.7e-7 99.6137 45.5875)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-6e-7 -45.488 45.488 -6e-7 205.95 46.724)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(-2.8e-7 -43.213 21.607 -5.7e-7 99.614 45.588)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
  <circle cx="24" cy="24" r="22.764" fill="url(#b)"/>
  <circle cx="24" cy="24" r="17.79" fill="none" stroke="#fff" stroke-width="3.45"/>
  <circle cx="24" cy="24" r="11.234" fill="none" stroke="#fff" stroke-width="3.54"/>

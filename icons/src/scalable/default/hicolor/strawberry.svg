@@ -1,14 +1,14 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="matrix(16.8911 -17.6299 17.6299 16.8911 24 25.4692)" gradientUnits="userSpaceOnUse">
+ <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="matrix(16.891 -17.63 17.63 16.891 24 25.469)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#fba1a1" offset="0"/>
   <stop stop-color="#d1d1d1" offset="1"/>
  </radialGradient>
- <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="matrix(-3.07892 16.7652 -16.7652 -3.07892 28.3038 23.0223)" gradientUnits="userSpaceOnUse">
+ <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="matrix(-3.0789 16.765 -16.765 -3.0789 28.304 23.022)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#dc3a2d" offset="0"/>
   <stop stop-color="#cf2e2a" offset=".54"/>
   <stop stop-color="#9e031f" offset="1"/>
  </radialGradient>
- <radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="matrix(0 -22.3937 21.0765 0 23.2185 38.9464)" gradientUnits="userSpaceOnUse">
+ <radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="matrix(0 -22.394 21.076 0 23.218 38.946)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#b4291e" offset="0"/>
   <stop stop-color="#610b05" offset="1"/>
  </radialGradient>

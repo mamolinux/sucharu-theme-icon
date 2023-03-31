@@ -1,13 +1,13 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-21.7669 -39.899 39.899 -21.7669 195.66 -43.7642)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-21.767 -39.899 39.899 -21.767 195.66 -43.764)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#235f94" offset="0"/>
   <stop stop-color="#00aef0" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(11.4974 -2.09581 2.09581 11.4974 114.387 549.423)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(11.497 -2.0958 2.0958 11.497 114.39 549.42)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#ffb100" offset="0"/>
   <stop stop-color="#ffed81" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(8.30146 2.41668 -2.41668 8.30146 -58.3166 266.131)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x2="1" gradientTransform="matrix(8.3015 2.4167 -2.4167 8.3015 -58.317 266.13)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#ffb700" offset="0"/>
   <stop stop-color="#ffed81" offset="1"/>
  </linearGradient>
@@ -16,8 +16,8 @@
   <stop stop-color="#414141" offset=".54"/>
   <stop stop-color="#5b5b5b" offset="1"/>
  </linearGradient>
- <linearGradient id="e" x2="1" gradientTransform="matrix(9.49056 -5.07279 5.07279 9.49056 174.149 314.16)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
- <linearGradient id="f" x2="1" gradientTransform="matrix(8.57918 -1.56385 1.56385 8.57918 58.5899 226.808)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+ <linearGradient id="e" x2="1" gradientTransform="matrix(9.4906 -5.0728 5.0728 9.4906 174.15 314.16)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+ <linearGradient id="f" x2="1" gradientTransform="matrix(8.5792 -1.5638 1.5638 8.5792 58.59 226.81)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
  <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
  <path d="m24 43.485 3.867-5.244-2.522-.814z"/>
  <path d="m26.957 22.422c1.487 1.566 6.909-2.073 9.814-7.489 1.834-3.418-1.249-6.395-3.617-8.034-2.37-1.639-2.486 4.416-3.043 6.93-1.454 6.559-3.769 7.945-3.154 8.593z" fill="#fff"/>

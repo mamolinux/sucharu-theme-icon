@@ -1,5 +1,5 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3373 43.3373 0 302.963 45.6687)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.337 43.337 0 302.96 45.669)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#1d2d44" offset="0"/>
   <stop stop-color="#1b4889" offset="1"/>
  </linearGradient>
@@ -7,15 +7,15 @@
   <stop stop-color="#eaeaea" offset="0"/>
   <stop stop-color="#fcf9f9" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 555.268)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="d" x2="1" gradientTransform="matrix(33.0518 0 0 33.0518 6.53283 745.626)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="e" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 683.604)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="f" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 617.829)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="g" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 474.593)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="h" x2="1" gradientTransform="matrix(33.1276 0 0 33.1276 9.12866 883.445)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="i" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 796.199)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="j" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 981.143)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="k" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 682.655)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(36.521 0 0 36.521 6.0281 555.27)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(33.052 0 0 33.052 6.5328 745.63)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="e" x2="1" gradientTransform="matrix(36.521 0 0 36.521 6.0281 683.6)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="f" x2="1" gradientTransform="matrix(36.521 0 0 36.521 6.0281 617.83)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="g" x2="1" gradientTransform="matrix(36.521 0 0 36.521 6.0281 474.59)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="h" x2="1" gradientTransform="matrix(33.128 0 0 33.128 9.1287 883.44)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="i" x2="1" gradientTransform="matrix(36.521 0 0 36.521 6.0281 796.2)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="j" x2="1" gradientTransform="matrix(36.521 0 0 36.521 6.0281 981.14)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="k" x2="1" gradientTransform="matrix(36.521 0 0 36.521 6.0281 682.66)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
  <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228z" fill="url(#a)"/>
  <circle cx="16.388" cy="17.348" r="2.753" fill="url(#c)"/>
  <circle cx="11.341" cy="26.915" r="4.563" fill="url(#d)"/>

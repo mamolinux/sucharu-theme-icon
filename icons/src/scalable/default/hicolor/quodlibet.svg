@@ -1,9 +1,9 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-.364187 -47.8798 47.8798 -.364187 -14.315 44.8738)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.36419 -47.88 47.88 -.36419 -14.315 44.874)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#122630" offset="0"/>
   <stop stop-color="#47606a" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(0 -43.5081 43.5081 0 23.728 45.4768)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -43.508 43.508 0 23.728 45.477)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#919191" offset="0"/>
   <stop stop-color="#e7e7e7" offset="1"/>
  </linearGradient>

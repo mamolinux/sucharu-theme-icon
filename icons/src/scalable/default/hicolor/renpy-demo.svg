@@ -1,5 +1,5 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <linearGradient id="a" x2="1" gradientTransform="matrix(0 -35.3911 35.3911 0 968.766 41.2823)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -35.391 35.391 0 968.77 41.282)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#0f76b1" offset="0"/>
   <stop stop-color="#13bee3" offset="1"/>
  </linearGradient>
@@ -7,8 +7,8 @@
   <stop stop-color="#2bb5fe" offset="0"/>
   <stop stop-color="#2bb5fe" stop-opacity="0" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(-.603246 -1.97364 1.97364 -.603246 22.0195 31.4768)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="d" x2="1" gradientTransform="matrix(-.603246 -1.97364 1.97364 -.603246 32.8118 31.3337)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(-.60325 -1.9736 1.9736 -.60325 22.02 31.477)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(-.60325 -1.9736 1.9736 -.60325 32.812 31.334)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
  <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
  <ellipse cx="25.62" cy="27.077" rx="10.216" ry="10.582" fill="#f6dcc2"/>
  <g fill-rule="nonzero">

@@ -1,25 +1,25 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(41.2109 -30.7295 30.7295 41.2109 185.564 282.234)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(41.211 -30.73 30.73 41.211 185.56 282.23)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#2b7fb8" offset="0"/>
   <stop stop-color="#823f77" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(-.03334 -10.7989 10.7989 -.03334 1075.37 37.6623)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-.03334 -10.799 10.799 -.03334 1075.4 37.662)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#0f9d58" offset="0"/>
   <stop stop-color="#00d455" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(0 -11.6 11.6 0 1205.04 42.1241)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x2="1" gradientTransform="matrix(0 -11.6 11.6 0 1205 42.124)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#ffcd40" offset="0"/>
   <stop stop-color="#fee145" offset="1"/>
  </linearGradient>
- <linearGradient id="d" x2="1" gradientTransform="matrix(0 -6.4 6.4 0 588.08 32.5241)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="d" x2="1" gradientTransform="matrix(0 -6.4 6.4 0 588.08 32.524)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#db4437" offset="0"/>
   <stop stop-color="#fd5757" offset="1"/>
  </linearGradient>
- <linearGradient id="e" x2="1" gradientTransform="matrix(0 -6.99807 6.99807 0 733.159 37.5006)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="e" x2="1" gradientTransform="matrix(0 -6.9981 6.9981 0 733.16 37.501)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#f2f6f7" offset="0"/>
   <stop stop-color="#ecf0f1" offset="1"/>
  </linearGradient>
- <linearGradient id="f" x2="1" gradientTransform="matrix(0 -5.7257 5.7257 0 618.688 37.0703)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="f" x2="1" gradientTransform="matrix(0 -5.7257 5.7257 0 618.69 37.07)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#2566d3" offset="0"/>
   <stop stop-color="#429aff" offset="1"/>
  </linearGradient>

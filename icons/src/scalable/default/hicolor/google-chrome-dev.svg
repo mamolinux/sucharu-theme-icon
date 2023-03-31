@@ -1,21 +1,21 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-.0939125 -30.4222 30.4222 -.0939125 10.5691 42.9268)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.093912 -30.422 30.422 -.093912 10.569 42.927)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#0f9d58" offset="0"/>
   <stop stop-color="#00d455" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(0 -32.6789 32.6789 0 37.5198 46.3104)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -32.679 32.679 0 37.52 46.31)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#ffcd40" offset="0"/>
   <stop stop-color="#fee145" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(0 -18.0298 18.0298 0 22.8706 19.2658)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x2="1" gradientTransform="matrix(0 -18.03 18.03 0 22.871 19.266)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#db4437" offset="0"/>
   <stop stop-color="#fd5757" offset="1"/>
  </linearGradient>
- <linearGradient id="d" x2="1" gradientTransform="matrix(0 -19.7146 19.7146 0 24.0425 33.2854)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="d" x2="1" gradientTransform="matrix(0 -19.715 19.715 0 24.042 33.285)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#f2f6f7" offset="0"/>
   <stop stop-color="#ecf0f1" offset="1"/>
  </linearGradient>
- <linearGradient id="e" x2="1" gradientTransform="matrix(0 -16.1301 16.1301 0 24.0425 32.0731)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="e" x2="1" gradientTransform="matrix(0 -16.13 16.13 0 24.042 32.073)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#2566d3" offset="0"/>
   <stop stop-color="#429aff" offset="1"/>
  </linearGradient>

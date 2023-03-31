@@ -1,13 +1,13 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <linearGradient id="a" x2="1" gradientTransform="matrix(0 -36.2165 36.2165 0 275.714 42.119)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -36.216 36.216 0 275.71 42.119)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#957d75" offset="0"/>
   <stop stop-color="#ccaba0" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(0 -21.555 24.8423 0 192.13 41.7003)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -21.555 24.842 0 192.13 41.7)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#dcdcdc" offset="0"/>
   <stop stop-color="#e3e3e3" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(.848671 -36.5623 36.5623 .848671 35.3588 41.7786)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x2="1" gradientTransform="matrix(.84867 -36.562 36.562 .84867 35.359 41.779)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#957d75" offset="0"/>
   <stop stop-color="#d1b0a4" offset="1"/>
  </linearGradient>
@@ -22,7 +22,7 @@
  <path d="m7.302 18.629h35.389v3.067h-35.389z" fill-opacity=".67" fill-rule="nonzero"/>
  <path d="m35.46 24.191c0-2.233-1.813-4.046-4.046-4.046h-23.889c-2.233 0-4.046 1.813-4.046 4.046v12.848c0 2.233 1.813 4.046 4.046 4.046h23.889c2.233 0 4.046-1.813 4.046-4.046z" fill="url(#b)"/>
  <g clip-path="url(#d)">
-  <image transform="matrix(.949626 0 0 1 7.4811536 27.52)" width="9.496" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAaUlEQVQYlW2POw6AMAxDX6XclYWNhYmJa8dmqKD0E1VRm1rPTgHYz9u2mcvvIQAys/9smu9dtuPyqAHT8W1CEnihbUgAQoPtHLXSQ8qXPjH/OUOZLCBTzkhpmcnDrFqvth0u3TLuW5sbHvHRTnNu/j44AAAAAElFTkSuQmCC"/>
+  <image transform="matrix(.94963 0 0 1 7.4812 27.52)" width="9.496" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAaUlEQVQYlW2POw6AMAxDX6XclYWNhYmJa8dmqKD0E1VRm1rPTgHYz9u2mcvvIQAys/9smu9dtuPyqAHT8W1CEnihbUgAQoPtHLXSQ8qXPjH/OUOZLCBTzkhpmcnDrFqvth0u3TLuW5sbHvHRTnNu/j44AAAAAElFTkSuQmCC"/>
  </g>
  <path d="m39.325 7.043h-2.083l-29.87 33.892h1.873z" fill="#fff"/>
  <path d="m43.833 5.902c1.922 0 3.479 1.558 3.479 3.479v28.225c0 1.921-1.558 3.479-3.479 3.479h-34.872l31.227-35.183z" fill="url(#c)"/>

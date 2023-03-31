@@ -1,17 +1,17 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.41421" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(52 0 0 57.9997 6 31.9999)" gradientUnits="userSpaceOnUse">
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(52 0 0 58 6 32)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#073d6c" offset="0"/>
   <stop stop-color="#0073d6" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(25.9976 0 0 57.9994 6 31.9999)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(25.998 0 0 57.999 6 32)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#0073d6" offset="0"/>
   <stop stop-color="#104574" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(.0023891 26.3726 -26.3726 .0023891 31.9976 34.6261)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x2="1" gradientTransform="matrix(.0023891 26.373 -26.373 .0023891 31.998 34.626)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#ff4e00" offset="0"/>
   <stop stop-color="#ffbd7e" offset="1"/>
  </linearGradient>
- <linearGradient id="d" x2="1" gradientTransform="matrix(31.2 0 0 35.2132 16.4 33.6268)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="d" x2="1" gradientTransform="matrix(31.2 0 0 35.213 16.4 33.627)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#c41717" offset="0"/>
   <stop stop-color="#f13f3f" offset="1"/>
  </linearGradient>
@@ -22,7 +22,9 @@
  </g>
  <path d="m45.689 29.009-1.608-.029v13.657l1.608.818z" fill="#a91f1f"/>
  <path d="m19.65 28.476h-1.599l.021 14.906 1.552-.704z" fill="#dc2c2c"/>
- <path d="m18.082 43.379-1.682-.949v-17.607l15.6-8.803 15.6 8.803v17.607l-1.913 1.08v-14.05l-11.489 6.4v14.133l-2.198 1.24-2.12-1.196v-14.49l-11.798-6.323z" fill="url(#d)" fill-rule="nonzero"/>
- <path d="m16.4 24.823v17.607l1.679.952-.001-14.162 11.808 6.327-.075 14.451 2.189 1.235v-17.606z" fill-opacity=".221429" fill-rule="nonzero"/>
- <path d="m16.398 24.823v1l15.602 8.803 15.602-8.803v-1l-15.602 8.805z" fill-opacity=".328571" fill-rule="nonzero"/>
+ <g fill-rule="nonzero">
+  <path d="m18.082 43.379-1.682-.949v-17.607l15.6-8.803 15.6 8.803v17.607l-1.913 1.08v-14.05l-11.489 6.4v14.133l-2.198 1.24-2.12-1.196v-14.49l-11.798-6.323z" fill="url(#d)"/>
+  <path d="m16.4 24.823v17.607l1.679.952-.001-14.162 11.808 6.327-.075 14.451 2.189 1.235v-17.606z" fill-opacity=".22143"/>
+  <path d="m16.398 24.823v1l15.602 8.803 15.602-8.803v-1l-15.602 8.805z" fill-opacity=".32857"/>
+ </g>
 </svg>

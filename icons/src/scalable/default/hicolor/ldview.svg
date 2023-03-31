@@ -3,7 +3,7 @@
   <stop stop-color="#b87c00" offset="0"/>
   <stop stop-color="#e49815" offset="1"/>
  </linearGradient>
- <g transform="matrix(1.09032 0 0 1.09032 -2.16757 -2.21273)" fill-rule="nonzero">
+ <g transform="matrix(1.0903 0 0 1.0903 -2.1676 -2.2127)" fill-rule="nonzero">
   <path d="m10 8c-1.108 0-2 .892-2 2v2c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2v-2c0-1.108-.892-2-2-2zm18 0c-1.108 0-2 .892-2 2v2c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2v-2c0-1.108-.892-2-2-2z" fill="#f2b740"/>
   <path d="m44 39v-25c0-1.108-.892-2-2-2h-36c-1.108 0-2 .892-2 2v25c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2z" fill="url(#a)"/>
  </g>

@@ -1,17 +1,17 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-.174283 -26 26 -.174283 31.1743 43)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.17428 -26 26 -.17428 31.174 43)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#394dbb" offset="0"/>
   <stop stop-color="#004fff" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(-.02539 -15.3294 15.3294 -.02539 24.0078 20.3294)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-.02539 -15.329 15.329 -.02539 24.008 20.329)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#d20000" offset="0"/>
   <stop stop-color="#ee4034" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(-.273268 -25.4434 25.4434 -.273268 16.5428 42.9921)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x2="1" gradientTransform="matrix(-.27327 -25.443 25.443 -.27327 16.543 42.992)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#009a06" offset="0"/>
   <stop stop-color="#49ac36" offset="1"/>
  </linearGradient>
- <g transform="matrix(1.07082 0 0 1.07082 -1.69974 -1.69974)">
+ <g transform="matrix(1.0708 0 0 1.0708 -1.6997 -1.6997)">
   <circle cx="31" cy="30" r="13" fill="url(#a)"/>
   <circle cx="24" cy="18" r="13" fill="url(#b)"/>
   <circle cx="17" cy="30" r="13" fill="url(#c)"/>

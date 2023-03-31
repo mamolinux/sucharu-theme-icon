@@ -1,5 +1,5 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-.348629 -45.5185 45.5185 -.348629 23.3362 46.7545)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.34863 -45.518 45.518 -.34863 23.336 46.754)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#7a7c82" offset="0"/>
   <stop stop-color="#acaeb5" offset="1"/>
  </linearGradient>
