@@ -1,5 +1,5 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3373 43.3373 0 201.9 45.6687)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.337 43.337 0 201.9 45.669)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#d3d3d3" offset="0"/>
   <stop stop-color="#f0f0f0" offset="1"/>
  </linearGradient>
@@ -10,7 +10,9 @@
   <path d="m10.819 20.024c-.45 0-.829.382-.829.831v2.88c0 .45.379.829.829.829h2.882c.45 0 .829-.379.829-.829v-2.88c0-.449-.379-.831-.829-.831z" fill="#898989"/>
   <path d="m10.819 8.672c-.45 0-.829.382-.829.832v2.88c0 .45.379.829.829.829h2.882c.45 0 .829-.379.829-.829v-2.88c0-.45-.379-.832-.829-.832z" fill="#898989"/>
  </g>
- <path d="m21.341 22.294h15.892" fill="none" stroke="#898989" stroke-width="4.54"/>
- <path d="m21.341 10.943h15.892" fill="none" stroke="#898989" stroke-width="4.54"/>
- <path d="m21.341 33.646h15.892" fill="none" stroke="#186eee" stroke-width="4.54"/>
+ <g fill="none" stroke-width="4.54">
+  <path d="m21.341 22.294h15.892" stroke="#898989"/>
+  <path d="m21.341 10.943h15.892" stroke="#898989"/>
+  <path d="m21.341 33.646h15.892" stroke="#186eee"/>
+ </g>
 </svg>

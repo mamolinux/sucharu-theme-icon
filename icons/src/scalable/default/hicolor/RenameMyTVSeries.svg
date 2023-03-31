@@ -3,7 +3,7 @@
   <stop stop-color="#b75300" offset="0"/>
   <stop stop-color="#e7a522" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(-.317618 -35.732 35.732 -.317618 28.268 49.7866)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-.31762 -35.732 35.732 -.31762 28.268 49.787)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#313131" offset="0"/>
   <stop stop-color="#474747" offset="1"/>
  </linearGradient>

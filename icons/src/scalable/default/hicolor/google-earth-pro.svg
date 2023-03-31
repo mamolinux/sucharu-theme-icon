@@ -1,21 +1,21 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-2.6101 -31.0415 31.0415 -2.6101 97.6335 27.5509)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-2.6101 -31.042 31.042 -2.6101 97.634 27.551)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#80b3ff" offset="0"/>
   <stop stop-color="#80b3ff" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(-1.13994 26.7771 -26.7771 -1.13994 -374.357 1.93486)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-1.1399 26.777 -26.777 -1.1399 -374.36 1.9349)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#61a0ff" offset="0"/>
   <stop stop-color="#2a7fff" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(.321659 -22.1094 22.1094 .321659 73.3676 24.6433)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x2="1" gradientTransform="matrix(.32166 -22.109 22.109 .32166 73.368 24.643)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#afc6e9" offset="0"/>
   <stop stop-color="#abcbfb" offset="1"/>
  </linearGradient>
- <linearGradient id="d" x2="1" gradientTransform="matrix(-1.39827 -15.6606 15.6606 -1.39827 73.6765 14.5004)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="d" x2="1" gradientTransform="matrix(-1.3983 -15.661 15.661 -1.3983 73.676 14.5)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#d5e5ff" offset="0"/>
   <stop stop-color="#ebebeb" offset="1"/>
  </linearGradient>
- <linearGradient id="e" x2="1" gradientTransform="matrix(-.922855 -49.8004 49.8004 -.922855 452.815 -1114.52)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="e" x2="1" gradientTransform="matrix(-.92286 -49.8 49.8 -.92286 452.82 -1114.5)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#0d5ec2" offset="0"/>
   <stop stop-color="#38b2fa" offset="1"/>
  </linearGradient>

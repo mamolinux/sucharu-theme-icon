@@ -3,15 +3,15 @@
   <stop stop-color="#cecece" offset="0"/>
   <stop stop-color="#e4e4e4" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(0 -23.836 23.836 0 38.4453 26.168)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -23.836 23.836 0 38.445 26.168)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#5d5d5d" offset="0"/>
   <stop stop-color="#7b7b7b" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(0 -43.336 43.336 0 22.6526 45.668)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x2="1" gradientTransform="matrix(0 -43.336 43.336 0 22.653 45.668)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#777" offset="0"/>
   <stop stop-color="#b5b5b5" offset="1"/>
  </linearGradient>
- <linearGradient id="d" x2="1" gradientTransform="matrix(25.5 0 0 25.5 20.168 695.918)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="d" x2="1" gradientTransform="matrix(25.5 0 0 25.5 20.168 695.92)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#00a0ff" offset="0"/>
   <stop stop-color="#0258b9" offset="1"/>
  </linearGradient>

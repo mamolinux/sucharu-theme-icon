@@ -3,9 +3,9 @@
   <stop stop-color="#00cafe" offset="0"/>
   <stop stop-color="#1460f3" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(0 47.1546 -47.1546 0 -75.1818 -1.54207)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
- <linearGradient id="c" x2="1" gradientTransform="matrix(0 -48.0976 48.0976 0 -75.1818 93.7101)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
- <linearGradient id="d" x2="1" gradientTransform="matrix(-.0722529 -21.9733 21.9733 -.0722529 903.751 31.1532)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 47.155 -47.155 0 -75.182 -1.5421)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(0 -48.098 48.098 0 -75.182 93.71)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(-.072253 -21.973 21.973 -.072253 903.75 31.153)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#bcddff" offset="0"/>
   <stop stop-color="#e4f7ff" offset="1"/>
  </linearGradient>

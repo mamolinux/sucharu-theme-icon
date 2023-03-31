@@ -1,11 +1,11 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x1="5.06215" x2="42.93785" y1="91.2024" y2="91.2024" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x1="5.0622" x2="42.938" y1="91.202" y2="91.202" gradientUnits="userSpaceOnUse">
   <stop stop-color="#1976d2" offset="0"/>
   <stop stop-color="#1976d2" offset=".41"/>
   <stop stop-color="#005ce0" offset=".58"/>
   <stop stop-color="#0032b9" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x1="8.95685" x2="39.71845" y1="60.154" y2="60.154" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x1="8.9568" x2="39.718" y1="60.154" y2="60.154" gradientUnits="userSpaceOnUse">
   <stop stop-color="#1880e6" offset="0"/>
   <stop stop-color="#0033ba" offset="1"/>
  </linearGradient>

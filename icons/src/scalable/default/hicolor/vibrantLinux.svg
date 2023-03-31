@@ -1,5 +1,5 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24" cy="24" r="22.1949" fill="#7a7a7a" stroke-width="1.1382"/>
+ <circle cx="24" cy="24" r="22.195" fill="#7a7a7a" stroke-width="1.1382"/>
  <g transform="matrix(1.1382 0 0 1.1382 -3.3168 -3.3168)" fill-rule="nonzero">
   <path d="m5.567 16.241c2.15-5.099 6.153-8.843 10.882-10.77l7.543 18.537z" fill="#80c535"/>
   <path d="m31.76 5.583c-5.1-2.15-10.579-2.034-15.311-.112l7.543 18.537z" fill="#fff90b"/>

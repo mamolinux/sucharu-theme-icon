@@ -1,21 +1,21 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-45.136 .647316 -.647316 -45.136 38.2068 -559.316)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-45.136 .64732 -.64732 -45.136 38.207 -559.32)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#0089c9" offset="0"/>
   <stop stop-color="#2dcb72" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(-.363346 -25.361 25.361 -.363346 1129.58 21.4678)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-.36335 -25.361 25.361 -.36335 1129.6 21.468)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#147966" offset="0"/>
   <stop stop-color="#2dcbc6" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(.460847 .00064791 -.00064791 .460847 6.35144 97.7592)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x2="1" gradientTransform="matrix(.46085 .00064791 -.00064791 .46085 6.3514 97.759)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#989a9b" stop-opacity=".87" offset="0"/>
   <stop stop-color="#f6f6f7" stop-opacity=".87" offset="1"/>
  </linearGradient>
- <linearGradient id="d" x2="1" gradientTransform="matrix(-.956196 -14.5787 14.5787 -.956196 1645.49 -62.2882)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="d" x2="1" gradientTransform="matrix(-.9562 -14.579 14.579 -.9562 1645.5 -62.288)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#cdd0d1" offset="0"/>
   <stop stop-color="#f6f6f7" offset="1"/>
  </linearGradient>
- <linearGradient id="e" x2="1" gradientTransform="matrix(5.5326 -6.28968 6.28968 5.5326 837.562 746.488)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="e" x2="1" gradientTransform="matrix(5.5326 -6.2897 6.2897 5.5326 837.56 746.49)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#16a085" offset="0"/>
   <stop stop-color="#2dcb72" offset="1"/>
  </linearGradient>

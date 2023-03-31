@@ -1,13 +1,13 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-.0595533 -35.183 35.183 -.0595533 604.496 40.1042)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.059553 -35.183 35.183 -.059553 604.5 40.104)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#f086fb" offset="0"/>
   <stop stop-color="#f6aa43" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(0 -17.5087 17.5087 0 24 38.9921)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -17.509 17.509 0 24 38.992)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#513031" offset="0"/>
   <stop stop-color="#603e3f" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x1="58.8685" x2="58.868502" y1="24" y2="24" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x1="58.868" x2="58.869" y1="24" y2="24" gradientUnits="userSpaceOnUse">
   <stop stop-color="#2a2a2a" offset="0"/>
   <stop stop-color="#6e6e6e" offset="1"/>
  </linearGradient>
@@ -20,7 +20,7 @@
  <g transform="matrix(1.2 0 0 1.2 -4.8 -4.8)">
   <path d="m38 36.833c0-.46-.373-.833-.833-.833h-26.334c-.46 0-.833.373-.833.833v.334c0 .46.373.833.833.833h26.334c.46 0 .833-.373.833-.833z"/>
   <g clip-path="url(#d)">
-   <image transform="matrix(.7499997 0 0 .7499997 25.999741 33.999988)" width="7.2" height="7.2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAALUlEQVQYlWN0nvTtPwMewMKFV5qBgUXoPyMhBQgONqVYTWBE0sQi/I+absAGABzNC1sfUouiAAAAAElFTkSuQmCC"/>
+   <image transform="matrix(.75 0 0 .75 26 34)" width="7.2" height="7.2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAALUlEQVQYlWN0nvTtPwMewMKFV5qBgUXoPyMhBQgONqVYTWBE0sQi/I+absAGABzNC1sfUouiAAAAAElFTkSuQmCC"/>
   </g>
  </g>
 </svg>

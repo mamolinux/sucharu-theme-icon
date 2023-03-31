@@ -1,5 +1,5 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-.729096 -44.2129 44.2129 -.729096 74.0047 44.6357)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.7291 -44.213 44.213 -.7291 74.005 44.636)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#222" offset="0"/>
   <stop stop-color="#3b3b3b" offset="1"/>
  </linearGradient>
@@ -7,10 +7,10 @@
   <stop stop-color="#d4ff2a" offset="0"/>
   <stop stop-color="#ff0" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(-.405111 -31.3952 31.3952 -.405111 710.875 30.5197)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="d" x2="1" gradientTransform="matrix(-.405111 -31.3952 31.3952 -.405111 298.327 35.8431)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="e" x2="1" gradientTransform="matrix(-.405111 -31.3952 31.3952 -.405111 668.051 533.515)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="f" x2="1" gradientTransform="matrix(-.405111 -31.3952 31.3952 -.405111 918.182 530.288)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(-.40511 -31.395 31.395 -.40511 710.88 30.52)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(-.40511 -31.395 31.395 -.40511 298.33 35.843)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="e" x2="1" gradientTransform="matrix(-.40511 -31.395 31.395 -.40511 668.05 533.52)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="f" x2="1" gradientTransform="matrix(-.40511 -31.395 31.395 -.40511 918.18 530.29)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
  <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
  <g fill-rule="nonzero">
   <path d="m26.086 23.863c0 1.087-.882 1.969-1.97 1.969-1.087 0-1.968-.882-1.968-1.969s.881-1.975 1.968-1.975c1.088 0 1.97.888 1.97 1.975" fill="url(#c)"/>

@@ -1,5 +1,5 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-miterlimit="10" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.1359 15.9492 0 14.9643 45.4679)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.136 15.949 0 14.964 45.468)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#7e001b" offset="0"/>
   <stop stop-color="#dd3f6e" offset="1"/>
  </linearGradient>
@@ -8,7 +8,7 @@
   <stop stop-color="#fafafa" offset=".69"/>
   <stop stop-color="#abacae" offset="1"/>
  </linearGradient>
- <radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="matrix(28.6961 0 0 21.6342 65.3669 109.161)" gradientUnits="userSpaceOnUse">
+ <radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="matrix(28.696 0 0 21.634 65.367 109.16)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#fafafa" offset="0"/>
   <stop stop-color="#d4d4d4" offset="1"/>
  </radialGradient>
@@ -16,19 +16,21 @@
  <g transform="matrix(.375 0 0 .375 0 -7.125)">
   <path d="m105.1 76h-82.2c-3.2 0-5.9-2.6-5.9-5.9v-14.2c0-3.2 2.6-5.9 5.9-5.9h82.3c3.2 0 5.9 2.6 5.9 5.9v14.3c-.1 3.2-2.7 5.8-6 5.8z" fill="url(#b)" fill-rule="nonzero"/>
   <g fill="none">
-   <path d="m23 54v17" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m30 57v11" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m36 57v11" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m43 54v17" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m50 57v11" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m57 57v11" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m64 54v17" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m71 57v11" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m78 57v11" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m85 54v17" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m105 54v17" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m92 57v11" stroke="#abacae" stroke-width="1.79"/>
-   <path d="m98 57v11" stroke="#abacae" stroke-width="1.79"/>
+   <g stroke="#abacae" stroke-width="1.79">
+    <path d="m23 54v17"/>
+    <path d="m30 57v11"/>
+    <path d="m36 57v11"/>
+    <path d="m43 54v17"/>
+    <path d="m50 57v11"/>
+    <path d="m57 57v11"/>
+    <path d="m64 54v17"/>
+    <path d="m71 57v11"/>
+    <path d="m78 57v11"/>
+    <path d="m85 54v17"/>
+    <path d="m105 54v17"/>
+    <path d="m92 57v11"/>
+    <path d="m98 57v11"/>
+   </g>
    <path d="m54 50v26" stroke="#de3e80" stroke-width="2.19"/>
   </g>
   <circle cx="64.5" cy="98.5" r="17.5" fill="url(#c)"/>

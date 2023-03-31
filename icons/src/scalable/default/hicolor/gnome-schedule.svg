@@ -3,12 +3,12 @@
   <stop stop-color="#b3b3b3" offset="0"/>
   <stop stop-color="#fff" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(-.781909 -20.7189 20.7189 -.781909 215.183 22.5848)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
- <linearGradient id="c" x2="1" gradientTransform="matrix(-.226965 -44.9046 44.9046 -.226965 24.227 46.527)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-.78191 -20.719 20.719 -.78191 215.18 22.585)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(-.22696 -44.905 44.905 -.22696 24.227 46.527)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#1e2023" offset="0"/>
   <stop stop-color="#404447" offset="1"/>
  </linearGradient>
- <linearGradient id="d" x2="1" gradientTransform="matrix(0 -24.9166 24.9166 0 535.484 35.5)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(0 -24.917 24.917 0 535.48 35.5)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
  <path d="m26.366 24.021c-.061-.505-.253-.965-.547-1.349l2.024-12.563c.075-.468-.225-.914-.686-1.02l-.023-.005c-.461-.107-.926.163-1.063.616l-3.688 12.179c-.909.457-1.539 1.388-1.539 2.473 0 1.532 1.245 2.778 2.777 2.778.285 0 .555-.055.815-.136l7.704 4.004c.424.22.945.083 1.206-.318l.011-.018c.26-.4.173-.933-.201-1.23zm-4.117.331c0-.757.616-1.372 1.372-1.372.757 0 1.373.615 1.373 1.372s-.616 1.372-1.373 1.372c-.756 0-1.372-.615-1.372-1.372z" fill="url(#b)" fill-rule="nonzero"/>
  <circle cx="24" cy="24" r="22.764" fill="url(#c)"/>
  <path d="m26.366 24.021c-.061-.505-.253-.965-.547-1.349l2.024-12.563c.075-.468-.225-.914-.686-1.02l-.023-.005c-.461-.107-.926.163-1.063.616l-3.688 12.179c-.909.457-1.539 1.388-1.539 2.473 0 1.532 1.245 2.778 2.777 2.778.285 0 .555-.055.815-.136l7.704 4.004c.424.22.945.083 1.206-.318l.011-.018c.26-.4.173-.933-.201-1.23zm-4.117.331c0-.757.616-1.372 1.372-1.372.757 0 1.373.615 1.373 1.372s-.616 1.372-1.373 1.372c-.756 0-1.372-.615-1.372-1.372z" fill="url(#b)" fill-rule="nonzero"/>
