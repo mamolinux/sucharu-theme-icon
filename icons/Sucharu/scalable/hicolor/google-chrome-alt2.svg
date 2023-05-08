@@ -76,37 +76,29 @@
   </radialGradient>
  </defs>
  <g transform="translate(0 -28.362)">
-  <g>
-   <g transform="translate(21.047 -21.047)">
-    <g>
-     <circle cx="1671.5" cy="556.01" r="485" color="#000000" fill="url(#i)"/>
-     <path d="m2110.4 338.83a490.28 490.28 0 0 0-844.86-56.908l196.99 341.45a218.88 218.88 0 0 1 205.74-284.54" fill="url(#f)" fill-rule="evenodd"/>
-     <path d="m1265.5 281.92a490.28 490.28 0 0 0 367.71 761.69l205.74-350.2a218.88 218.88 0 0 1-376.47-70.04" fill="url(#e)" fill-rule="evenodd"/>
-     <g>
-      <path d="m1633.2 1043.6a490.28 490.28 0 0 0 477.15-704.78h-442.13a218.88 218.88 0 0 1 170.72 354.58" fill="url(#d)"/>
-      <g>
-       <circle cx="1669.5" cy="556.01" r="223.15" color="#000000" fill="url(#k)" filter="url(#o)"/>
-       <circle cx="1671.5" cy="556.01" r="176.8" color="#000000" fill="url(#h)"/>
-       <circle cx="1669.5" cy="556.01" r="225" color="#000000" fill="url(#g)" filter="url(#n)" opacity=".69"/>
-      </g>
-     </g>
+  <g transform="translate(21.047 -21.047)">
+   <circle cx="1671.5" cy="556.01" r="485" color="#000000" fill="url(#i)"/>
+   <path d="m2110.4 338.83a490.28 490.28 0 0 0-844.86-56.908l196.99 341.45a218.88 218.88 0 0 1 205.74-284.54" fill="url(#f)" fill-rule="evenodd"/>
+   <path d="m1265.5 281.92a490.28 490.28 0 0 0 367.71 761.69l205.74-350.2a218.88 218.88 0 0 1-376.47-70.04" fill="url(#e)" fill-rule="evenodd"/>
+   <path d="m1633.2 1043.6a490.28 490.28 0 0 0 477.15-704.78h-442.13a218.88 218.88 0 0 1 170.72 354.58" fill="url(#d)"/>
+   <circle cx="1669.5" cy="556.01" r="223.15" color="#000000" fill="url(#k)" filter="url(#o)"/>
+   <circle cx="1671.5" cy="556.01" r="176.8" color="#000000" fill="url(#h)"/>
+   <circle cx="1669.5" cy="556.01" r="225" color="#000000" fill="url(#g)" filter="url(#n)" opacity=".69"/>
+   <circle cx="1671.5" cy="556.01" r="487.51" color="#000000" fill="none" stroke="url(#l)" stroke-width="4.975"/>
+   <circle cx="490.95" cy="561.41" r="490" fill="url(#j)" fill-rule="evenodd" style="paint-order:stroke markers fill"/>
+   <circle cx="490.95" cy="561.41" r="464.28" fill="none" filter="url(#p)" opacity=".15" stroke="#2faff1" stroke-linecap="round" stroke-linejoin="round" stroke-width="21.444" style="paint-order:stroke markers fill"/>
+   <g transform="translate(-60,40)">
+    <circle cx="550.95" cy="521.41" r="414.12" fill="url(#m)" fill-rule="evenodd" stroke="url(#c)" stroke-linejoin="round" stroke-width="51.765" style="paint-order:stroke fill markers"/>
+    <g transform="translate(156.94 -136.58)" fill="none">
+     <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>
+     <circle cx="226.03" cy="825.61" r="125" style="paint-order:stroke markers fill"/>
+     <path d="m360 452.36-235 300 180 170 315-245z"/>
     </g>
-    <circle cx="1671.5" cy="556.01" r="487.51" color="#000000" fill="none" stroke="url(#l)" stroke-width="4.975"/>
-    <circle cx="490.95" cy="561.41" r="490" fill="url(#j)" fill-rule="evenodd" style="paint-order:stroke markers fill"/>
-    <circle cx="490.95" cy="561.41" r="464.28" fill="none" filter="url(#p)" opacity=".15" stroke="#2faff1" stroke-linecap="round" stroke-linejoin="round" stroke-width="21.444" style="paint-order:stroke markers fill"/>
-    <g transform="translate(-60,40)">
-     <circle cx="550.95" cy="521.41" r="414.12" fill="url(#m)" fill-rule="evenodd" stroke="url(#c)" stroke-linejoin="round" stroke-width="51.765" style="paint-order:stroke fill markers"/>
-     <g transform="translate(156.94 -136.58)" fill="none">
-      <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>
-      <circle cx="226.03" cy="825.61" r="125" style="paint-order:stroke markers fill"/>
-      <path d="m360 452.36-235 300 180 170 315-245z"/>
-     </g>
-     <g fill-rule="evenodd">
-      <circle cx="550.95" cy="521.41" r="250" opacity=".2" style="paint-order:stroke fill markers"/>
-      <circle cx="550.95" cy="521.41" r="250" filter="url(#r)" opacity=".2" style="paint-order:stroke fill markers"/>
-      <circle cx="550.95" cy="521.41" r="150" opacity=".2" style="paint-order:stroke fill markers"/>
-      <circle cx="550.95" cy="521.41" r="150" filter="url(#q)" opacity=".2" style="paint-order:stroke fill markers"/>
-     </g>
+    <g fill-rule="evenodd">
+     <circle cx="550.95" cy="521.41" r="250" opacity=".2" style="paint-order:stroke fill markers"/>
+     <circle cx="550.95" cy="521.41" r="250" filter="url(#r)" opacity=".2" style="paint-order:stroke fill markers"/>
+     <circle cx="550.95" cy="521.41" r="150" opacity=".2" style="paint-order:stroke fill markers"/>
+     <circle cx="550.95" cy="521.41" r="150" filter="url(#q)" opacity=".2" style="paint-order:stroke fill markers"/>
     </g>
    </g>
   </g>

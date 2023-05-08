@@ -1,4 +1,4 @@
-<svg enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" style="background-color:#FFFFFF" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" style="background-color:#FFFFFF" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="a" x1="-558.82" x2="-558.82" y1="-1303.2" y2="2322.8" gradientTransform="matrix(.20408 0 0 .20408 614.04 409.96)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#dce7f0" stop-opacity=".31373" offset="0"/>
@@ -36,11 +36,9 @@
  </defs>
  <circle cx="512" cy="512" r="490" color="#000000" enable-background="accumulate" fill="url(#b)"/>
  <circle cx="512" cy="512" r="381.41" fill="none" filter="url(#f)" opacity=".5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="87.179" style="paint-order:stroke markers fill"/>
- <g>
-  <circle cx="512" cy="512" r="350" fill="url(#a)" fill-rule="evenodd" filter="url(#e)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="40" style="paint-order:stroke markers fill"/>
-  <circle cx="512" cy="512" r="350" fill="url(#a)" fill-rule="evenodd" opacity=".5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="40" style="paint-order:stroke markers fill"/>
-  <path d="m487 436.98v89.652s-27.163-27.163-32.326-32.306c-9.7754-9.7754-25.592-9.7754-35.346 0-9.7754 9.7754-9.7754 25.592 0 35.346l74.999 74.999c9.7754 9.7754 25.592 9.7754 35.346 0l74.999-74.999c9.755-9.755 9.7754-25.592 0-35.346-9.7754-9.755-25.592-9.7754-35.346 0-5.1632 5.1632-32.326 32.306-32.326 32.306v-89.632c0-13.816-11.204-25-25-25-13.816 0-25 11.184-25 24.979z" fill="#fff" stroke-width=".20408"/>
- </g>
+ <circle cx="512" cy="512" r="350" fill="url(#a)" fill-rule="evenodd" filter="url(#e)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="40" style="paint-order:stroke markers fill"/>
+ <circle cx="512" cy="512" r="350" fill="url(#a)" fill-rule="evenodd" opacity=".5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="40" style="paint-order:stroke markers fill"/>
+ <path d="m487 436.98v89.652s-27.163-27.163-32.326-32.306c-9.7754-9.7754-25.592-9.7754-35.346 0-9.7754 9.7754-9.7754 25.592 0 35.346l74.999 74.999c9.7754 9.7754 25.592 9.7754 35.346 0l74.999-74.999c9.755-9.755 9.7754-25.592 0-35.346-9.7754-9.755-25.592-9.7754-35.346 0-5.1632 5.1632-32.326 32.306-32.326 32.306v-89.632c0-13.816-11.204-25-25-25-13.816 0-25 11.184-25 24.979z" fill="#fff" stroke-width=".20408"/>
  <circle cx="-494.93" cy="452.27" r="350" fill="#f2f2f2" fill-opacity=".88938" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="40" style="paint-order:stroke markers fill"/>
  <path d="m487 436.98v89.652s-27.163-27.163-32.326-32.306c-9.7754-9.7754-25.592-9.7754-35.346 0-9.7754 9.7754-9.7754 25.592 0 35.346l74.999 74.999c9.7754 9.7754 25.592 9.7754 35.346 0l74.999-74.999c9.755-9.755 9.7754-25.592 0-35.346-9.7754-9.755-25.592-9.7754-35.346 0-5.1632 5.1632-32.326 32.306-32.326 32.306v-89.632c0-13.816-11.204-25-25-25-13.816 0-25 11.184-25 24.979z" fill="#fff" filter="url(#d)" stroke-width=".20408"/>
  <circle cx="512" cy="512" r="487.51" color="#000000" enable-background="accumulate" fill="none" stroke="url(#c)" stroke-width="4.975"/>

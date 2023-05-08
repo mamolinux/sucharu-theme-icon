@@ -1,4 +1,4 @@
-<svg width="1024" height="1024" version="1.1" viewBox="0 0 270.93 270.93" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 270.93 270.93" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="a" x1="132.29" x2="132.29" y1="43" y2="275.83" gradientTransform="translate(7.902e-7 -2.4251e-6)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#d0e1e7" stop-opacity=".98618" offset="0"/>
@@ -18,15 +18,13 @@
   </linearGradient>
  </defs>
  <g transform="translate(0 -26.067)">
-  <g>
-   <g fill-rule="evenodd">
-    <rect x="16.404" y="51.334" width="238.12" height="220.4" rx="11.4" fill="url(#a)" style="paint-order:stroke markers fill"/>
-    <rect x="19.467" y="54.169" width="232" height="214.73" rx="11.107" fill="url(#d)" style="paint-order:stroke markers fill"/>
-    <rect x="31.75" y="69.458" width="206.38" height="185.21" fill="url(#c)" stroke="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25" style="paint-order:markers fill stroke"/>
-   </g>
-   <text x="52.916664" y="95.916649" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="52.916664" y="105.28042" stroke-width=".26458"/></text>
-   <polygon transform="matrix(5.6529 0 0 5.6529 14.848 29.519)" points="12.351 12.264 5.275 9.028 5.275 10.589 10.746 12.929 10.746 12.958 5.275 15.294 5.275 16.854 12.351 13.618" fill="#fff" stroke="#fff" stroke-width=".1769"/>
-   <rect x="84.667" y="127.67" width="37.042" height="7.9375" fill="#fff" fill-rule="evenodd" style="paint-order:markers fill stroke"/>
+  <g fill-rule="evenodd">
+   <rect x="16.404" y="51.334" width="238.12" height="220.4" rx="11.4" fill="url(#a)" style="paint-order:stroke markers fill"/>
+   <rect x="19.467" y="54.169" width="232" height="214.73" rx="11.107" fill="url(#d)" style="paint-order:stroke markers fill"/>
+   <rect x="31.75" y="69.458" width="206.38" height="185.21" fill="url(#c)" stroke="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25" style="paint-order:markers fill stroke"/>
   </g>
+  <text x="52.916664" y="95.916649" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="52.916664" y="105.28042" stroke-width=".26458"/></text>
+  <polygon transform="matrix(5.6529 0 0 5.6529 14.848 29.519)" points="12.351 12.264 5.275 9.028 5.275 10.589 10.746 12.929 10.746 12.958 5.275 15.294 5.275 16.854 12.351 13.618" fill="#fff" stroke="#fff" stroke-width=".1769"/>
+  <rect x="84.667" y="127.67" width="37.042" height="7.9375" fill="#fff" fill-rule="evenodd" style="paint-order:markers fill stroke"/>
  </g>
 </svg>

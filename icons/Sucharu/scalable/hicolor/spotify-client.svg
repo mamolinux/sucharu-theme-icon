@@ -8,13 +8,12 @@
    <stop stop-color="#4df183" offset="0"/>
    <stop stop-color="#31d044" offset="1"/>
   </linearGradient>
-  <linearGradient id="f">
+  <linearGradient id="h" x1="97.551" x2="97.551" y1="-3.6735" y2="204.49" gradientTransform="matrix(4.9 0 0 4.9 22 50.362)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="g" x1="520" x2="520" y1="52.362" y2="1052.4" gradientTransform="translate(-1078.4 -51.619)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="n" x1="723.15" x2="723.15" y1="223.33" y2="310.05" gradientTransform="matrix(4.6129 0 0 4.6129 -2835.8 -697.81)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#f6f7f7" offset="0"/>
    <stop stop-color="#dce7f0" offset="1"/>
   </linearGradient>
-  <linearGradient id="h" x1="97.551" x2="97.551" y1="-3.6735" y2="204.49" gradientTransform="matrix(4.9 0 0 4.9 22 50.362)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
-  <linearGradient id="g" x1="520" x2="520" y1="52.362" y2="1052.4" gradientTransform="translate(-1078.4 -51.619)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
-  <linearGradient id="n" x1="723.15" x2="723.15" y1="223.33" y2="310.05" gradientTransform="matrix(4.6129 0 0 4.6129 -2835.8 -697.81)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
   <linearGradient id="m" x1="753.5" x2="753.5" y1="223.33" y2="336.05" gradientTransform="matrix(4.6129 0 0 4.6129 -2835.8 -697.81)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
   <linearGradient id="l" x1="753.5" x2="753.5" y1="245" y2="336.05" gradientTransform="matrix(4.6129 0 0 4.6129 -2835.8 -697.81)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
   <linearGradient id="k" x1="753.5" x2="753.5" y1="262.35" y2="336.05" gradientTransform="matrix(4.6129 0 0 4.6129 -2835.8 -697.81)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
@@ -37,8 +36,7 @@
    <feOffset dx="0" dy="3" result="offset"/>
    <feComposite in="offset" in2="SourceGraphic" operator="atop" result="composite2"/>
   </filter>
-  <linearGradient id="a" x1="480" x2="480" y1="232.36" y2="832.36" gradientTransform="translate(-2e-5 -3.5617e-5)" gradientUnits="userSpaceOnUse" xlink:href="#i"/>
-  <linearGradient id="i">
+  <linearGradient id="a" x1="480" x2="480" y1="232.36" y2="832.36" gradientTransform="translate(-2e-5 -3.5617e-5)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#fff" stop-opacity=".99608" offset="0"/>
    <stop stop-color="#e0ffff" offset="1"/>
   </linearGradient>
@@ -55,11 +53,9 @@
   </linearGradient>
  </defs>
  <g transform="translate(0 -28.362)">
-  <g>
-   <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#h)"/>
-   <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#o)" stroke-width="4.975"/>
-   <circle cx="-566.91" cy="489.24" r="468.66" color="#000000" fill="url(#g)"/>
-  </g>
+  <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#h)"/>
+  <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#o)" stroke-width="4.975"/>
+  <circle cx="-566.91" cy="489.24" r="468.66" color="#000000" fill="url(#g)"/>
   <circle transform="matrix(1.2778 0 0 1.2778 -142.22 -150.1)" cx="512" cy="540.36" r="300" fill="url(#a)" filter="url(#d)" opacity=".4" style="paint-order:stroke markers fill"/>
   <g fill="none">
    <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>

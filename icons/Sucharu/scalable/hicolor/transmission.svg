@@ -1,10 +1,5 @@
-<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <clipPath>
-   <g transform="translate(0 -1004.4)">
-    <path transform="matrix(15.333 0 0 11.5 415 878.86)" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" fill="#1890d0"/>
-   </g>
-  </clipPath>
   <linearGradient id="a" x1="520" x2="520" y1="72.362" y2="1052.4" gradientTransform="matrix(1.0414 0 0 1.0414 -20.699 -22.916)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#ff6d80" offset="0"/>
    <stop stop-color="#e4525c" offset="1"/>
@@ -22,7 +17,6 @@
  </defs>
  <g transform="translate(0 -28.362)">
   <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#a)"/>
-  <g transform="matrix(5.0293 0 0 5.0293 -18.685 815.99)"></g>
   <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#b)" stroke-width="4.975"/>
   <g fill-rule="evenodd" opacity=".9">
    <path d="m651.64 385.75c-5.5562 9.7234-128.4 10.394-139.6 10.444-11.199 0.0499-134.04 0.47305-139.68-9.2005-5.6426-9.6736 55.198-116.39 60.754-126.12 5.5563-9.7234 66.611-116.32 77.81-116.37 11.199-0.0499 73.201 106 78.843 115.67 5.6426 9.6736 67.431 115.85 61.874 125.57z" fill="#e000c1" filter="url(#d)" opacity=".3" style="paint-order:stroke fill markers"/>

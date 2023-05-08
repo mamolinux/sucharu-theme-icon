@@ -56,11 +56,9 @@
   <g transform="matrix(.11429 0 0 .11429 5.4857 30.607)">
    <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#d)"/>
    <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#i)" stroke-width="4.975"/>
-   <g>
-    <circle cx="512" cy="540.36" r="468.66" color="#000000" fill="url(#c)"/>
-    <circle cx="512" cy="540.36" r="300" fill="url(#h)" filter="url(#l)" opacity=".35" style="paint-order:stroke markers fill"/>
-    <circle cx="512" cy="540.36" r="204" fill="url(#b)" filter="url(#k)" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" style="paint-order:stroke markers fill"/>
-   </g>
+   <circle cx="512" cy="540.36" r="468.66" color="#000000" fill="url(#c)"/>
+   <circle cx="512" cy="540.36" r="300" fill="url(#h)" filter="url(#l)" opacity=".35" style="paint-order:stroke markers fill"/>
+   <circle cx="512" cy="540.36" r="204" fill="url(#b)" filter="url(#k)" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" style="paint-order:stroke markers fill"/>
    <g fill="none">
     <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>
     <circle cx="226.03" cy="825.61" r="125" style="paint-order:stroke markers fill"/>

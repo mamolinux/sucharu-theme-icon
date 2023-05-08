@@ -43,18 +43,16 @@
  </defs>
  <g transform="translate(0 -28.362)">
   <circle cx="511.5" cy="540.86" r="470.5" color="#000000" fill="url(#e)"/>
-  <g>
-   <g transform="translate(0,10)" fill="#141414" filter="url(#k)" opacity=".2">
-    <ellipse transform="rotate(-30)" cx="168.58" cy="460.25" rx="183.31" ry="160.19" opacity="1" style="paint-order:stroke markers fill"/>
-    <circle cx="512.01" cy="545.85" r="384" opacity="1" style="paint-order:stroke markers fill"/>
-    <circle cx="401.32" cy="346.75" r="128" opacity="1" stroke="#f0f0f0" stroke-linecap="square" stroke-width="1.109" style="paint-order:stroke markers fill"/>
-   </g>
-   <circle cx="511.5" cy="540.86" r="470.5" color="#000000" fill="url(#c)" opacity=".2"/>
-   <circle cx="512" cy="540.36" r="490" fill="url(#h)" style="paint-order:stroke markers fill"/>
-   <circle cx="512" cy="540.36" r="450" color="#000000" fill="url(#f)"/>
-   <circle cx="512" cy="540.36" r="250" fill="url(#g)" fill-rule="evenodd" filter="url(#j)" opacity=".8" style="paint-order:stroke markers fill"/>
-   <circle cx="512" cy="540.36" r="128" fill="url(#b)" opacity=".82" style="paint-order:stroke markers fill"/>
+  <g transform="translate(0,10)" fill="#141414" filter="url(#k)" opacity=".2">
+   <ellipse transform="rotate(-30)" cx="168.58" cy="460.25" rx="183.31" ry="160.19" opacity="1" style="paint-order:stroke markers fill"/>
+   <circle cx="512.01" cy="545.85" r="384" opacity="1" style="paint-order:stroke markers fill"/>
+   <circle cx="401.32" cy="346.75" r="128" opacity="1" stroke="#f0f0f0" stroke-linecap="square" stroke-width="1.109" style="paint-order:stroke markers fill"/>
   </g>
+  <circle cx="511.5" cy="540.86" r="470.5" color="#000000" fill="url(#c)" opacity=".2"/>
+  <circle cx="512" cy="540.36" r="490" fill="url(#h)" style="paint-order:stroke markers fill"/>
+  <circle cx="512" cy="540.36" r="450" color="#000000" fill="url(#f)"/>
+  <circle cx="512" cy="540.36" r="250" fill="url(#g)" fill-rule="evenodd" filter="url(#j)" opacity=".8" style="paint-order:stroke markers fill"/>
+  <circle cx="512" cy="540.36" r="128" fill="url(#b)" opacity=".82" style="paint-order:stroke markers fill"/>
   <path d="m55 272.36" fill="none" stroke="#000" stroke-width="1px"/>
   <path d="m50 267.36" fill="none" stroke="#000" stroke-width="1px"/>
   <circle cx="1408.7" cy="496.52" r="250" fill="url(#d)" fill-rule="evenodd" opacity=".8" style="paint-order:stroke markers fill"/>

@@ -1,10 +1,6 @@
-<svg width="1024" height="1024" version="1.1" viewBox="0 0 270.93 270.93" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 270.93 270.93" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="b" x1="363.81" x2="363.81" y1="587.81" y2="-112.19" gradientTransform="matrix(.26458 0 0 .26458 67.782 93.849)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2f5fdd" offset="0"/>
-   <stop stop-color="#c3c" offset="1"/>
-  </linearGradient>
-  <linearGradient x1="363.81" x2="363.81" y1="587.81" y2="-112.19" gradientUnits="userSpaceOnUse">
    <stop stop-color="#2f5fdd" offset="0"/>
    <stop stop-color="#c3c" offset="1"/>
   </linearGradient>

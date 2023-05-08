@@ -6,10 +6,6 @@
    <stop stop-color="#00b8ff" offset="0"/>
    <stop stop-color="#007bff" offset="1"/>
   </linearGradient>
-  <linearGradient id="c">
-   <stop stop-color="#f6f7f7" offset="0"/>
-   <stop stop-color="#dce7f0" offset="1"/>
-  </linearGradient>
   <linearGradient id="m" x1="97.551" x2="97.551" y1="-3.6735" y2="204.49" gradientTransform="matrix(4.9 0 0 4.9 -1173.9 44.634)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
   <linearGradient id="a" x1="50%" x2="50%" y2="100%">
    <stop stop-color="#1387B8" offset="0"/>
@@ -25,8 +21,10 @@
    <stop stop-color="#fff" stop-opacity=".58824" offset="0"/>
    <stop stop-color="#007dff" offset="1"/>
   </linearGradient>
-  <linearGradient gradientUnits="userSpaceOnUse" xlink:href="#c"/>
-  <linearGradient id="q" x1="520" x2="520" y1="232.36" y2="852.36" gradientTransform="translate(-1100.4 -76.717)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="q" x1="520" x2="520" y1="232.36" y2="852.36" gradientTransform="translate(-1100.4 -76.717)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f6f7f7" offset="0"/>
+   <stop stop-color="#dce7f0" offset="1"/>
+  </linearGradient>
   <filter id="t" color-interpolation-filters="sRGB">
    <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
    <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
@@ -107,11 +105,9 @@
   <linearGradient id="n" x1="79.808" x2="79.808" y1="5.754" y2="152.9" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
  </defs>
  <g transform="translate(0 -28.362)">
-  <g>
-   <circle cx="-683.86" cy="534.63" r="490" color="#000000" fill="url(#m)"/>
-   <circle cx="-644.26" cy="506.49" r="468.66" color="#000000" fill="url(#l)"/>
-   <circle cx="-632.3" cy="504.56" r="487.51" color="#000000" fill="none" stroke="url(#s)" stroke-width="4.975"/>
-  </g>
+  <circle cx="-683.86" cy="534.63" r="490" color="#000000" fill="url(#m)"/>
+  <circle cx="-644.26" cy="506.49" r="468.66" color="#000000" fill="url(#l)"/>
+  <circle cx="-632.3" cy="504.56" r="487.51" color="#000000" fill="none" stroke="url(#s)" stroke-width="4.975"/>
   <g fill="none">
    <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>
    <circle cx="226.03" cy="825.61" r="125" style="paint-order:stroke markers fill"/>

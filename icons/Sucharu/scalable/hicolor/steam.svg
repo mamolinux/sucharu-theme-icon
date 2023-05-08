@@ -39,19 +39,17 @@
   </linearGradient>
  </defs>
  <g transform="translate(0 -28.362)">
-  <g>
-   <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#j)"/>
-   <circle cx="511.5" cy="540.86" r="468.66" color="#000000" fill="url(#i)"/>
-   <circle cx="512" cy="540.36" r="275" fill="url(#e)" stroke="url(#m)" stroke-linecap="square" stroke-width="4" style="paint-order:stroke markers fill"/>
-   <g transform="translate(0,8)" filter="url(#o)" opacity=".3">
-    <circle cx="512" cy="540.36" r="175" opacity="1" style="paint-order:stroke markers fill"/>
-    <circle cx="226.03" cy="825.61" r="125" opacity="1" style="paint-order:stroke markers fill"/>
-    <path d="m360 452.36-235 300 180 170 315-245z"/>
-    <circle cx="512" cy="540.36" r="125" opacity="1" style="paint-order:stroke markers fill"/>
-    <circle cx="512" cy="540.36" r="85" opacity="1" style="paint-order:stroke markers fill"/>
-    <circle cx="235.69" cy="818.03" r="85" opacity="1" style="paint-order:stroke markers fill"/>
-    <circle cx="235.69" cy="818.03" r="85" opacity="1" style="paint-order:stroke markers fill"/>
-   </g>
+  <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#j)"/>
+  <circle cx="511.5" cy="540.86" r="468.66" color="#000000" fill="url(#i)"/>
+  <circle cx="512" cy="540.36" r="275" fill="url(#e)" stroke="url(#m)" stroke-linecap="square" stroke-width="4" style="paint-order:stroke markers fill"/>
+  <g transform="translate(0,8)" filter="url(#o)" opacity=".3">
+   <circle cx="512" cy="540.36" r="175" opacity="1" style="paint-order:stroke markers fill"/>
+   <circle cx="226.03" cy="825.61" r="125" opacity="1" style="paint-order:stroke markers fill"/>
+   <path d="m360 452.36-235 300 180 170 315-245z"/>
+   <circle cx="512" cy="540.36" r="125" opacity="1" style="paint-order:stroke markers fill"/>
+   <circle cx="512" cy="540.36" r="85" opacity="1" style="paint-order:stroke markers fill"/>
+   <circle cx="235.69" cy="818.03" r="85" opacity="1" style="paint-order:stroke markers fill"/>
+   <circle cx="235.69" cy="818.03" r="85" opacity="1" style="paint-order:stroke markers fill"/>
   </g>
   <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#k)" stroke-width="4.975"/>
   <g fill="url(#d)">
@@ -61,12 +59,10 @@
     <path d="m360 452.36-235 300 180 170 315-245z"/>
    </g>
    <circle cx="512" cy="540.36" r="125" fill="url(#h)" style="paint-order:stroke markers fill"/>
-   <g>
-    <circle cx="512" cy="548.36" r="85" fill="#000" filter="url(#n)" opacity=".3" style="paint-order:stroke markers fill"/>
-    <circle cx="512" cy="540.36" r="85" fill="url(#g)" style="paint-order:stroke markers fill"/>
-    <circle cx="235.69" cy="818.03" r="85" fill="url(#f)" style="paint-order:stroke markers fill"/>
-    <circle cx="235.69" cy="818.03" r="85" fill="url(#l)" stroke="#fff" stroke-linecap="square" stroke-opacity=".19608" stroke-width="6" style="paint-order:stroke markers fill"/>
-   </g>
+   <circle cx="512" cy="548.36" r="85" fill="#000" filter="url(#n)" opacity=".3" style="paint-order:stroke markers fill"/>
+   <circle cx="512" cy="540.36" r="85" fill="url(#g)" style="paint-order:stroke markers fill"/>
+   <circle cx="235.69" cy="818.03" r="85" fill="url(#f)" style="paint-order:stroke markers fill"/>
+   <circle cx="235.69" cy="818.03" r="85" fill="url(#l)" stroke="#fff" stroke-linecap="square" stroke-opacity=".19608" stroke-width="6" style="paint-order:stroke markers fill"/>
   </g>
   <g fill="none">
    <circle cx="512" cy="540.36" r="175" style="paint-order:stroke markers fill"/>

@@ -28,11 +28,9 @@
   </linearGradient>
  </defs>
  <g transform="translate(0 -28.362)">
-  <g>
-   <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#g)"/>
-   <circle cx="512" cy="540.36" r="468.66" color="#000000" fill="url(#b)"/>
-   <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#h)" stroke-width="4.975"/>
-  </g>
+  <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#g)"/>
+  <circle cx="512" cy="540.36" r="468.66" color="#000000" fill="url(#b)"/>
+  <circle cx="512" cy="540.36" r="487.51" color="#000000" fill="none" stroke="url(#h)" stroke-width="4.975"/>
   <g transform="rotate(90 497 529.09)">
    <path d="m380 332.36h256.55c99.95 0 181.73 81.777 181.73 181.73s-81.777 181.73-181.73 181.73h-256.55c-99.95 0-181.73-81.777-181.73-181.73s81.777-181.73 181.73-181.73z" fill="url(#e)"/>
    <circle cx="636.55" cy="514.09" r="128.28" fill="url(#f)" stroke-width="10.69"/>

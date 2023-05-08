@@ -9,11 +9,10 @@
   <stop stop-color="#141414" offset="0"/>
   <stop stop-color="#2d2d2f" offset="1"/>
  </linearGradient>
- <linearGradient id="e" x1="159.46" x2="160.66" y1="668.03" y2="596.97" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
  <g transform="matrix(.076442 0 0 .066493 11.667 1.2041)">
   <rect x="18.553" y="87.912" width="292.69" height="525.81" ry="9.3022" fill="url(#b)" fill-rule="evenodd"/>
   <path transform="matrix(42.983 0 0 49.415 -182.52 -51264)" d="m11.404 1037.4h-6.807c-0.31004 0-0.5614 0.2514-0.5614 0.5614v12.877c0 0.31 0.25137 0.5614 0.5614 0.5614h6.807c0.31004 0 0.5614-0.2514 0.5614-0.5614v-12.877c0-0.31-0.25137-0.5614-0.5614-0.5614zm-0.08154 11.778h-6.6439v-9.5554h6.6439z" fill="url(#d)"/>
-  <ellipse cx="161.34" cy="637.98" rx="25.226" ry="29" fill="url(#e)" fill-rule="evenodd" stroke="url(#c)" stroke-linecap="round" stroke-width="7.4109"/>
+  <ellipse cx="161.34" cy="637.98" rx="25.226" ry="29" fill="url(#c)" fill-rule="evenodd" stroke="url(#c)" stroke-linecap="round" stroke-width="7.4109"/>
  </g>
  <g transform="matrix(.71755 0 0 .71534 350.56 117)" fill="#121212" fill-opacity=".84694">
   <ellipse cx="-462.61" cy="-130.51" rx="2.5" ry="2.5"/>
