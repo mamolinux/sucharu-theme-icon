@@ -8,10 +8,6 @@
    <stop stop-color="#2f5fdd" offset="0"/>
    <stop stop-color="#c3c" offset="1"/>
   </linearGradient>
-  <linearGradient x1="363.81" x2="363.81" y1="587.81" y2="-112.19" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2f5fdd" offset="0"/>
-   <stop stop-color="#c3c" offset="1"/>
-  </linearGradient>
   <linearGradient id="c" x1="132.29" x2="132.29" y1="50.937" y2="270.54" gradientTransform="translate(-331.14 -10.894)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
   <linearGradient id="e" x1="126.04" x2="107.92" y1="146.78" y2="178.17" gradientUnits="userSpaceOnUse">
    <stop stop-color="#f6f7f7" offset="0"/>

@@ -1,4 +1,4 @@
-<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="c" x1="102.3" x2="102.3" y1="-.42687" y2="199.17" gradientTransform="matrix(4.9 0 0 4.9 22 50.362)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#096fd2" offset="0"/>
@@ -28,14 +28,10 @@
  </defs>
  <g transform="translate(0 -28.362)">
   <circle cx="512" cy="540.36" r="490" color="#000000" fill="url(#c)"/>
-  <g>
-   <g>
-    <circle cx="512" cy="540.36" r="470.5" color="#000000" fill="url(#b)"/>
-    <circle cx="508.37" cy="547.62" r="384" color="#000000" fill="url(#e)"/>
-    <circle cx="512" cy="540.36" r="426" color="#000000" fill="url(#d)" opacity=".5"/>
-   </g>
-   <path class="cls-1" d="m787 556.52-205.63-95.072 16.52 60.917h-171.79l16.52-60.917-205.63 95.142 205.77 95.072-16.52-60.917h171.79l-16.52 60.917 205.49-95.072" filter="url(#f)" opacity=".2" stroke-width=".7006"/>
-   <path class="cls-1" d="m787 540.33-205.63-95.072 16.52 60.917h-171.79l16.52-60.917-205.63 95.142 205.77 95.072-16.52-60.917h171.79l-16.52 60.917 205.49-95.072" fill="url(#a)" stroke-width=".7006"/>
-  </g>
+  <circle cx="512" cy="540.36" r="470.5" color="#000000" fill="url(#b)"/>
+  <circle cx="508.37" cy="547.62" r="384" color="#000000" fill="url(#e)"/>
+  <circle cx="512" cy="540.36" r="426" color="#000000" fill="url(#d)" opacity=".5"/>
+  <path class="cls-1" d="m787 556.52-205.63-95.072 16.52 60.917h-171.79l16.52-60.917-205.63 95.142 205.77 95.072-16.52-60.917h171.79l-16.52 60.917 205.49-95.072" filter="url(#f)" opacity=".2" stroke-width=".7006"/>
+  <path class="cls-1" d="m787 540.33-205.63-95.072 16.52 60.917h-171.79l16.52-60.917-205.63 95.142 205.77 95.072-16.52-60.917h171.79l-16.52 60.917 205.49-95.072" fill="url(#a)" stroke-width=".7006"/>
  </g>
 </svg>

@@ -5,11 +5,6 @@
    <stop stop-color="#f73358" offset="1"/>
   </linearGradient>
   <linearGradient id="b" x1="102.3" x2="102.3" y1="-.42687" y2="199.17" gradientTransform="matrix(4.9 0 0 4.9 -1047.2 101.73)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-  <clipPath>
-   <g transform="translate(0 -1004.4)">
-    <path transform="matrix(15.333 0 0 11.5 415 878.86)" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" fill="#1890d0"/>
-   </g>
-  </clipPath>
   <filter id="f" color-interpolation-filters="sRGB">
    <feFlood flood-color="rgb(0,0,0)" flood-opacity=".29412" result="flood"/>
    <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
@@ -28,12 +23,9 @@
   </linearGradient>
  </defs>
  <g transform="translate(0 -28.362)">
-  <g>
-   <circle cx="512" cy="540.36" r="490" fill="url(#e)" style="paint-order:stroke markers fill"/>
-   <circle cx="-557.21" cy="591.73" r="490" color="#000000" fill="url(#b)"/>
-   <circle cx="512" cy="540.36" r="450" color="#000000" fill="url(#c)"/>
-  </g>
-  <g transform="matrix(5.0293 0 0 5.0293 -18.685 815.99)"></g>
+  <circle cx="512" cy="540.36" r="490" fill="url(#e)" style="paint-order:stroke markers fill"/>
+  <circle cx="-557.21" cy="591.73" r="490" color="#000000" fill="url(#b)"/>
+  <circle cx="512" cy="540.36" r="450" color="#000000" fill="url(#c)"/>
   <path class="shp34" d="m655.28 314.59c-102.67 0-124.38 71.965-124.38 71.965-4.0769 2.3529-3.6916 6.3689-3.6916 6.3689-2.0283 3.5293-3.6713 9.6751-3.6713 13.752v356.76c0 4.7057 3.4887 1.8052 3.4887 1.8052 1.9269 1.0142 3.935 0.1217 4.5232-1.9675 0 0 16.795-83.486 123.73-83.486 69.734 0 131.72 41.337 131.72 41.337v-344.88s-29.066-61.661-131.72-61.661zm-286.54 0c102.65 0 124.36 71.965 124.36 71.965 4.0769 2.3529 3.6916 6.3689 3.6916 6.3689 2.0283 3.5293 3.6713 9.6751 3.6713 13.752v356.76c0 4.7057-3.4482 1.7849-3.4482 1.7849-1.9269 0.97359-3.9349 0.10141-4.5029-1.9675 0 0-16.855-85.494-123.77-85.494-69.754 0-131.74 47.422-131.74 47.422v-348.93s29.066-61.661 131.74-61.661z" fill="url(#d)" filter="url(#f)" stroke-width="2.0283"/>
  </g>
 </svg>

@@ -29,13 +29,11 @@
  <g transform="translate(0 -26.067)">
   <g transform="matrix(.24118 .90008 .90008 -.24118 -42.598 78.56)">
    <g fill-rule="evenodd">
-    <g>
-     <rect transform="rotate(-15)" x="-30.02" y="80.892" width="238.12" height="220.4" rx="11.4" fill="#c4ccdf" style="paint-order:stroke markers fill"/>
-     <rect transform="rotate(-15)" x="-30.02" y="86.57" width="238.12" height="220.4" rx="11.4" fill="#c4ccdf" style="paint-order:stroke markers fill"/>
-     <g transform="translate(-2.7532 -8.0809)" clip-path="url(#j)" fill="#fff">
-      <rect transform="rotate(-15)" x="-30.02" y="80.892" width="238.12" height="220.4" rx="11.4" style="paint-order:stroke markers fill"/>
-      <rect transform="rotate(-15)" x="-30.02" y="86.57" width="238.12" height="220.4" rx="11.4" style="paint-order:stroke markers fill"/>
-     </g>
+    <rect transform="rotate(-15)" x="-30.02" y="80.892" width="238.12" height="220.4" rx="11.4" fill="#c4ccdf" style="paint-order:stroke markers fill"/>
+    <rect transform="rotate(-15)" x="-30.02" y="86.57" width="238.12" height="220.4" rx="11.4" fill="#c4ccdf" style="paint-order:stroke markers fill"/>
+    <g transform="translate(-2.7532 -8.0809)" clip-path="url(#j)" fill="#fff">
+     <rect transform="rotate(-15)" x="-30.02" y="80.892" width="238.12" height="220.4" rx="11.4" style="paint-order:stroke markers fill"/>
+     <rect transform="rotate(-15)" x="-30.02" y="86.57" width="238.12" height="220.4" rx="11.4" style="paint-order:stroke markers fill"/>
     </g>
     <path transform="matrix(.073488 .27426 .27426 -.073488 -42.582 58.737)" d="m164.04 92.674c-22.243 0-40.15 17.907-40.15 40.15v758.35c1e-5 22.243 17.907 40.15 40.15 40.15h35.959v-838.65h-35.959z" fill="url(#g)" style="paint-order:stroke markers fill"/>
     <circle transform="matrix(.25882 .96593 .96593 -.25882 0 0)" cx="107.44" cy="173.91" r="8.0486" fill-opacity=".60619" style="paint-order:stroke fill markers"/>
