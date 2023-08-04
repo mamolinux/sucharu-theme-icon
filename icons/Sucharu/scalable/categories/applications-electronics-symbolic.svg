@@ -1,5 +1,5 @@
 <svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <g fill="#363636">
+ <g fill="#bebebe">
   <path d="m4.5 4c-0.277 0-0.5 0.223-0.5 0.5v7c0 0.277 0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5v-7c0-0.277-0.223-0.5-0.5-0.5zm0.5 1h6v6h-6z"/>
   <rect x="4" width="2" height="3" rx=".5" ry=".5"/>
   <rect x="7" width="2" height="3" rx=".5" ry=".5"/>
