@@ -1,3 +1,53 @@
+sucharu-theme-icon (0.1.2) stable; urgency=medium
+
+  * Remove duplicate scalable icons (#51)
+    - document-open-recent-symbolic
+    - folder-new-symbolic
+    - multimedia-equalizer-symbolic
+    - open-menu-symbolic
+    - selection-end-symbolic
+    - selection-start-symbolic
+    - tab-new-symbolic
+    - multimedia-equalizer-symbolic
+    - document-open-recent-symbolic
+    - folder-new-symbolic
+    - starred-symbolic
+    - pan-down-symbolic
+    - pan-end-symbolic
+    - pan-start-symbolic
+    - pan-up-symbolic
+    - tab-new-symbolic
+  * Add and update symlinks for scalable icons (#52)
+    - Add hicolor start-here icon
+  * Update readme to version 0.1.1 (#54)
+  * Update all rendered icons (#53)
+    - Update scalable icons
+    - Update hicolor icons
+  * Remove duplicate scalable icons (#55)
+  * Update colours of scalable categories icons (#56)
+  * Update sucharu color definitions (#57)
+    - New color definitions match the gtk and
+      other theme colors
+  * Update scalable symbolic icons (#58)
+  * Update mamolinux logo (#59)
+    - Update fullcolor svg
+    - Update scalable symbolic svg
+  * Update scalable icons (#60)
+    - Update symlinks which have a svg file.
+      In some cases, the svg has been deleted,
+      in other cases the symlink is removed
+  * Update symlinks for scalable icons (#61)
+  * Update rendering script for fullcolor icons (#62)
+  * Update icons (#63)
+    - address-book-new
+    - contact-new (deleted and symlinked)
+  * Update rendered icons (#64)
+    - Update fullcolor icons
+    - Update scalable icons
+    - Update symlinks
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Fri, 04 Aug 2023 21:30:41 +0530
+
 sucharu-theme-icon (0.1.1) stable; urgency=medium
 
   * Update readme from version 0.0.9 to 0.1.0 (#44)
