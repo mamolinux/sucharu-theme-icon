@@ -6,7 +6,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="address-book-new.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -30,16 +30,16 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="308.65211"
-     inkscape:cy="198.34345"
-     inkscape:current-layer="layer6"
+     inkscape:zoom="2"
+     inkscape:cx="316.5"
+     inkscape:cy="106"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1904"
-     inkscape:window-height="1011"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      inkscape:window-x="0"
      inkscape:window-y="32"
      width="400px"
@@ -344,6 +344,14 @@
          y="236"
          inkscape:label="16x16" />
       <rect
+         style="display:inline;overflow:visible;visibility:visible;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83333;marker:none;enable-background:accumulate"
+         id="rect24x24-1"
+         width="22"
+         height="22"
+         x="372"
+         y="190"
+         inkscape:label="22x22" />
+      <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="rect24x24"
          width="24"
@@ -374,15 +382,7 @@
          height="256"
          x="24"
          y="28"
-         inkscape:label="48x48" />
-      <rect
-         style="display:inline;overflow:visible;visibility:visible;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83333;marker:none;enable-background:accumulate"
-         id="rect24x24-1"
-         width="22"
-         height="22"
-         x="372"
-         y="190"
-         inkscape:label="24x24" />
+         inkscape:label="256x256" />
     </g>
     <g
        inkscape:groupmode="layer"
