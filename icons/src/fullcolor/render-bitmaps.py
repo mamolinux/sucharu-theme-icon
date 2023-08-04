@@ -21,6 +21,7 @@ import os
 import sys
 import xml.sax
 import subprocess
+import shutil
 import argparse
 
 
@@ -68,11 +69,14 @@ def main(args, SRC, DEST):
             "inkscape",
             "--batch-process",
             "--export-dpi={}".format(str(dpi)),
-            "-i",
-            rect,
             "--export-filename={}".format(output_file),
-            icon_file,
         ]
+        if rect:
+            cmd += ["-i", rect ]
+
+        cmd.append(icon_file)
+
+        # print('Running', ' '.join(cmd))
         ret = subprocess.run(cmd, capture_output=True)
         if ret.returncode != 0:
             print("execution of")
@@ -82,7 +86,7 @@ def main(args, SRC, DEST):
             print(ret.stdout.decode())
             print(5*"=", "stderr", 5*"=")
             print(ret.stderr.decode())
-            return
+            raise Exception('Failed to run inkscape')
 
         optimize_png(output_file)
 
@@ -93,7 +97,7 @@ def main(args, SRC, DEST):
         OTHER = 3
         TEXT = 4
 
-        def __init__(self, path, count, total, force=False, filter=None):
+        def __init__(self, path, force=False, filter=None):
             self.stack = [self.ROOT]
             self.inside = [self.ROOT]
             self.path = path
@@ -102,8 +106,7 @@ def main(args, SRC, DEST):
             self.chars = ""
             self.force = force
             self.filter = filter
-            self.count = count
-            self.total = total
+            self.rendered_icons = 0
 
         def endDocument(self):
             pass
@@ -173,7 +176,7 @@ def main(args, SRC, DEST):
                 if self.filter is not None and not self.icon_name in self.filter:
                     return
 
-                print(self.context + " (%s/%s) %s" % (self.count, self.total, self.icon_name))
+                print(self.context, self.icon_name)
                 for rect in self.rects:
                     for dpi_factor in DPIS:
                         width = int(float(rect["width"]))
@@ -192,12 +195,14 @@ def main(args, SRC, DEST):
                         # Do a time based check!
                         if self.force or not os.path.exists(outfile):
                             inkscape_render_rect(self.path, id, dpi, outfile)
+                            self.rendered_icons += 1
                             sys.stdout.write(".")
                         else:
                             stat_in = os.stat(self.path)
                             stat_out = os.stat(outfile)
                             if stat_in.st_mtime > stat_out.st_mtime:
                                 inkscape_render_rect(self.path, id, dpi, outfile)
+                                self.rendered_icons += 1
                                 sys.stdout.write(".")
                             else:
                                 sys.stdout.write("-")
@@ -208,34 +213,44 @@ def main(args, SRC, DEST):
         def characters(self, chars):
             self.chars += chars.strip()
 
+    def copy_scalable(file):
+        if args.categories:
+            dest = os.path.join(DEST, 'scalable', args.categories)
+            os.makedirs(dest, exist_ok=True)
+            shutil.copyfile(file, os.path.join(dest, os.path.basename(file)))
+            print(file, 'copied to', dest)
+            return True
+
     rendered_icons = 0
     if not args.svg:
         print("Rendering all SVGs in", SRC)
         print('')
-        if not os.path.exists(DEST):
-            os.mkdir(DEST)
+        os.makedirs(DEST, exist_ok=True)
+        svglist = os.listdir(SRC)
+        svglist.sort()
 
-        total=len(os.listdir(SRC))
-        count=0
-        for svg in sorted( os.listdir(SRC) ):
+        for svg in svglist:
             file = os.path.join(SRC, svg)
             if os.path.exists(file):
-                count += 1
-                handler = ContentHandler(file, str(count), str(total), True, filter=args.filter)
-                xml.sax.parse(open(file), handler)
-                rendered_icons += 1
+                handler = ContentHandler(file, True, filter=args.filter)
+                with open(file) as opened:
+                    xml.sax.parse(opened, handler)
+                if not handler.rendered_icons:
+                    rendered_icons += 1 if copy_scalable(file) else 0
+                rendered_icons += handler.rendered_icons
                 print('')
     else:
         svg = args.svg + ".svg"
         file = os.path.join(SRC, svg)
-        total = 1
-        count = 1
 
         if os.path.exists(file):
             print('Rendering SVG "%s" in %s' % (svg, SRC))
-            handler = ContentHandler(file, str(count), str(total), True, filter=args.filter)
-            xml.sax.parse(open(file), handler)
-            rendered_icons += 1
+            handler = ContentHandler(file, True, filter=args.filter)
+            with open(file) as opened:
+                xml.sax.parse(opened, handler)
+            if not handler.rendered_icons:
+                rendered_icons += 1 if copy_scalable(file) else 0
+            rendered_icons += handler.rendered_icons
         else:
             print(
                 'Could not find SVG "%s" in %s, looking into the next one' % (svg, SRC)
@@ -301,9 +316,6 @@ for source in SOURCES:
     SRC = os.path.join(source_path, args.variant, source)
     DEST = os.path.abspath(os.path.join(dest_path, "Sucharu" if args.variant ==
                                         'default' else "Sucharu-" + args.variant))
-    if not os.path.exists(DEST):
-        os.mkdir(DEST)
-    
     if os.path.exists(SRC):
         try:
             rendered_icons += main(args, SRC, DEST)
