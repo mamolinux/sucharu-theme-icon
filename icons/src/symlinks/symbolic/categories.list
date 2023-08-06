@@ -5,6 +5,7 @@
 ../apps/system-users-symbolic.svg org.gnome.Settings-users-symbolic.svg
 ../devices/audio-input-microphone-symbolic.svg org.gnome.Settings-microphone-symbolic.svg
 ../devices/bluetooth-symbolic.svg org.gnome.Settings-bluetooth-symbolic.svg
+../devices/bluetooth-symbolic.svg preferences-system-bluetooth-symbolic.svg
 ../devices/camera-photo-symbolic.svg org.gnome.Settings-camera-symbolic.svg
 ../devices/input-keyboard-symbolic.svg org.gnome.Settings-keyboard-symbolic.svg
 ../devices/input-mouse-symbolic.svg org.gnome.Settings-mouse-symbolic.svg
