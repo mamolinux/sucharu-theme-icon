@@ -6,7 +6,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="bluetooth.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -33,14 +33,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
      inkscape:cx="202.93965"
-     inkscape:cy="161.22035"
-     inkscape:current-layer="layer6"
+     inkscape:cy="48.083262"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1904"
-     inkscape:window-height="1011"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      inkscape:window-x="0"
      inkscape:window-y="32"
      width="400px"
@@ -222,7 +222,8 @@
        style="display:none"
        inkscape:label="Baseplate"
        id="layer7"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <text
          y="-8.2548828"
          xml:space="preserve"
@@ -234,7 +235,7 @@
            y="-8.2548828"
            x="19.006836"
            sodipodi:role="line"
-           id="tspan3933">apps</tspan></text>
+           id="tspan302">devices</tspan></text>
       <text
          y="-8.2548828"
          xml:space="preserve"
