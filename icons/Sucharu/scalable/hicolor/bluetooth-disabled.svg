@@ -1,0 +1,15 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="1" gradientTransform="matrix(-.66199 -42.469 42.469 -.66199 24 45.242)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#026e8b" offset="0"/>
+   <stop stop-color="#1dc2f3" offset="1"/>
+  </linearGradient>
+  <filter id="b" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.36"/>
+  </filter>
+ </defs>
+ <path d="m24 2.7578c-7.8217 0-14.161 6.3403-14.161 14.161v14.162c0 7.8208 6.3394 14.161 14.161 14.161 7.8217 0 14.161-6.3403 14.161-14.161v-14.162c0-7.8208-6.3394-14.161-14.161-14.161zm8.1865 26.45c0.31863 0.25583 0.50427 0.64281 0.50427 1.0519 0 0.40914-0.18564 0.79612-0.50427 1.0519l-8.4562 6.7781c-0.24382 0.1958-0.54214 0.29647-0.84322 0.29647-0.19857 0-0.39806-0.0434-0.5837-0.133-0.46733-0.22443-0.76472-0.69637-0.76472-1.2154v-9.68l-4.0342 3.2611c-0.24936 0.20226-0.5486 0.30016-0.84692 0.30016-0.39252 0-0.78226-0.17086-1.0492-0.50057-0.46825-0.57908-0.37774-1.4288 0.20134-1.8961l5.5922-4.5209-5.5922-4.5209c-0.57908-0.46825-0.66959-1.317-0.20134-1.8961 0.46825-0.57908 1.317-0.66866 1.8961-0.20042l4.0342 3.2602v-9.6827c0-0.51812 0.29739-0.99099 0.76472-1.2154 0.46733-0.22443 1.0224-0.1607 1.4269 0.16347l8.4562 6.779c0.31863 0.25583 0.50427 0.64281 0.50427 1.0519s-0.18564 0.79612-0.50427 1.052l-6.4964 5.2071zm-2.9998 1.0519-4.9513-3.9704v7.9399zm0-12.519-4.9513-3.9704v7.9399z" enable-background="new" fill="url(#a)" stroke-width=".92357"/>
+ <circle transform="matrix(.18966 0 0 .18966 28.388 19.507)" cx="46.863" cy="111.69" r="34" enable-background="new" filter="url(#b)" opacity=".2"/>
+ <circle transform="rotate(45)" cx="54.863" cy="2.1458" r="6.4485" enable-background="new" fill="#c7162b"/>
+ <path d="m39.959 37.092-2.6822 2.6822-2.6822-2.6822-0.53644 0.53645 2.6822 2.6822-2.6822 2.6822 0.53644 0.53645 2.6822-2.6822 2.6822 2.6822 0.53645-0.53645-2.6822-2.6822 2.6822-2.6822z" color="#000000" enable-background="new" fill="#fff" font-weight="400" overflow="visible" stroke-width="1.138" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+</svg>
