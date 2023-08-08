@@ -85,10 +85,13 @@ search_dupes() {
   NAME=$4
 
   INPUT=${VARIANT}/${GROUP}/${NAME}
+  echo $INPUT
   [[ ! -f ${INPUT} ]] && fatal "could not find input file: ${INPUT}"
   cmd="find ${VARIANT}/${SERACHGRP} -name "${NAME}""
-  # echo "$cmd"
-  $cmd #> /dev/null
+  dupes=`echo "$cmd" | wc -l > /dev/null`
+  if [[ $dupes -gt 1 ]]; then
+    $cmd >> duplicate_icons
+  fi
 }
 
 ###################################################
@@ -98,7 +101,7 @@ search_dupes() {
 # find single file
 if [[ ! -z ${_file} ]]; then
   [[ -z ${_context} ]] && fatal "No icon context found! Please provide the icon context with --context."
-  info "searching duplicates of ${_variant}/${_context}/${_file}"
+  info "Searching duplicates of ${_variant}/${_context}/${_file}"
   for context in "${contexts[@]}"; do
     search_dupes $_variant $_context $context $_file
   done
@@ -107,12 +110,15 @@ fi
 
 # find single context
 if [[ ! -z ${_context} ]]; then
-  count=$(ls ${_variant}/${_context}/*.svg | wc -l)
+  count=$(find ${_variant}/${_context} -type f | wc -l)
   let i=1
-  for file in $(ls ${_variant}/${_context}); do
-    echo "[$i/$count] searching duplicates of ${_variant}/${_context}/${file}"
+  for file in $(find ${_variant}/${_context} -type f); do
+    fname=`echo $file | cut -d "/" -f 3`
+    info "[$i/$count] Searching duplicates of ${_variant}/${_context}/${fname}"
     for context in "${contexts[@]}"; do
-      search_dupes $_variant $_context $context $file
+      if [[ $_context -ne $context ]]; then
+        search_dupes $_variant $_context $context $fname
+      fi
     done
     let i++
   done
@@ -121,16 +127,19 @@ fi
 
 # find all
 if [[ ! -z ${_all} ]]; then
-  for context in "${contexts[@]}"; do
+  for _context in "${contexts[@]}"; do
     # If the variant is not the default one, check if context exist
-    if [[ ${VARIANT} == "default" || (${VARIANT} != "default" && -d "${_variant}/${context}") ]]; then
-      info "rendering context ${context} of ${_variant} variant"
-      count=$(ls ${_variant}/${context} | wc -l)
+    if [[ ${VARIANT} == "default" || (${VARIANT} != "default" && -d "${_variant}/${_context}") ]]; then
+      info "Searching context ${_context} of ${_variant} variant"
+      count=$(find ${_variant}/${_context} -type f | wc -l)
       let i=1
-      for file in $(ls ${_variant}/${context}); do
-        info "[$i/$count] rendering ${_variant}/${context}/${file}"
+      for file in $(find ${_variant}/${_context} -type f); do
+        fname=`echo $file | cut -d "/" -f 3`
+        info "[$i/$count] Searching duplicates of ${_variant}/${context}/${fname}"
         for context in "${contexts[@]}"; do
-          search_dupes $_variant $_context $context $file
+          if [[ $_context -ne $context ]]; then
+            search_dupes $_variant $_context $context $fname
+          fi
         done
         let i++
       done
