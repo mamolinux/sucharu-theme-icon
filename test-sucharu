@@ -23,10 +23,3 @@ elif [[ $ANS == "t" ]]; then
 else
 	echo "Choice could not be accepted. Re-run the script and enter correct choice."
 fi
-
-# gsettings set org.cinnamon.desktop.interface icon-theme 'Sucharu'
-# gsettings set org.gnome.desktop.interface icon-theme 'Sucharu'
-# sleep 10
-
-# gsettings set org.cinnamon.desktop.interface icon-theme 'Sucharu-dark'
-# gsettings set org.gnome.desktop.interface icon-theme 'Sucharu-dark'
