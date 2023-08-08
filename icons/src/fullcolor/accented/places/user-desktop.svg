@@ -6,7 +6,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="user-desktop.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -31,10 +31,10 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568544"
-     inkscape:cx="295.30546"
-     inkscape:cy="236.70399"
-     inkscape:current-layer="layer2"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="348.24998"
+     inkscape:cy="181.74999"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -61,7 +61,8 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:pagecheckerboard="false"
      showborder="false"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        spacingy="1"
        spacingx="1"
@@ -104,36 +105,6 @@
          stdDeviation="2.120027"
          id="feGaussianBlur4348" />
     </filter>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath971">
-      <path
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#46a926;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-         d="m 327.8652,189 c -4.41209,0 -4.88682,0.45318 -4.8652,4.87419 V 200 206.12581 C 322.9783,210.54682 323.45311,211 327.8652,211 h 8.2696 C 340.54689,211 341,210.54688 341,206.12581 V 200 193.87419 C 341,189.45313 340.54688,189 336.13479,189 Z"
-         id="path973"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="scccssscsss" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath983">
-      <path
-         sodipodi:nodetypes="scccssscsss"
-         inkscape:connector-curvature="0"
-         id="path985"
-         d="m 325.09646,237 c -2.80769,0 -3.10979,0.28839 -3.09603,3.10176 V 244 v 3.89824 c -0.0138,2.81337 0.28834,3.10176 3.09603,3.10176 h 5.8075 C 333.71166,251 334,250.71165 334,247.89824 V 244 240.10176 C 334,237.28836 333.71165,237 330.90396,237 Z"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#46a926;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath959">
-      <path
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#46a926;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-         d="m 330.1929,133.99999 c -5.61538,0 -6.21958,0.57678 -6.19206,6.20352 v 7.79648 7.79648 c -0.0276,5.62673 0.57668,6.20351 6.19206,6.20351 h 11.615 c 5.6154,0 6.19208,-0.5767 6.19208,-6.20351 v -7.79648 -7.79648 c 0,-5.6268 -0.5767,-6.20352 -6.19208,-6.20352 z"
-         id="path961"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="scccssscsss" />
-    </clipPath>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient927-3-6">
@@ -176,49 +147,6 @@
          stdDeviation="4.160054"
          id="feGaussianBlur967" />
     </filter>
-    <linearGradient
-       id="a"
-       x1="0.52932"
-       x2="16.403999"
-       y1="7.9903002"
-       y2="7.9903002"
-       gradientTransform="matrix(1,0,0,1.1111,-1.6649e-4,-0.94068)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#12a327"
-         offset="0"
-         id="stop2" />
-      <stop
-         stop-color="#28bd3d"
-         offset=".066667"
-         id="stop4" />
-      <stop
-         stop-color="#28bd3d"
-         offset=".93389"
-         id="stop6" />
-      <stop
-         stop-color="#12a327"
-         offset="1"
-         id="stop8" />
-    </linearGradient>
-    <linearGradient
-       id="b"
-       x1="-9.6169996"
-       x2="-9.6169996"
-       y1="1138.4"
-       y2="1140.2"
-       gradientTransform="matrix(0.18168,0,0,0.40956,9.201,-451.88)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#12a327"
-         stop-opacity="0"
-         offset="0"
-         id="stop11" />
-      <stop
-         stop-color="#12a327"
-         offset="1"
-         id="stop13" />
-    </linearGradient>
     <linearGradient
        id="e"
        x1="0.52932"
@@ -495,12 +423,12 @@
          inkscape:export-ydpi="95.996666" />
       <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-         id="rect3951"
+         id="rect256x256"
          width="256"
          height="256"
          x="24"
          y="28"
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          inkscape:export-xdpi="95.996666"
          inkscape:export-ydpi="95.996666" />
     </g>
