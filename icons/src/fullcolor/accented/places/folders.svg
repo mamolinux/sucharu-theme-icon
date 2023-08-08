@@ -3,8 +3,8 @@
    version="1.1"
    viewBox="0 0 400 300"
    id="svg2"
-   sodipodi:docname="folder-open.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="folders.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -2063,18 +2063,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.7936943"
-     inkscape:cx="1465.9689"
-     inkscape:cy="834.59038"
+     inkscape:zoom="0.6341667"
+     inkscape:cx="1027.3324"
+     inkscape:cy="618.92244"
      inkscape:window-width="1920"
      inkscape:window-height="1020"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer11"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
-     inkscape:snap-bbox-midpoints="true" />
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <g
      inkscape:groupmode="layer"
      id="layer10"
@@ -2142,7 +2144,7 @@
          y="781.93042"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="749.93048"
          x="1224.0004"
          height="256"
@@ -2776,7 +2778,7 @@
          y="781.93042"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="749.93048"
          x="824.00043"
          height="256"
@@ -3382,7 +3384,7 @@
          y="781.93042"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="749.93048"
          x="424.0004"
          height="256"
@@ -4047,7 +4049,7 @@
          y="781.93042"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="749.93048"
          x="24.000391"
          height="256"
@@ -4582,7 +4584,7 @@
          y="421.93045"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="389.93051"
          x="1224.0004"
          height="256"
@@ -5112,7 +5114,7 @@
          y="421.93045"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="389.93051"
          x="824.00043"
          height="256"
@@ -5642,7 +5644,7 @@
          y="421.93045"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="389.93051"
          x="424.0004"
          height="256"
@@ -6108,7 +6110,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer38"
-     inkscape:label="folder-music">
+     inkscape:label="folder-music"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer39"
@@ -6171,7 +6174,7 @@
          y="421.93045"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="389.93051"
          x="24.000391"
          height="256"
@@ -6701,7 +6704,7 @@
          y="61.930439"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="29.93051"
          x="1224.0004"
          height="256"
@@ -7167,7 +7170,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer46"
-     inkscape:label="folder-documents">
+     inkscape:label="folder-documents"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer47"
@@ -7230,7 +7234,7 @@
          y="61.930439"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="29.93051"
          x="824.00043"
          height="256"
@@ -7860,7 +7864,7 @@
          y="61.930439"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="29.93051"
          x="424.0004"
          height="256"
@@ -8338,7 +8342,8 @@
        inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="Baseplate"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <text
          id="text2019"
          inkscape:label="context"
@@ -8396,7 +8401,7 @@
          y="61.930439"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="29.93051"
          x="24.000391"
          height="256"
@@ -8835,7 +8840,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="folder-open">
+     inkscape:label="folder-open"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer4"
@@ -8899,12 +8905,12 @@
          y="-300.00433"
          inkscape:label="48x48" />
       <rect
-         inkscape:label="48x48"
+         inkscape:label="256x256"
          y="-332.00473"
          x="24.000635"
          height="256.0032"
          width="256.0032"
-         id="rect13264"
+         id="rect256x256"
          style="display:inline;overflow:visible;visibility:visible;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.00003;marker:none;enable-background:accumulate" />
     </g>
     <g
