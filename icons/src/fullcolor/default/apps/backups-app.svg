@@ -6,7 +6,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="backups-app.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -39,8 +39,8 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1904"
-     inkscape:window-height="1011"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      inkscape:window-x="0"
      inkscape:window-y="32"
      width="400px"
@@ -980,12 +980,12 @@
          style="display:inline;overflow:visible;visibility:visible;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
       <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-         id="rect3951"
+         id="rect256x256"
          width="256"
          height="256"
          x="24"
          y="28"
-         inkscape:label="48x48" />
+         inkscape:label="256x256" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1743,9 +1743,5 @@
            d="m 628.1895,492.36219 c -4.65906,8.06973 -106.87137,8.17274 -116.1895,8.17274 -9.31812,0 -111.53044,-0.10301 -116.1895,-8.17274 -4.65906,-8.06973 46.35789,-96.63969 51.01695,-104.70942 4.65906,-8.06974 55.85442,-96.5367 65.17255,-96.5367 9.31813,0 60.51348,88.46696 65.17255,96.53669 4.65906,8.06974 55.67601,96.6397 51.01695,104.70943 z" />
       </g>
     </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer4"
-       inkscape:label="Highlights" />
   </g>
 </svg>
