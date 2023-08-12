@@ -1,3 +1,105 @@
+sucharu-theme-icon (0.1.3) stable; urgency=medium
+
+  * Update scalable bluetooth icons (#65)
+    - update SVGs
+    - Update symlink lists
+  * Update fullcolor bluetooth icon (#66)
+  * Update rendered icons (#67)
+    - Update fullcolor icons
+    - Update scalable icons
+    - Update symlinks
+  * Update helper scripts (#68)
+  * Update fullcolor templates (#69)
+    - Fix rectangles for 256px icons
+  * Update fullcolor accented icons (#70)
+    - Fix baseplate rectangles
+  * Update fullcolor actions icons (#71)
+    - Clean up unused defs
+    - Fix baseplate layer
+  * Update fullcolor apps icons with new icons (#72)
+    - calendar-app
+    - calls-app
+    - clock-app
+    - configurator-app
+    - disk-usage-app
+    - disk-utility-app
+    - evince
+    - file-roller
+    - gallery-app
+    - games-app
+    - gparted
+    - image-viewer
+    - libreoffice-base
+    - libreoffice-calc
+    - libreoffice-draw
+    - libreoffice-impress
+    - libreoffice-main
+    - libreoffice-math
+    - libreoffice-startcenter
+    - libreoffice-writer
+    - log-viewer-app
+    - maps-app
+    - mediaplayer-app
+    - scanner
+    - screenshot-app
+    - session-properties
+    - software-store
+    - wine
+    - winetricks
+    - workspace-switcher-left-bottom
+    - workspace-switcher-left-top
+    - workspace-switcher-right-bottom
+    - workspace-switcher-right-top
+  * Update fullcolor apps icons (#73)
+    - Update template and inkscape version
+  * Add new fullcolor apps icons (#74)
+    - session-properties.svg
+    - Add new app icon ubiquity-mamolinux.svg
+    - address-book-app.svg
+    - documents-app.svg
+    - docviewer-app.svg
+    - ebook-reader-app.svg
+    - filemanager-app.svg
+    - gnome-aisleriot.svg
+    - gnome-mahjongg.svg
+    - gnome-mines.svg
+    - jockey.svg
+    - messaging-app.svg
+    - music-app.svg
+    - notes-app.svg
+    - org.gnome.SoundRecorder.svg
+    - org.gnome.TextEditor.svg
+    - power-statistics.svg
+    - quadrapassel.svg
+    - rhythmbox.svg
+    - root-terminal-app.svg
+    - shotwell.svg
+    - sudoku-app.svg
+    - synaptic.svg
+    - system-monitor-app.svg
+    - to-do-app.svg
+    - transmission.svg
+    - tweaks-app.svg
+    - ubiquity.svg
+    - usage-app.svg
+    - usb-creator-gtk.svg
+    - weather-app.svg
+    - winetricks.svg
+  * Update scalable hicolor icons (#75)
+    - Update file-manager.svg
+    - rename workspace-switcher-left-top.svg
+  * Update scalable hicolor symlink list (#76)
+  * Add scalable template and update helper scripts (#77)
+    - Add template for scalable hicolor icons
+    - Update build scripts
+    - Add script to find symlinks replacing icons
+  * Update rendered icons (#78)
+    - Update accented fullcolor icons
+    - Update fullcolor apps icons
+    - Update scalable hicolor icons
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Sat, 12 Aug 2023 19:57:10 +0530
+
 sucharu-theme-icon (0.1.2) stable; urgency=medium
 
   * Remove duplicate scalable icons (#51)
