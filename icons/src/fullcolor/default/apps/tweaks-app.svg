@@ -6,7 +6,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="tweaks-app.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -31,18 +31,18 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="355.18858"
-     inkscape:cy="262.38081"
+     inkscape:zoom="1.9999999"
+     inkscape:cx="348.50001"
+     inkscape:cy="84.000004"
      inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1020"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="32"
      width="400px"
      height="300px"
      inkscape:snap-nodes="true"
@@ -61,7 +61,8 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:pagecheckerboard="false"
      showborder="false"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        spacingy="1"
        spacingx="1"
@@ -92,16 +93,52 @@
   <defs
      id="defs3">
     <linearGradient
+       id="linearGradient1522"
+       inkscape:collect="always">
+      <stop
+         id="stop1518"
+         offset="0"
+         style="stop-color:#08991d;stop-opacity:1;" />
+      <stop
+         id="stop1520"
+         offset="1"
+         style="stop-color:#12a327;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1516"
+       inkscape:collect="always">
+      <stop
+         id="stop1512"
+         offset="0"
+         style="stop-color:#08991d;stop-opacity:1;" />
+      <stop
+         id="stop1514"
+         offset="1"
+         style="stop-color:#12a327;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1510"
+       inkscape:collect="always">
+      <stop
+         id="stop1506"
+         offset="0"
+         style="stop-color:#08991d;stop-opacity:1;" />
+      <stop
+         id="stop1508"
+         offset="1"
+         style="stop-color:#12a327;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient1180"
        inkscape:collect="always">
       <stop
          id="stop1176"
          offset="0"
-         style="stop-color:#df4a16;stop-opacity:1" />
+         style="stop-color:#08991d;stop-opacity:1;" />
       <stop
          id="stop1178"
          offset="1"
-         style="stop-color:#e95420;stop-opacity:1" />
+         style="stop-color:#12a327;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -123,7 +160,7 @@
          offset="0"
          id="stop7018" />
       <stop
-         style="stop-color:#e95420;stop-opacity:1"
+         style="stop-color:#12a327;stop-opacity:1;"
          offset="1"
          id="stop7020" />
     </linearGradient>
@@ -328,7 +365,7 @@
     </filter>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1180"
+       xlink:href="#linearGradient1510"
        id="linearGradient5116"
        x1="338"
        y1="68"
@@ -337,7 +374,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1180"
+       xlink:href="#linearGradient1516"
        id="linearGradient5257"
        x1="333"
        y1="138"
@@ -346,7 +383,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1180"
+       xlink:href="#linearGradient1522"
        id="linearGradient5279"
        x1="330"
        y1="192"
@@ -462,12 +499,12 @@
          style="display:inline;overflow:visible;visibility:visible;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
       <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-         id="rect3951"
+         id="rect256x256"
          width="256"
          height="256"
          x="24"
          y="28"
-         inkscape:label="48x48" />
+         inkscape:label="256x256" />
     </g>
     <g
        inkscape:groupmode="layer"
