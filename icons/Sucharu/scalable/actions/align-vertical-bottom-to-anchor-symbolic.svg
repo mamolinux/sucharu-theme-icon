@@ -1,0 +1,7 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#bebebe" stroke-width="3.7796">
+  <path d="m16 11h-1v4.4999c0 0.277-0.223 0.5-0.5 0.5h-3.9999c-0.277 0-0.5-0.223-0.5-0.5v-4.4999h-10v-2h2v-8.5002c0-0.277 0.22296-0.5 0.5-0.5h3.9999c0.27704 0 0.5 0.223 0.5 0.5v8.5002h1v-5.5c0-0.277 0.223-0.5 0.5-0.5h3.9999c0.27704 0 0.5 0.223 0.5 0.5v5.5h3zm-2 3.9999v-3.9999h-3v3.9999zm-2-6v-5h-3v5zm-6 0v-8.0002h-3v8.0002z" style="paint-order:normal"/>
+  <path d="m12 10h-3v-6h3zm-6 0h-3v-8.9999h3z" fill-opacity=".93141" opacity=".1"/>
+  <rect x="11" y="10" width="3" height="5" rx="0" ry="0" fill-opacity=".93141" opacity=".3" style="paint-order:normal"/>
+ </g>
+</svg>
