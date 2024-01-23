@@ -23,3 +23,9 @@ elif [[ $ANS == "t" ]]; then
 else
 	echo "Choice could not be accepted. Re-run the script and enter correct choice."
 fi
+
+echo "Remove meson build directory (\"builddir\")?"
+read ans
+if [ "$ans" = "Yes" ] || [ "$ans" = "yes" ] || [ "$ans" = "Y" ] || [ "$ans" = "y" ]; then
+	rm -rf builddir
+fi
