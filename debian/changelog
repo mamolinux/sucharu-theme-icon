@@ -1,3 +1,76 @@
+sucharu-theme-icon (0.1.4) jammy; urgency=medium
+
+  * Update scalable action icons (#79)
+    - Added: add-files-to-archive-symbolic
+      align-horizontal-center-symbolic
+      align-horizontal-left-symbolic
+      align-horizontal-left-to-anchor-symbolic
+      align-horizontal-right-symbolic
+      align-horizontal-right-to-anchor-symbolic
+      align-vertical-bottom-symbolic
+      align-vertical-bottom-to-anchor-symbolic
+      align-vertical-center-symbolic
+      align-vertical-top-symbolic
+      align-vertical-top-to-anchor-symbolic
+    - Modified: address-book-new-symbolic
+      appointment-symbolic
+      archive-symbolic
+      browser-download-symbolic
+      color-select-symbolic
+      detach-symbolic
+      document-export-symbolic
+      document-import-symbolic
+      document-print-preview-symbolic
+      edit-cut-symbolic
+      edit-select-all-symbolic
+      events-merge-symbolic
+      favorite-new-symbolic
+      find-location-symbolic
+      format-text-remove-formatting-symbolic
+      format-text-remove-symbolic
+      format-text-rich-symbolic
+      globe-symbolic
+      help-about-symbolic
+      insert-emoticon-symbolic
+      insert-link-symbolic
+      link-symbolic
+      list-remove-all-symbolic
+      mail-drafts-symbolic-rtl
+      mail-drafts-symbolic
+      mail-mark-junk-symbolic
+      mail-mark-notjunk-symbolic
+      mail-message-new-symbolic
+      mail-send-symbolic-rtl
+      process-stop-symbolic
+      scan-type-adf-symbolic
+      sidebar-show-right-symbolic
+      start-here-ubuntu-symbolic
+      system-reboot-symbolic
+      tag-symbolic-rtl
+      tag-symbolic
+      tools-check-spelling-symbolic
+      view-grid-symbolic
+      view-refresh-symbolic
+      view-ringschart-symbolic
+      window-symbolic
+    - Add scalable icons template
+  * Update readme with version 0.1.3 (#80)
+  * Fix sources for bluetooth icon in tray (#81)
+    - Update fullcolor icons
+    - Update scalable hicolor icons
+    - Update symlinks for blueman
+  * Update rendered icons (#82)
+    - Update fullcolor actions and status icons
+    - Update scalable actions and hicolor icons
+  * Update build scripts (#83)
+    - Update test script
+    - Add script to update icon cache
+  * Update copyright and meson script (#84)
+    - Replace deprecated methods in meson
+    - Update source and year in copyright
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Fri, 31 May 2024 16:06:38 +0530
+
 sucharu-theme-icon (0.1.3) stable; urgency=medium
 
   * Update scalable bluetooth icons (#65)
