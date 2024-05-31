@@ -249,7 +249,7 @@ foreach flavour: icon_flavors
       excluded_files += symlinks
     endif
 
-    install_subdir(icon_dir,
+    install_emptydir(icon_dir,
       install_dir: theme_install_dir,
       strip_directory: true,
       exclude_files: excluded_files,
