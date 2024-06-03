@@ -356,7 +356,7 @@ foreach flavour: icon_flavors
         '-mindepth', '2',
         '-maxdepth', '2',
         '-printf', '%P\\n',
-        check: true
+        check: false
       ).stdout().strip()
       dark_categories = dark_categories != '' ? dark_categories.split('\n') : []
 
