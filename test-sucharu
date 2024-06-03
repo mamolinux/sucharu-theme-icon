@@ -18,8 +18,8 @@ if [[ $ANS == "b" ]]; then
 	fi
 elif [[ $ANS == "t" ]]; then
 	rm -rf ~/.local/share/icons/Sucharu*
-	meson compile -C builddir
-	meson install -C builddir
+	meson compile -C builddir --verbose
+	meson install -C builddir #--dry-run
 else
 	echo "Choice could not be accepted. Re-run the script and enter correct choice."
 fi
