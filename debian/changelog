@@ -1,3 +1,40 @@
+sucharu-theme-icon (0.1.5) noble; urgency=medium
+
+  * Update meson and test scripts (#86)
+    - Rebase meson build scripts from yaru
+    - Update test script
+  * Update fullcolor mimetypes icons (#87)
+    - application-apk
+    - application-pdf
+    - text-markdown
+  * Update scalable devices icons (#88)
+    - Move icons from fullcolor devices to scalable
+      devices
+    - Remove audio-subwoofer-testing from fullcolor
+      devices
+  * Update fullcolor devices icons (#89)
+    - audio-headphones
+    - audio-headset
+    - audio-speakers
+    - audio-subwoofer
+    - computer
+    - drive-harddisk-ieee1394
+    - drive-harddisk
+    - drive-multidisk
+    - drive-optical
+    - printer
+  * Fix meson build script (#90)
+    - Update meson build script to fix build
+      failure for dark icons. Since there is
+      no dark icons, meson build was failing
+      while checking for dark icons.
+  * Update rendered icons (#91)
+    - Update fullcolor devices icons
+    - Update fullcolor mimetypes icons
+    - Update scalable devices icons
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Mon, 03 Jun 2024 14:47:58 +0530
+
 sucharu-theme-icon (0.1.4) jammy; urgency=medium
 
   * Update scalable action icons (#79)
