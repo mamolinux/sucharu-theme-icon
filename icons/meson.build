@@ -43,8 +43,8 @@ endif
 render_wrappers = xvfb_run.found() ? [xvfb_run, '-a', '--'] : []
 render_wrappers += dbus_run_session.found() ? [dbus_run_session, '--'] : []
 
+message('All flavours: @0@\n'.format(flavours))
 foreach flavour: icon_flavors
-  message('\n')
   message('Working on: ' + flavour)
   
   is_dark = flavour == 'dark'
@@ -86,8 +86,8 @@ foreach flavour: icon_flavors
     endif
 
     if is_accent
-      colors_definitions = gtk_sucharu_colors_defs['@0@-gtk-@1@'.format(
-        icon_dir, accent_color_gtk_version_reference)]
+      colors_definitions = gtk_sucharu_colors_defs['@0@'.format(
+        icon_dir)]
 
       foreach accent_svg: source_svgs
         category = fs.name(fs.parent(accent_svg))
@@ -468,6 +468,7 @@ foreach flavour: icon_flavors
       suite: ['tools', 'generate-symlinks'],
       workdir: fs.parent(generate_symlinks.full_path()))
   endif
+  message(flavour + ' completed.\n')
 endforeach
 
 alias_target('render-icons', render_targets)

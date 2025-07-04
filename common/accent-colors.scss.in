@@ -1,3 +1,5 @@
+@import 'sass-utils';
+
 @function get_accent_color($accent_color, $is_dark: false) {
     $color: null;
     @if $accent_color == 'default' {
@@ -11,13 +13,13 @@
     } @else if $accent_color == 'grey' {
         $color: #9d9d9d;
     } @else if $accent_color == 'orange' {
-        $color: #E95420;
+        $color: #e95420;
     } @else if $accent_color == 'pink' {
         $color: #c76199;
     } @else if $accent_color == 'purple' {
         $color: #8c6ec9;
     } @else if $accent_color == 'red' {
-        $color: #DA3450;
+        $color: #da3450;
     } @else if $accent_color == 'sand' {
         $color: #c8ac69;
     } @else if $accent_color == 'teal' {
@@ -30,10 +32,22 @@
 }
 
 $sucharu_is_dark_variant: @sucharu_dark_variant@;
-$sucharu_is_darker: @sucharu_darker@;
+$jet: #181818;
+$sucharu_bg_color: if($sucharu_is_dark_variant, #FAFAFA, lighten($jet, 8%));
 $sucharu_accent_bg_color: get_accent_color('@sucharu_accent_color@', $sucharu_is_dark_variant);
-$accent_bg_color: $sucharu_accent_bg_color;
-$accent_color: $sucharu_accent_bg_color;
+
+$contrast_target: if($sucharu_is_dark_variant, 4.5, 4.8);
+$sucharu_accent_color: optimize-contrast($sucharu_bg_color,
+    $sucharu_accent_bg_color, $target: $contrast_target);
+
 @debug("Accent color is " + $sucharu_accent_bg_color);
+@debug("Contrast optimized accent is " + $sucharu_accent_color);
+
+$accent_bg_color: $sucharu_accent_bg_color;
+$accent_fg_color: white;
+$accent_color: $sucharu_accent_color;
+
+$sucharu_accent_bg_color: optimize-contrast($accent_fg_color,
+    $sucharu_accent_bg_color, $target: $contrast_target);
 
 @import '@sucharu_theme_entry_point@'
