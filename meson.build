@@ -1,6 +1,6 @@
 project('Sucharu',
         version: '0.1.5',
-        meson_version: '>= 0.60',
+        meson_version: '>= 1.3.0',
         license : ['GPL3', 'CC BY-SA 4.0'],
         default_options: ['prefix=/usr'])
 
@@ -26,7 +26,7 @@ foreach component: components
     continue
   endif
 
-  message('build component ' + component)
+  message('\n\tBuilding component ' + component)
   subdir(component)
 
 endforeach

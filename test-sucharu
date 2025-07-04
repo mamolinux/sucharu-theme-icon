@@ -17,7 +17,7 @@ if [[ $ANS == "b" ]]; then
 		ninja -C builddir render-icons-$ANS
 	fi
 elif [[ $ANS == "t" ]]; then
-	rm -rf ~/.local/share/icons/Sucharu*
+	rm -rf $HOME/.local/share/icons/Sucharu*
 	meson compile -C builddir --verbose
 	meson install -C builddir #--dry-run
 else
